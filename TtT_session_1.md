@@ -143,8 +143,7 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 ###How learning works: research-based principles of learning and their implications for teaching practice
 
 ---
-<<<<<<< HEAD
-=======
+
 >###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
 
 > - Read about it
