@@ -96,7 +96,7 @@ assessment process in the course.
 
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
-####Learning outcomes should be SMART
+####Learning outcomes should be SMART
 ||||
 |---------------------|---------------|--------------|
 |Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
