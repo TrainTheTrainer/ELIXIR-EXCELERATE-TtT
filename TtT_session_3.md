@@ -38,6 +38,8 @@ The working environment for learners should be entirely reproducible. First, ins
 <a name="mat1"></a>
 ### Training materials: designing, producing, delivering;
 
+You may find some inspiration in:
+ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
 
 
 <a name="mat2"></a>
