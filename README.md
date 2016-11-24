@@ -61,14 +61,14 @@ Monday, 28th          |
 14.30 - 17.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
 17.00 - 19.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 Tuesday, 29th         |
-9.00 - 13.00          | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+09.00 - 13.00          | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 13.00 - 14.00         | Lunch
 14.00 - 18.00         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 19.30 - 21.30         | Dinner with feedback and discussions
 17.30 - 18.00         | Wrap-up and assignments
 Wednesday, 30th       |
-9.00 - 15.30          | Linux command line short course
-5.30 - 17.00          | TtT feedback, wrap-up, and assignment
+09.00 - 15.30          | Linux command line short course
+15.30 - 17.00          | TtT feedback, wrap-up, and assignment
  
 ### Session 1: Review of learning principles and how they apply to training
 
