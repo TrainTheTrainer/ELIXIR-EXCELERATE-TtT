@@ -59,15 +59,13 @@ The following day (Wednesday, 30th November) TtT participants will act as observ
 Monday, 28th          |
 13.30 - 14.30         | Meeting at lunch: Introductions, who is who and what we need to achieve
 14.30 - 17.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-17.00 - 19.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and 
-
+17.00 - 19.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 Tuesday, 29th         |
 9.00 - 13.00          | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 13.00 - 14.00         | Lunch
 14.00 - 18.00         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 19.30 - 21.30         | Dinner with feedback and discussions
 17.30 - 18.00         | Wrap-up and assignments
-
 Wednesday, 30th
 9.00 - 15.30          | Linux command line short course
 5.30 - 17.00          | TtT feedback, wrap-up, and assignment
