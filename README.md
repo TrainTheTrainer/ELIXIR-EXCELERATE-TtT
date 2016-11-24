@@ -3,7 +3,9 @@
 #4th Pilot Course: Faculty of Medicine, Ljubljana, Slovenia
 
 **Allegra Via**, ELIXIR-IT, CNR
+
 **Pedro Fernandes**, ELIXIR-PT, GTPB
+
 **Jure Dimec**, ELIXIR-SI
 
 
@@ -16,17 +18,16 @@
 ##
 
 **Purpose**
-ELIXIR-SI, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" session. 
+ELIXIR-SI, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
 
-
-The learning objectives of the course consist of exploring, discussing and understanding four main themes: 
+The learning objectives of the first two days of the course (Mon, 28th and Tue, 29th) consist of exploring, discussing and understanding four main themes: 
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
 * [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
 * [Session, course, and materials design] (./TtT_session_3.md)
 * [Assessment and feedback in training] (./TtT_session_4.md)
 
-The following day (Wednesday, 30th November) TtT participants will be able to act as observers and training assistants, and will attend an end-of-the-day recapitulation meeting where the effectiveness of the methods is assessed and discussed. They will be asked to prepare reports as assignments, to be returned in the two weeks after the course.
+The following day (Wednesday, 30th November) TtT participants will act as observers and training assistants in a Linux session, and will attend an end-of-the-day recapitulation meeting where the effectiveness of the methods is assessed and discussed. They will be asked to prepare a report as assignments, to be returned in the two weeks after the course.
 
 > ### Learning outcomes
 > * Learners can tell which learning principles a good trainer should have in mind
@@ -51,23 +52,7 @@ The following day (Wednesday, 30th November) TtT participants will be able to ac
 ###https://youtu.be/GiPe1OiKQuk
 ---
 
-# Sunday, July 10th
-
-Course programme:
-
-
-
-   Monday, Nov. 28:
-       13.30: meeting at lunch
-       14.30 - 17.00: 1st and 2nd TtT course sessions,
-   Tuesday, Nov. 29:
-       9.00 - 13.00: 3rd and 4th TtT course sessions,
-       13.00 - 14.00: lunch
-       14.00 - 18.00: TtT practical work
-       19.30 - 21.30: dinner with feedback and discussions
-   Wednesday, Nov. 30:
-       9.00 - 15.30: Linux command line short course
-       15.30 - 17.00: TtT feedback and wrap-up
+# Course Programme
 
  Time | Activity
 :-------------:|:----------------:
