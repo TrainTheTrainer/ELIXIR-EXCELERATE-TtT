@@ -41,9 +41,9 @@ The following day (Wednesday, 30th November) TtT participants will act as observ
 > There are known knowns.<br>
 > There are things we know we know.<br>
 > We also know<br>
-> THere are known unknowns.<br>
+> There are known unknowns.<br>
 > That is to say<br>
-> We know there are some thingse do not know.<br>
+> We know there are some things we do not know.<br>
 > But there are also unknown unknowns,<br>
 > The ones we don't know we don't know.<br>
 ><br>
