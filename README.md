@@ -67,8 +67,8 @@ Tuesday, 29th         |
 19.30 - 21.30         | Dinner with feedback and discussions
 17.30 - 18.00         | Wrap-up and assignments
 Wednesday, 30th       |
-09.00 - 15.30          | Linux command line short course
-15.30 - 17.00          | TtT feedback, wrap-up, and assignment
+09.00 - 13.30          | Linux command line short course
+12.30 - 18.00          | TtT feedback, wrap-up, and assignment
  
 ### Session 1: Review of learning principles and how they apply to training
 
