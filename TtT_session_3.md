@@ -32,7 +32,7 @@ In some subjects, network connections providing simple browing (Port 80) or SSH 
 
 Presently, playing with relatively demanding software in local machines is still needed. You may need to play with assemblers and mappers for NGS data, for example. For that, well configured workstations (enhaced  PCs) are still the best choice. Foreseeably virtualised environments on performant hardware will end-up reducing  this need to the level of lightweight terminal equipment, but we are still on the way to get such facilities in place with adequate quality.
 
-The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same  environment when they go home after a training event. Again, virtualised environments can be a solution. However, the training roo physical facilities will not travel, so one must think about what will and will not work in a home or a lab environment and at least explain what can be done.
+The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same  environment when they go home after a training event. Again, virtualised environments can be a solution. However, the training room physical facilities will not travel, so one must think about what will and will not work in a home or a lab environment and at least explain what can be done.
 
 
 <a name="mat1"></a>
@@ -40,6 +40,8 @@ The working environment for learners should be entirely reproducible. First, ins
 
 You may find some inspiration in:
 ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
+
+
 
 
 <a name="mat2"></a>
@@ -55,7 +57,7 @@ A general policy for re-use is not yet in place. However, with sharing principle
 
 The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
 
-Many people involved inthe production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is deveoped and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
+Many people involved in the production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
 
 Examples from GTPB:
 
@@ -63,6 +65,14 @@ Examples from GTPB:
 * http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
 * https://github.com/sdwfrost/mevr        (repository) 
 * http://sdwfrost.github.io/mevr/         (gitbook) 
+
+Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are againing popularity.
+
+"Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
+
+Please have a look at this example:
+http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb
+
 
 <a name="preparatory"></a>
 ### Preparatory steps for training delivery
