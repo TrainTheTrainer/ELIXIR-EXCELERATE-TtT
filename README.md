@@ -2,7 +2,7 @@
 
 #4th Pilot Course: Faculty of Medicine, Ljubljana, Slovenia
 
-**Instructors**
+**Instructors:**
 
 **Allegra Via**, ELIXIR-IT, CNR, Istituto Italiano di Bioinformatica, Roma, IT
 
@@ -12,7 +12,7 @@
 
 ##
 
-**Participants**
+**Participants:**
 
 **Victoria Dominguez del Angel**, Institut Français de Bioinformatique, Gif-sur-Yvette, FR
 
