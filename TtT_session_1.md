@@ -145,13 +145,14 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 ---
 
 >###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
-<--!
+<!--
 > - Read about it
 > - Attend a training session !
 > - Have a go ?
 > - Do, reflect, process, further understand?
 >
 --> 
+
 > Which is the most effective approach for *you* to learn? Make a list of three approaches that work for you when you want to learn something new (from the most to the less effective one). Discuss it with your partner and compare. 
 >
 --- 
