@@ -18,13 +18,13 @@
 
 **Sarah Bonnin**, CRG, Barcelona, ES, ELIXIR-ES
 
-**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI, ELIXIR.SI
+**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI, ELIXIR-SI
 
 **Marian Novotný**, Faculty of Science, Charles University, Prague, CZ, ELIXIR-CZ
 
 **Rasmus Heller**, University of Copenhagen, Copenhagen, DK, ELIXIR-DK
 
-**Nada Kraševec**, KI, ELIXIR-SI
+**Nada Kraševec**, Institute for Chemistry, Ljubljana, SI, ELIXIR-SI
 
 **Ajda Moškrič**, ELIXIR-SI
 
