@@ -2,12 +2,13 @@
 
 #4th Pilot Course: Faculty of Medicine, Ljubljana, Slovenia
 
-**Allegra Via**, ELIXIR-IT, CNR
+**Instructors**
 
-**Pedro Fernandes**, ELIXIR-PT, GTPB
+**Allegra Via**, ELIXIR-IT, CNR, Istituto Italiano di Bioinformatica, Roma, IT
 
-**Jure Dimec**, ELIXIR-SI
+**Pedro Fernandes**, ELIXIR-PT, GTPB, Instituto Gulnemkian de Ciência, Oeiras, PT
 
+**Jure Dimec**, ELIXIR-SI, Faculty of Medicine, University of Ljubljana, LjublJana, SI
 
 ##
 
