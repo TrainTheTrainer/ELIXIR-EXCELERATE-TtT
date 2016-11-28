@@ -1,6 +1,6 @@
 # EXCELERATE-TtT
 
-#4th Pilot Course: Faculty of Medicine, Ljubljana, Slovenia
+#4th Pilot Course at the Faculty of Medicine, Ljubljana, Slovenia
 
 **Instructors:**
 
@@ -26,7 +26,8 @@
 
 ##
 
-**Purpose**
+**Purpose:**
+
 ELIXIR-SI, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
 
 The learning objectives of the first two days of the course (Mon, 28th and Tue, 29th) consist of exploring, discussing and understanding four main themes: 
