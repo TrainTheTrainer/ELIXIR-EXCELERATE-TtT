@@ -12,8 +12,16 @@
 ##
 
 **Participants**
-* 
-* 
+
+**Victoria Dominguez del Angel**, Institut Français de Bioinformatique, Gif-sur-Yvette, FR
+
+**Sarah Bonnin**, CRG, Barcelona, ES
+
+**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI
+
+**Marian Novotný**, Faculty of Medicine, University of Ljubljana, LjublJana, SI
+
+**Rasmus Heller**, University of Copenhagen, Copenhagen, DK
 
 ##
 
