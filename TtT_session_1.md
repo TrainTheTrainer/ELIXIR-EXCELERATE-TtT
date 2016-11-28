@@ -144,7 +144,7 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 
 ---
 
->###Challenge 4: How do you go about learning something new ? How do you approach learning new things?
+>###Challenge: How do you go about learning something new ? How do you approach learning new things?
 <!--
 > - Read about it
 > - Attend a training session !
