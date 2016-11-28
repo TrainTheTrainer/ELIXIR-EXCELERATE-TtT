@@ -39,20 +39,21 @@ The learning objectives of the first two days of the course (Mon, 28th and Tue, 
 
 The following day (Wednesday, 30th November) TtT participants will act as observers and training assistants in a Linux session, and will attend an end-of-the-day recapitulation meeting where the effectiveness of the methods is assessed and discussed. They will be asked to prepare a report as assignments, to be returned in the two weeks after the course.
 
-> ### Learning Objectives:
-> * To get acquainted with Learning principles and how they apply to training
-> * To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
-> * To learn about session, course, and materials design
-> * To learn how to use assessment and feedback in training
+### Learning Objectives:  
+ * To get acquainted with Learning principles and how they apply to training
+ * To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
+ * To learn about session, course, and materials design
+ * To learn how to use assessment and feedback in training
 
-> ### Learning outcomes
-> * Learners can tell which learning principles a good trainer should have in mind
-> * Learners can describe at least three training techniques drawing on learning principles
-> * Learners can design a training session and a course
-> * Learners can develop assessment questionnaires
-> * Learners can tell what types of material are needed for each part of a training session 
+### Learning Outcomes:
+ * Learners can tell which learning principles a good trainer should have in mind
+ * Learners can describe at least three training techniques drawing on learning principles
+ * Learners can design a training session and a course
+ * Learners can develop assessment questionnaires
+ * Learners can tell what types of material are needed for each part of a training session 
 
 ---
+### On knowledge, by Donald Rumsfeld:
 > As we know,<br>
 > There are known knowns.<br>
 > There are things we know we know.<br>
@@ -63,7 +64,7 @@ The following day (Wednesday, 30th November) TtT participants will act as observ
 > But there are also unknown unknowns,<br>
 > The ones we don't know we don't know.<br>
 ><br>
->                            Donald Rumsfeld
+
 >
 ###https://youtu.be/GiPe1OiKQuk
 ---
