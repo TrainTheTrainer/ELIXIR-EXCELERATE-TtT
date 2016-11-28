@@ -20,9 +20,16 @@
 
 **Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI
 
-**Marian Novotný**, Faculty of Medicine, University of Ljubljana, LjublJana, SI
+**Marian Novotný**, Faculty of Science, Charles University, Prague, CZ, ELIXIR-CZ
 
-**Rasmus Heller**, University of Copenhagen, Copenhagen, DK
+**Rasmus Heller**, University of Copenhagen, Copenhagen, DK, ELIXIR-DK
+
+**Nada Kraševec**, KI, ELIXIR-SI
+
+**Ajda Moškrič**, ELIXIR-SI
+
+**Maja Zagorščak**, NIB, ELIXIR-SI
+ 
 
 ##
 
