@@ -159,7 +159,6 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 
 
 ---
->>>>>>> a58c6d1cb2e4a93930d923fcd7966b2f2a421d5c
 > Source:
 > How learning works: Seven research-based principles for smart teaching
 > By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
@@ -179,13 +178,10 @@ See also: [The Eberly Center for Teaching Excellence and Educational Innovation 
 
 **The seven principles of learning**:
 
-- **Principle P1**:	Students' prior knowledge can help or hinder learning
-	What does the research tell us about prior knowledge?
-	What teaching strategies does the research suggest?
-
-- **Principle P2**:	How students organise knowledge influences how they learn and apply what they know
-- **Principle P3**:	Students motivation determines, directs and sustains what they do learn
-- **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
+- **Principle P1**:	Students' prior knowledge can help or hinder learning.
+- **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
+- **Principle P3**:	Students motivation determines, directs and sustains what they do learn.
+- **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
 - **Principle P5**:	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
 - **Principle P6**:	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
 - **Principle P7**:	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
@@ -193,8 +189,8 @@ See also: [The Eberly Center for Teaching Excellence and Educational Innovation 
 **Instructional strategies that collectively address all seven principles (P1-P7)**:
 
 - **Strategy S1**: Collect data about students and use it to design instruction (P1,P3).
-- **Strategy S2**: Be explicit about your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning foals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
-- **Strategy S3**: Scaffold complex tasks (P2-P7). Teach and test at a level that is challenging but not too far abouve the learners' current klnowledge and skill levels.
+- **Strategy S2**: Be explicit about your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning goals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
+- **Strategy S3**: Scaffold complex tasks (P2-P7). Teach and test at a level that is challenging but not too far above the learners' current klnowledge and skill levels.
 - **Strategy S4**: Help learners learn to funcion like experts (P2, P4, P7). Have learners formulate solution strategies before beginning to work on new problems, and when they complete assignments have them reflect on what they learned and what they will do differently in the future.
 - **Strategy S5**: Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and out the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
