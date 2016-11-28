@@ -178,11 +178,11 @@ Our experience suggests that there are activities that should be reduced and act
 “I hear and I forget. I see and I remember. I do and I understand.”
 – Confucius
 
-Memorisation is part of the learning process. Memorising facts and rules happens in the context of the much more complex learning proces where they need to articulate. It so happens that failure to memorise makes most of the learning impractical or at least inneficient.
+Memorisation is part of the learning process. Memorising facts and rules happens in the context of the much more complex learning process where they need to articulate. It so happens that failure to memorise makes most of the learning impractical or at least inneficient.
 
 To learn, we need to be able to memorise - and we actually choose what - and we actually also need to forget. This process is called retention. 
 
-Rote learning methods can produce memorisation, but are exclusively based on repetition. The absence of a proper context, meaning and association is a serious obstacle to the acquisition of proper understanding. Therefore, rote methods have a very limited scope of application in learning. Alternatively, instructors need to opt for active learning or even dep learning methods.
+Rote learning methods can produce memorisation, but are exclusively based on repetition. The absence of a proper context, meaning and association is a serious obstacle to the acquisition of proper understanding. Therefore, rote methods have a very limited scope of application in learning. Alternatively, instructors need to opt for active learning or even deep learning methods.
 
 In active learning, the learner actively participates in the construction of his new knowledge. 
 Whereas in deep learning, the learner develops his own organisationa scheme/framework where the new knowledge merges with previously acquired knowledge and new meaningful associations emerge logically.
