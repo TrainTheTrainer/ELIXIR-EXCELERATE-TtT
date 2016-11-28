@@ -8,17 +8,17 @@
 
 **Pedro Fernandes**, ELIXIR-PT, GTPB, Instituto Gulnemkian de Ciência, Oeiras, PT
 
-**Jure Dimec**, ELIXIR-SI, Faculty of Medicine, University of Ljubljana, LjublJana, SI
+**Jure Dimec**, ELIXIR-SI, Faculty of Medicine, University of Ljubljana, Ljubljana, SI
 
 ##
 
 **Participants:**
 
-**Victoria Dominguez del Angel**, Institut Français de Bioinformatique, Gif-sur-Yvette, FR
+**Victoria Dominguez del Angel**, Institut Français de Bioinformatique, Gif-sur-Yvette, FR, ELIXIR-FR
 
-**Sarah Bonnin**, CRG, Barcelona, ES
+**Sarah Bonnin**, CRG, Barcelona, ES, ELIXIR-ES
 
-**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI
+**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI, ELIXIR.SI
 
 **Marian Novotný**, Faculty of Science, Charles University, Prague, CZ, ELIXIR-CZ
 
