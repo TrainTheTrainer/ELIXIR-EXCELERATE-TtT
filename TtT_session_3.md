@@ -15,8 +15,8 @@
 
 > ## Challenge
 
-> You will be split into groups of 3
-> Make sure your group has a laptop and a phone which can record video
+> - You will be split into groups of 3
+> - Make sure your group has a laptop and a phone which can record video
 > You need to each deliver your 3 minute session to the others
 > One person delivers the session
 > One person records on the phone
