@@ -29,11 +29,11 @@
 > In your group…
 > - Take one session idea and expand to a “real” training session
 > - You will need to:
-> - Identify target audience
-> - Session structure (include indicative content, length, breakdown and timings)
-> - Learning objectives
-> - Learning activities  
-> - Suggest how you will assess trainee progress
+>   - Identify target audience
+>   - Session structure (include indicative content, length, breakdown and timings)
+>   - Learning objectives
+>   - Learning activities  
+>   - Suggest how you will assess trainee progress
 > - Tell us anything else you think we need to know….
 
 
