@@ -12,6 +12,29 @@
 
 <a name="sessions"></a>
 ### Training session design and plan;
+
+> You will be split into groups of 3
+> Make sure your group has a laptop and a phone which can record video
+> You need to each deliver your 3 minute session to the others
+> One person delivers the session
+> One person records on the phone
+> One person notes down comments real-time
+> You then provide feedback to each individual, and give your own comment on your delivery
+> You then have time to revise your session, before delivering to the whole group.
+
+> ## Challenge
+
+> In your group…
+> Take one session idea and expand to a “real” training session
+> You will need to:
+> Identify target audience
+> Session structure (include indicative content, length, breakdown and timings)
+> Learning objectives
+> Learning activities  
+> Suggest how you will assess trainee progress
+> Tell us anything else you think we need to know….
+
+
 <a name="design"></a>
 ### From session to course design;
 <a name="rooms"></a>
