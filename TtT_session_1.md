@@ -94,7 +94,7 @@ will be able to do upon completing the course.
  * Outcomes are clear and measurable criteria for guiding the teaching, learning, and
 assessment process in the course.
 
-Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
+Adapted from [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)
 
 ####Learning outcomes should be SMART
 ||||
