@@ -1,38 +1,50 @@
 # EXCELERATE-TtT
 
-#5th Pilot Course at the Swiss Institute of Bioinformatics, Lausanne, Switzerland
+#4th Pilot Course at the Faculty of Medicine, Ljubljana, Slovenia
 
 **Instructors:**
 
-**Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Patricia Palagi**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
-**Diana Marek**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
+**Allegra Via**, ELIXIR-IT, CNR, Istituto Italiano di Bioinformatica, Roma, IT
+
+**Pedro Fernandes**, ELIXIR-PT, GTPB, Instituto Gulnemkian de Ciência, Oeiras, PT
+
+**Jure Dimec**, ELIXIR-SI, Faculty of Medicine, University of Ljubljana, Ljubljana, SI
 
 ##
 
 **Participants:**
 
-**Toyin Abdulsalam**, University of Ibadan/IITA, Nigeria <br>**Ahmed DEBIT**, GIGA-R University of Liege, Belgium <br>**Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>**Margot Fournier**, CHUV / UNIL, Switzerland <br>**David Francisco**, Universität Bern, Switzerland <br>**Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>**Mohammed Hassan, Mohammed Yousif**, University of Bahri, Sudan <br>**Anuraj Nayarisseri**, Alagappa University, India <br>**Madeleine Scriba**, Université de Lausanne, Switzerland <br>**Mathieu Seppey**, Université de Genève, Switzerland <br>**Armand Valsesia**, Nestlé Institute of Health Science, Switzerland <br>
+**Victoria Dominguez del Angel**, Institut Français de Bioinformatique, Gif-sur-Yvette, FR, ELIXIR-FR
+
+**Sarah Bonnin**, CRG, Barcelona, ES, ELIXIR-ES
+
+**Katja Goričar**, Faculty of Medicine, University of Ljubljana, LjublJana, SI, ELIXIR-SI
+
+**Marian Novotný**, Faculty of Science, Charles University, Prague, CZ, ELIXIR-CZ
+
+**Rasmus Heller**, University of Copenhagen, Copenhagen, DK, ELIXIR-DK
+
+**Nada Kraševec**, Institute for Chemistry, Ljubljana, SI, ELIXIR-SI
+
+**Ajda Moškrič**, ELIXIR-SI
+
+**Maja Zagorščak**, NIB, ELIXIR-SI
+ 
 
 ##
 
 **Purpose:**
 
-ELIXIR-CH, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
+ELIXIR-SI, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
 
-The course is made up of four sessions, covering: 
+The learning objectives of the first two days of the course (Mon, 28th and Tue, 29th) consist of exploring, discussing and understanding four main themes: 
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
 * [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
 * [Session, course, and materials design] (./TtT_session_3.md)
 * [Assessment and feedback in training] (./TtT_session_4.md)
 
-
-The learning objectives of the first day of the course (Mon, 16th Jan 2017) consist of exploring, discussing and understanding the themes of session 1 and 2.
-
-The following day (Tuesday, 17th Jan 2017) TtT participants will act as observers and training assistants in a Linux session until lunchtime.
-
-In the afternoon, we will work on session 3, whereas session 4 will be covered on the morning of day 3 (Wednesday, 18th Jan 2017).
+The following day (Wednesday, 30th November) TtT participants will act as observers and training assistants in a Linux session, and will attend an end-of-the-day recapitulation meeting where the effectiveness of the methods is assessed and discussed. They will be asked to prepare a report as assignments, to be returned in the two weeks after the course.
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
@@ -68,23 +80,19 @@ In the afternoon, we will work on session 3, whereas session 4 will be covered o
 
  Time | Activity
 :-------------|:----------------
-Monday, 16th          |
-10.00 - 10.30         | Introductions, who is who and what we need to achieve
-10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-12.30 - 13.30			  | Lunch
-13.30 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-15.30 - 19.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-19:00 - 19:30			  | Wrap-up, and assignment
-19.30 - 21.30			  | Dinner with feedback and discussions
-Tuesday, 17th         |
-09.00 - 13.30			  | Unix command line course
-14.30 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+Monday, 28th          |
+13.30 - 14.30         | Meeting at lunch: Introductions, who is who and what we need to achieve
+14.30 - 17.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
+17.00 - 19.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+Tuesday, 29th         |
+09.00 - 13.00         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+13.00 - 14.00         | Lunch
+14.00 - 18.00         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 19.30 - 21.30         | Dinner with feedback and discussions
-Wednesday, 18th       |
-09.00 - 12.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30         | Lunch with Session 4’s feedback and discussions
-13.30 - 15.00         | Course feedback and wrap-up
-
+17.30 - 18.00         | Wrap-up and assignments
+Wednesday, 30th       |
+09.00 - 13.30         | Linux command line short course
+14.30 - 18.00         | TtT feedback, wrap-up, and assignment
  
 ### Session 1: Review of learning principles and how they apply to training
 
@@ -128,13 +136,7 @@ Wednesday, 18th       |
 * Systematic Feedback;
 * (Short and long term) Post-course feedback.
 
-## Materials to explore before attending the course:
-
-* https://www.youtube.com/watch?v=Z9orbxoRofI
-* Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](./docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
-* 
-
-## Ideas for Challenges:
+# Ideas for Challenges:
 
   * Design a diagnostic questionnaire;
   * Plan a session;
@@ -145,13 +147,13 @@ Wednesday, 18th       |
   * Create a group discussion and its annotation;
   
 ---
-> Challenge: <br>
-> - Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md) <br>
-> - If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map) <br>
-> - Choose a topic that can be explained/taught in 3 minutes <br>
-> - Write Learning Objectives and Outcomes  <br>
-> - Draw a concept map <br>
-> - Make a 3 minute presentation (with or without slides) <br>
-> On Day 3, you will be videoed while presenting in group and receive feedback.
+> Challenge:
+> * Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md)
+> * If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map)
+> * Choose a topic that can be explained/taught in 3 minutes
+> * Write Learning Objectives and Outcomes 
+> * Draw a concept map
+> * Make a 3 minute presentation (with or without slides)
+> On Day 2, you will be videoed while presenting in group and receive feedback.
 >
 ---
