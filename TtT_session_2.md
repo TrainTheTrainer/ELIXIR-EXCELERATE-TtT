@@ -173,6 +173,9 @@ Our experience suggests that there are activities that should be reduced and act
 - mode/pace/activity frequent change
 
 
+Mazur's video on Peer Instruction for Active Learning: <br>
+https://www.youtube.com/watch?v=Z9orbxoRofI
+
 ####Retention
 
 “I hear and I forget. I see and I remember. I do and I understand.”

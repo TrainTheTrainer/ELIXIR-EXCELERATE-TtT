@@ -12,6 +12,23 @@
 
 <a name="term"></a>
 
+###Introduction
+
+---
+
+>*Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn* 
+>
+>[H.A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) (one of the founders of the field of [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) and Nobel Laureate)
+
+---
+
+
+This quotation from Herbert A. Simon clearly indicates that we cannot talk about teaching, teaching practices or effective teaching techniques if we don't understand first how people learn. <br>
+Here, we want to share with you what we learnt about how learning works. Our knowledge in the field of cognition and learning comes from diving into pedagogical and cognitive research results, reading books such as ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html) and many others, studying research articles published in the field of cognitive science and pedagogy, attending instructor training courses (like this one), and - last but not least - from our own experience as both instructors/teachers, learners, and passionate observers of learning processes and teaching practices.
+
+
+
+
 ###Terminology used in learning
 
 Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
@@ -30,6 +47,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)).
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
 * **BLENDED LEARNING or HYBRID LEARNING**: It is an instructional approach that includes a combination of online and in-person learning activities. For example, students can complete online self-paced assignments by a certain date and then meet on-site or online for additional learning activities.
+* **COGNITION**: "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses." (from the Oxford dictionary). Cognition encompasses processes such as knowledge, attention, memory and working memory, judgment and evaluation, reasoning and "computation", problem solving and decision making, comprehension and production of language, etc. Human cognition is conscious and unconscious, concrete or abstract, as well as intuitive (like knowledge of a language) and conceptual (like a model of a language). Cognitive processes use existing knowledge and generate new knowledge. ([For more see Wikipedia](https://en.wikipedia.org/wiki/Cognition))
 * **COURSEWARE**: Courseware refers to any instructional software that is delivered on a computer.
 * **DISTANCE EDUCATION or DISTANCE LEARNING**: Distance Education/Learning occurs when students and their instructors are in different geographical locations and the instruction occurs on an electronic device, such as a computer or mobile phone. The learning can occur in a synchronous environment, in which all participants are connected at the same time or in an asynchronous environment, when participants are engaged in learning at different times.
 * **eLEARNING**:eLearning (short for electronic learning) is an umbrella term that refers to all types of training, education and instruction that occurs on a digital medium, like a computer or mobile phone. The term evolved from Enhanced Learning which was actually more encompassing and acccurate.
@@ -45,10 +63,14 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **SELF-PACED LEARNING**: Self-paced learning refers to the type of instruction that allows a person to control the flow of the courseware. It implies the learning environment is asynchronous.
 * **SOCIAL MEDIA LEARNING**: Social media learning refers to the acquisition of information and skills through social technologies that allow people to collaborate, converse, provide input, create content and share it. Examples of social media learning can occur through online social networking platforms, blogs and microblogs (like Twitter), online talk radio and wikis.
 * **SYNCHRONOUS LEARNING**: When learners participate in an online learning course at the same time but in different locations, it is known as synchronous learning. Synchronous learning allows learners to interact with the instructor and other participants. This is done through software that creates a virtual classroom.
+* **TEACHING**
+* **TRAINING**
 * **VIRTUAL CLASSROOM**: The virtual classroom refers to a digital classroom learning environment that takes place over the Internet rather than in a physical classroom. It is implemented through software that allows an instructor and students to interact.
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
 <a name="learning"></a>
+
+###Teaching or Training?
 
 ###Learning aims, objectives and outcomes
 

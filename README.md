@@ -12,7 +12,15 @@
 
 **Participants:**
 
-**Toyin Abdulsalam**, University of Ibadan/IITA, Nigeria <br>**Ahmed DEBIT**, GIGA-R University of Liege, Belgium <br>**Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>**Margot Fournier**, CHUV / UNIL, Switzerland <br>**David Francisco**, Universität Bern, Switzerland <br>**Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>**Mohammed Hassan, Mohammed Yousif**, University of Bahri, Sudan <br>**Anuraj Nayarisseri**, Alagappa University, India <br>**Madeleine Scriba**, Université de Lausanne, Switzerland <br>**Mathieu Seppey**, Université de Genève, Switzerland <br>**Armand Valsesia**, Nestlé Institute of Health Science, Switzerland <br>
+**Ahmed DEBIT**, GIGA-R University of Liege, Belgium <br>
+**Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>
+**David Francisco**, Universität Bern, Switzerland <br>
+**Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>
+**Jessica Lindvall**, NBIS, SciLifeLab, Sweden <br>
+**Mosè Manni**, Université de Genève, Switzerland <br>
+**Madeleine Scriba**, Université de Lausanne, Switzerland <br>
+**Mathieu Seppey**, Université de Genève, Switzerland <br>
+**Armand Valsesia**, Nestlé Institute of Health Science, Switzerland <br>
 
 ##
 
@@ -73,12 +81,12 @@ Monday, 16th          |
 10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
 12.30 - 13.30			  | Lunch
 13.30 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-15.30 - 19.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-19:00 - 19:30			  | Wrap-up, and assignment
+15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+18:30 - 19:00			  | Wrap-up, and assignment
 19.30 - 21.30			  | Dinner with feedback and discussions
 Tuesday, 17th         |
-09.00 - 13.30			  | Unix command line course
-14.30 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+09.00 - 12.30			  | Unix command line course
+14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 19.30 - 21.30         | Dinner with feedback and discussions
 Wednesday, 18th       |
 09.00 - 12.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
@@ -132,7 +140,7 @@ Wednesday, 18th       |
 
 * https://www.youtube.com/watch?v=Z9orbxoRofI
 * Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](./docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
-* 
+* Good teaching - the top ten requirements ([PDF](./docs/good_teaching_the_top_ten_requirements))
 
 ## Ideas for Challenges:
 
