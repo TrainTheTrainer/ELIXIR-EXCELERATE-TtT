@@ -2,16 +2,21 @@
 
 ## Session 1: Review of learning principles and how they apply to training
 
- * [Terminology used in learning;](#term)
- * [Learning aims, objectives and outcomes;](#learning)
+ * [Introduction](#intro)
+ * [Terminology used in learning](#term)
+ * [Teaching or training?](#teach)
+ * [Learning aims, objectives and outcomes](#learning)
  * [The Bloom's six categories of cognitive skills](#bloom)
- * [How learning works: research-based principles of learning and their implications for teaching practice;](#works)
+ * [How learning works](#works)
+ * [Relevant models from cognitive science](#relevant)
  * [What is formal and non-formal learning?](#formal)
- * [Relevant models from cognitive science;](#relevant)
- * [Cognitive load.](#cognitive)
+ * [Active Learning](#active)
+ * [Retention](#retention)
+ * [Cognitive load](#cognitive)
+ * [Research-based principles of learning and their implications for teaching practice](#principles)
 
-<a name="term"></a>
 
+<a name="intro"></a>
 ###Introduction
 
 ---
@@ -22,27 +27,24 @@
 
 ---
 
-
 This quotation from Herbert A. Simon clearly indicates that we cannot talk about teaching, teaching practices or effective teaching techniques if we don't understand first how people learn. <br>
-Here, we want to share with you what we learnt about how learning works. Our knowledge in the field of cognition and learning comes from diving into pedagogical and cognitive research results, reading books such as ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html) and many others, studying research articles published in the field of cognitive science and pedagogy, attending instructor training courses (like this one), and - last but not least - from our own experience as both instructors/teachers, learners, and passionate observers of learning processes and teaching practices.
+Here, we want to share with you what we learnt about how learning works. Our knowledge in the field of cognition and learning comes from diving into pedagogical and cognitive research results, reading books such as ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html) and many others, studying research articles published in the field of cognitive science and pedagogy, attending instructor training courses (like this one), and - last but not least - from our own experience as both instructors/teachers, learners, and passionate observers of learning processes and teaching practices. <br>
+Since this material cannot cover the broad literature on the subject of learning we strongly invite you to commit to read at least one book on how learning works (for example: ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html)), have a look at the [Software Carpentry Instructor training materials](http://swcarpentry.github.io/instructor-training/) and explore  the material we keep adding to the [doc](https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/docs) folder of the TrainTheTrainer/EXCELERATE-TtT GitHub repository.
 
-
-
+<a name="term"></a>
 
 ###Terminology used in learning
 
-Most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
-
-####Terminology used in learning
-
 Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer sets of definitions that will help you to survive.
 
-Before we do that, let us propose a minimal subset of specific terms, by choice, that we will try to use in the context of bioinformatics training in  a  consistent way. We will prefer to use the term INSTRUCTOR  instead of teacher or professor. We will use the term LEARNER instead of student. These choices are adopted just because they are more encompassing.
+Before we do that, let us propose a minimal subset of specific terms, by choice, that we will try to use in the context of bioinformatics training in  a  consistent way. 
 
-Here we offer lists of definitions that seem useful. Inevitably, for the reasons isted above, you will find inconsistencies here  and there. You will need to learn how to deal with the situation.
+
+#### Common terms used in the science of learning
+
+Here, we offer lists of definitions that seem useful. Inevitably, for the reasons listed above, you will find inconsistencies here and there. You will need to learn how to deal with the situation.
 
 In the following list, most definitions are taken from the [Glossary of Online Learning Terms](http://theelearningcoach.com/resources/online-learning-glossary-of-terms/); see also the Glossary of "Learning" Terms, Georgia Institute of Technology [(PDF)](docs/learningterms.pdf).
-
 
 * **ACTIVE LEARNING**: A process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning (from the [Glossary of education terms on Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_education_terms)).
 * **ASYNCHRONOUS LEARNING**: When learners participate in an online learning course at different times. This might also be called eLearning or web-based training (WBT). Asynchronous learning allows learners to go through a course at their own pace and on their own schedule.
@@ -63,14 +65,35 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **SELF-PACED LEARNING**: Self-paced learning refers to the type of instruction that allows a person to control the flow of the courseware. It implies the learning environment is asynchronous.
 * **SOCIAL MEDIA LEARNING**: Social media learning refers to the acquisition of information and skills through social technologies that allow people to collaborate, converse, provide input, create content and share it. Examples of social media learning can occur through online social networking platforms, blogs and microblogs (like Twitter), online talk radio and wikis.
 * **SYNCHRONOUS LEARNING**: When learners participate in an online learning course at the same time but in different locations, it is known as synchronous learning. Synchronous learning allows learners to interact with the instructor and other participants. This is done through software that creates a virtual classroom.
-* **TEACHING**
-* **TRAINING**
+* **TEACHING**: Teaching is a process of educating a person with theoretical concepts and is a kind of a knowledge transfer between a teacher and a student. The role of the teacher is to act as a facilitator of learning by leading discussions, providing opportunities to ask open-ended questions, guiding the processes and tasks and enabling the active participation of learners and to engage with ideas ([source](http://www.differencebetween.com/difference-between-teaching-and-vs-training/)).
+* **TRAINING**: Training is an approach used in short and intensive courses to build a person’s skills, knowledge and attitudes on a specific subject. Even though the person has attained the highest academic qualifications, still she may want or need to aquire specific knowledge and skills on a given topic.
 * **VIRTUAL CLASSROOM**: The virtual classroom refers to a digital classroom learning environment that takes place over the Internet rather than in a physical classroom. It is implemented through software that allows an instructor and students to interact.
 * **WEB-BASED TRAINING (WBT)**: WBT refers to all types of digital instruction in which the learning material is presented via the Internet.
 
-<a name="learning"></a>
+<a name="teach"></a>
 
 ###Teaching or Training?
+
+A first difference we make is between **teaching** and **training**. Here is a list of differences adapted from [http://www.differencebetween.com/difference-between-teaching-and-vs-training/](http://www.differencebetween.com/difference-between-teaching-and-vs-training/):
+
+ * Teaching is more related to theoretical concepts than training, which is rather related to the practical application of knowledge (i.e., development of **skills**).
+ * Teaching seeks to impart new knowledge while training equips the already knowledgeable with tools and techniques to develop a specific skill set;
+ * Teaching is, usually, within the context of education and academic environments, while training is associated with post-high school and/or post-graduate short and intensive courses;
+ * Usually, teachers give feedback to their students, while trainers receive feedback from the learners; 
+
+ However...
+ 
+* Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training may encompass teaching;
+* Teaching may also include typical training activities and goals, such as practicals; 
+* Despite teaching and training techniques may sometime differ, the difference between training and teaching is not related with the process itself but with the focus: training generally has a more specific focus than teaching;
+*  In order to build up as a competent professional, a person needs to have a go on understanding about the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and sort of complementary concepts.
+
+
+#### "Instructor" *vs* "teacher" and "learner *vs* student"
+In the context of training, we will prefer to use the term **instructor** instead of teacher or professor. We will tend to use the term **learner** instead of student. These choices are adopted just because they are more encompassing.
+
+
+<a name="learning"></a>
 
 ###Learning aims, objectives and outcomes
 
@@ -82,7 +105,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 **Aims** are broad statements of what learning the instructor hopes to generate. The **aim** is the point of the whole thing. As such, even hard-liners concede that it can be fairly vague, and non-behavioural terms, such as “understand”, and “appreciate” or “develop” are rather reluctantly accepted. The Aim is almost certainly more than the sum of the Objectives, and regardless of what many people say, the Aim is what matters. It is the End, and all the rest is just Means.
 
-**Objectives** are statements of what you are setting out to teach, although expressed as if the students were going to learn it..
+**Objectives** are statements of what you are setting out to teach, although expressed as if the students were going to learn it. Despite Aims are usually intended to be more general and encompassing than Objectives, they are essential the same.
 
 **Outcomes** (more accurately “desired outcomes”) are statements of what you might (in principle) assess. You may not end up assessing all of them, but they are statements of what a student will know or be able to do, if she or he has learned everything in the course or session.
 
@@ -90,31 +113,25 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 ####Learning objectives and learning outcomes
 
-These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims) and Outcomes (results) may overlap, but are not genuinely the same.
+These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
 
 Here is an attempt to clarify this situation and remove the ambiguities:
 
-###Learning Objectives
+####Learning Objectives
  * Objectives describe the goals and intentions of the instructor.
  * Objectives, often termed the input in the course, state the purpose and goals of the course.
- * Objectives focus on content and skills important within the classroom or program.
+ * Objectives focus on content and skills important within the classroom or programme.
  * Objectives may describe what the instructors will do.
  * Objectives can often be numerous, specific, and detailed.
 
-###Learning Outcomes
- * Student Learning Outcomes catalog the overarching "products" of the course and are the
-evidence that the goals or objectives were achieved.
- * Learning Outcomes are statements that describe or list measurable and essential mastered
-content-knowledge—reflecting skills, competencies, and knowledge that students have
-achieved and can demonstrate upon successfully completing a course.
- * Outcomes express higher-level thinking skills that integrate course content and activities and
-can be observed as a behavior, skill, or discrete useable knowledge upon completing the
+####Learning Outcomes
+ * Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
+ * Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
+ * Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete useable knowledge upon completing the
 course.
- * Outcomes are exactly what assessments are intended to show – specifically what the student
-will be able to do upon completing the course.
+ * Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
  * An assessable outcome can be displayed or observed and evaluated against criteria.
- * Outcomes are clear and measurable criteria for guiding the teaching, learning, and
-assessment process in the course.
+ * Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
 
 Adapted from [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)
 
@@ -123,14 +140,27 @@ Adapted from [http://provost.rpi.edu/learning-assessment/learning-outcomes/objec
 |---------------------|---------------|--------------|
 |Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
 |Measurable|You should be able to conceive of how their attainment might be assessed|By trainee / trainer or both?|
-|Achievable| by the learners|Is it possible in this context?|
+|Achievable| By the learners|Is it possible in this context?|
 |Realistic|Could be seen as similar to attainability, but refers to their appropriateness to the overall task. "Valid" in assessment-speak|Can we really train them to do this?|
 |Time-limited|Or achievable within the time-span of the session/lesson/course|In what time?|
 
 <a name="bloom"></a>
+
 ###The Bloom's six categories of cognitive skills
 
-**Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation.  As students learn, they start with the knowledge level and progress through the hierarchy.  Thus, advanced courses should include skills at a higher level than introductory or basic skills courses.  Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
+**Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation. As students learn, they start with the knowledge level and progress through the hierarchy. This is the process we are called upon to facilitate.
+
+![Bloom's taxonomy](fig/blooms-taxonomy.jpg)
+
+The representation of the Bloom's hierarchy using a pyramid is aimed at stressing that "knowledge " is the foundation of everything: without knowledge, there is no comprehension, with no comprehension there is no application, and so forth. 
+Critical thinking - which is the highest goal of learning - is only possible if it lays on the solid bases of the other five categories.
+As instructors, we should make it possible for the learners to acquire the knowledge needed to develop a given skill, comprehend the  objects of their learning, be able to apply, analyse and synthetise the concepts we explain them, and finally to critically think and discuss about what they will have learnt in the course. 
+
+In session 2, we describe and discuss teaching strategies to facilitate learning for each of the Bloom's categories. 
+
+In defining the learning objectives and outcomes for your session or course, you should be constantly aware of th Bloom's six categories.
+ 
+Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
 ####From taxonomy to verbs…
 
@@ -162,7 +192,7 @@ Source: [List of Measurable Verbs Used to Assess Learning Outcomes ](https://www
 Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives)
 
 <a name="works"></a>
-###How learning works: research-based principles of learning and their implications for teaching practice
+###How learning works
 
 ---
 
@@ -175,85 +205,23 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 >
 --> 
 
-> Which is the most effective approach for *you* to learn? Make a list of three approaches that work for you when you want to learn something new (from the most to the less effective one). Discuss it with your partner and compare. 
+> Which is the most effective approach for *you* to learn? 
+> 
+> Make a list of three approaches that work for you when you want to learn something new (from the most to the less effective one). Discuss it with your partner and compare. 
 >
 --- 
 
 
 ---
-> Source:
-> How learning works: Seven research-based principles for smart teaching
-> By Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
-ISBN: 978-0-470-48410-4
 
----
-
-See also: [The Eberly Center for Teaching Excellence and Educational Innovation ](http://www.cmu.edu/teaching/)
+####What is learning?
 
 "Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon)
 
-**What is learning?**
 
 - Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
 - Learning involves change in knowledge, beliefs, behaviours, or attitudes
-- Learning is not something done to students, but rather something students themselves do.
-
-**The seven principles of learning**:
-
-- **Principle P1**:	Students' prior knowledge can help or hinder learning.
-- **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
-- **Principle P3**:	Students motivation determines, directs and sustains what they do learn.
-- **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
-- **Principle P5**:	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
-- **Principle P6**:	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
-- **Principle P7**:	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
-
-**Instructional strategies that collectively address all seven principles (P1-P7)**:
-
-- **Strategy S1**: Collect data about students and use it to design instruction (P1,P3).
-- **Strategy S2**: Be explicit about your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning goals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
-- **Strategy S3**: Scaffold complex tasks (P2-P7). Teach and test at a level that is challenging but not too far above the learners' current klnowledge and skill levels.
-- **Strategy S4**: Help learners learn to funcion like experts (P2, P4, P7). Have learners formulate solution strategies before beginning to work on new problems, and when they complete assignments have them reflect on what they learned and what they will do differently in the future.
-- **Strategy S5**: Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and out the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
-
-**See also**: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
-
-1.	How students organise knowledge influences how they learn and apply what they know
-2.	Students motivation determines, directs and sustains what they do learn
-3.	To develop mastery, students must acquire component skills, practice integrating them, and how and when to apply what they have learned
-4.	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
-5.	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
-6.	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
-
-<a name="formal"></a>
-###What is formal and non-formal learning?
-
-Reference source http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm
-
-We quote:
-
-"Formal learning is always organised and structured, and has learning objectives. From the learner’s standpoint, it is always intentional: i.e. the learner’s explicit objective is to gain knowledge, skills and/or competences. Typical examples are learning that takes place within the initial education and training system or workplace training arranged by the employer. One can also speak about formal education and/or training or, more accurately speaking, education and/or training in a formal setting. This definition is rather consensual.
-
-Informal learning is never organised, has no set objective in terms of learning outcomes and is never intentional from the learner’s standpoint. Often it is referred to as learning by experience or just as experience. The idea is that the simple fact of existing constantly exposes the individual to learning situations, at work, at home or during leisure time for instance. This definition, with a few exceptions (see Werquin, 2007) also meets with a fair degree of consensus.
-
-Mid-way between the first two, non-formal learning is the concept on which there is the least consensus, which is not to say that there is consensus on the other two, simply that the wide variety of approaches in this case makes consensus even more difficult. Nevertheless, for the majority of authors, it seems clear that non-formal learning is rather organised and can have learning objectives. The advantage of the intermediate concept lies in the fact that such learning may occur at the initiative of the individual but also happens as a by-product of more organised activities, whether or not the activities themselves have learning objectives. In some countries, the entire sector of adult learning falls under non-formal learning; in others, most adult learning is formal. Non-formal learning therefore gives some flexibility between formal and informal learning, which must be strictly defined to be operational, by being mutually exclusive, and avoid overlap."
-
-
-In this concern, a bioinformatics training course will most often be best classified as a NON_FORMAL learning instance.
-Whreas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
-
-We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMALway
-* It provides essentially skills, rather than deep knowledge
-* It aims at the acquisition of competences
-* It must focus on the learner (learner-centric)
-* It must guarantee that independently reproducible outcomes are obtained
-* The learners must acquire autonomy (skills usage independence)
-
-The EFFICIENCY of training can - and should - be independently assessed by the capability of reaching the desired OUTCOMES, in the context of the stated OBJECTIVES.
-
-Please bear in mind that we are speaking about educating ADULTS. This is important because adults have their interests focused of their self-improvement, and see training as a capacity-building exercise. Adults like to be respected as such, that their expectations are individually met, in an exhaustive way.
-
-Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
+- Learning is not something done to students, but rather **something students themselves do**.
 
 <a name="relevant"></a>
 ###Relevant models from cognitive science
@@ -330,31 +298,127 @@ Learning activities: main thing to remember:
 - For lecture sessions – intersperse with activities eg questions, short problems, discussion points
 - For practical sessions – check on where the group as a whole is, or have demonstrators who can move around the room
 
-
 ####Learning Theories
 
 Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflectbthis bias will not apply to our activity.
 
-Behaviourism (started in the early 20th century by John Broadus Watson):
+**Behaviourism** (started in the early 20th century by John Broadus Watson):
 * Learning is acquiring new behaviours by conditioning.
 * Reflex response to stimuli
 * Reward / Punishment
 * * Ref: "Psychology as the Behaviorist Views It" , 1913
 
-Cognitivism (started in 1920 by Jean Piaget):
+**Cognitivism** (started in 1920 by Jean Piaget):
 * Learning is based on the development of cognitive capabilities.
 * Its origin is in the "Gestalt Psychlogie"
 
-Connectivism (started in the 1980s by Stephen Downes and George Siemens):
+**Connectivism** (started in the 1980s by Stephen Downes and George Siemens):
 * Knowledge is perceived from the environment and resides in connections.
 * No agents form connections better than a learner's brain itself.
 * The instructors act as facilitators. They create the environmental conditions that allow true learning to occur.
 
-Ref: "Knowing Knowledge”, George Siemens 2006, http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf
-
+Ref: ["Knowing Knowledge”, George Siemens 2006](http:www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
 Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs).
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on.
+
+<a name="formal"></a>
+###What is formal and non-formal learning?
+
+Reference source http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm
+
+We quote:
+
+"Formal learning is always organised and structured, and has learning objectives. From the learner’s standpoint, it is always intentional: i.e. the learner’s explicit objective is to gain knowledge, skills and/or competences. Typical examples are learning that takes place within the initial education and training system or workplace training arranged by the employer. One can also speak about formal education and/or training or, more accurately speaking, education and/or training in a formal setting. This definition is rather consensual.
+
+Informal learning is never organised, has no set objective in terms of learning outcomes and is never intentional from the learner’s standpoint. Often it is referred to as learning by experience or just as experience. The idea is that the simple fact of existing constantly exposes the individual to learning situations, at work, at home or during leisure time for instance. This definition, with a few exceptions (see Werquin, 2007) also meets with a fair degree of consensus.
+
+Mid-way between the first two, non-formal learning is the concept on which there is the least consensus, which is not to say that there is consensus on the other two, simply that the wide variety of approaches in this case makes consensus even more difficult. Nevertheless, for the majority of authors, it seems clear that non-formal learning is rather organised and can have learning objectives. The advantage of the intermediate concept lies in the fact that such learning may occur at the initiative of the individual but also happens as a by-product of more organised activities, whether or not the activities themselves have learning objectives. In some countries, the entire sector of adult learning falls under non-formal learning; in others, most adult learning is formal. Non-formal learning therefore gives some flexibility between formal and informal learning, which must be strictly defined to be operational, by being mutually exclusive, and avoid overlap."
+
+
+In this concern, a bioinformatics training course will most often be best classified as a NON_FORMAL learning instance.
+Whreas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
+
+We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMALway
+* It provides essentially skills, rather than deep knowledge
+* It aims at the acquisition of competences
+* It must focus on the learner (learner-centric)
+* It must guarantee that independently reproducible outcomes are obtained
+* The learners must acquire autonomy (skills usage independence)
+
+The EFFICIENCY of training can - and should - be independently assessed by the capability of reaching the desired OUTCOMES, in the context of the stated OBJECTIVES.
+
+Please bear in mind that we are speaking about educating ADULTS. This is important because adults have their interests focused of their self-improvement, and see training as a capacity-building exercise. Adults like to be respected as such, that their expectations are individually met, in an exhaustive way.
+
+> Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
+
+<a name="active"></a>
+###Active learning
+
+"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly." (Waldrop, Nature 2015).
+
+![What people remember](fig/what_people_remember.jpg)
+
+
+Active learning requires students to participate in class, as opposed to sitting and listening quietly. Strategies include, but are not limited to, brief question-and-answer sessions, discussion integrated into the lecture, impromptu writing assignments, hands-on activities and experiential learning events. 
+
+Active learning is anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes ([R.M. Felder and R. Brent](./doc/active_learning_an_introduction.pdf)).
+
+> References: <br>
+> 
+> * R.M. Felder and R. Brent "Active learning: an introduction" ([PDF](./doc/active_learning_an_introduction.pdf))
+> * Michael Prince - Does Active Learning Work? A Review 
+of the Research ([PDF](./doc/Prince-does_active_learning_work.pdf)) 
+> * [Mazur's video on Peer Instruction for Active Learning]
+(https://www.youtube.com/watch?v=Z9orbxoRofI)
+
+###Novices *vs* experts in learning
+
+>###Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
+> - Think about yourself as a learner. 
+> - How did you feel about something new when you were a student? How was to be a novice? Can you remember it?
+> - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but know nothing about painting techniques and the theory of colours) Does it happen sometimes?
+> - How do you feel when you have to learn something new *in your field*? Namely, something that is an extension of your current knowledge about something (e.g. you know well a given OS and you need to learn how a different OS works).
+> - Write at least two things in which novices and experts differ regarding knowledge.
+> > - Write at least two things in which novices and experts differ regarding learning.
+
+
+####Knowledge and knowledge organisation
+Novices and experts differ in terms of the amount of knowledge and experience they own. 
+Experts went through the process of learning several times in their lives, they have accumulated errors and have learnt how to face and fix them. They have also accumulated notions and facts. All in all, they know many more things than novices. 
+But the amount of knowledge is not the only difference between novices and experts. 
+The way experts organise their knowledge is much more interconnected and causal than the way novices do.
+As stated by Ambrose et al. in *How learning works*: "Novice and expert knowledge organisations tend to differ in two key ways: the degree to which knowledge is sparsely versus richly connected, and the extent to which those connections are superficial versus meaningful." <br>
+This means that both the density and the nature of connections matter.
+
+This has important consequences in the learning process of novices and experts. Novices, besides learning new concepts and facts, do also need to create a densely connected and meaningful knowledge structure. 
+
+This implies that instructors have to pay particular attention to this need and be aware that learners do not have the same knowledge organisation as they themselves have; furthermore, it is important that instructors identify teaching strategies aimed at revealing and enhancing students' knowledge organisation.
+
+
+<a name="retention"></a>
+###Retention
+
+“I hear and I forget. I see and I remember. I do and I understand.”
+– Confucius
+
+Memorisation is part of the learning process. Memorising facts and rules happens in the context of the much more complex learning process where they need to articulate. It so happens that failure to memorise makes most of the learning impractical or at least inneficient.
+
+To learn, we need to be able to memorise - and we actually choose what - and we actually also need to forget. This process is called retention. 
+
+Rote learning methods can produce memorisation, but are exclusively based on repetition. The absence of a proper context, meaning and association is a serious obstacle to the acquisition of proper understanding. Therefore, rote methods have a very limited scope of application in learning. Alternatively, instructors need to opt for active learning or even deep learning methods.
+
+In active learning, the learner actively participates in the construction of his new knowledge. 
+Whereas in deep learning, the learner develops his own organisation scheme/framework where the new knowledge merges with previously acquired knowledge and new meaningful associations emerge logically.
+
+Short term memory (STM) has an evanescent behaviour. Repetition, as on rote learning, is maximally effective in producing long term memory (LTM), when not delivered all at once. Paced repetition combines recall with new memorisation, as typically shown in 
+http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
+
+
+<a name="priming"></a>
+####Priming
+...
+
 
 <a name="cognitive"></a>
 ###Cognitive load
@@ -373,3 +437,32 @@ In cognitive psychology, cognitive load refers to the total amount of mental eff
 Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane.
 
 Intrinsic cognitive load is the effort associated with a specific topic. Extraneous cognitive load refers to the way information or tasks are presented to a learner. And, germane cognitive load refers to the work put into creating a permanent store of knowledge, or a schema.
+
+<a name="principles"></a>
+###Research-based principles of learning and their implications for teaching practice
+
+---
+> Source:
+> 
+> * How learning works: Seven research-based principles for smart teaching;
+> by Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer
+ISBN: 978-0-470-48410-4 
+> * See also: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
+
+---
+
+**The seven principles of learning**:
+
+- **Principle P1**:	Students' prior knowledge can help or hinder learning.
+- **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
+- **Principle P3**:	Students motivation determines, directs and sustains what they do learn.
+- **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
+- **Principle P5**:	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
+- **Principle P6**:	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
+- **Principle P7**:	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
+
+
+
+
+
+
