@@ -11,6 +11,7 @@
  * [Relevant models from cognitive science](#relevant)
  * [What is formal and non-formal learning?](#formal)
  * [Active Learning](#active)
+ * [Novices *vs* experts in learning](#novice)
  * [Retention](#retention)
  * [Cognitive load](#cognitive)
  * [Research-based principles of learning and their implications for teaching practice](#principles)
@@ -372,6 +373,7 @@ of the Research ([PDF](./doc/Prince-does_active_learning_work.pdf))
 > * [Mazur's video on Peer Instruction for Active Learning]
 (https://www.youtube.com/watch?v=Z9orbxoRofI)
 
+<a name="novice"></a>
 ###Novices *vs* experts in learning
 
 >###Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
@@ -416,7 +418,7 @@ http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
 
 
 <a name="priming"></a>
-####Priming
+###Priming
 ...
 
 
