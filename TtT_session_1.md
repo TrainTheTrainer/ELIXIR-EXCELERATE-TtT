@@ -419,7 +419,16 @@ http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
 
 <a name="priming"></a>
 ###Priming
-...
+What Is Priming?
+
+Priming is a nonconscious form of human memory concerned with perceptual identification of words and objects. It refers to activating particular representations or associations in memory just before carrying out an action or task. For example, a person who sees the word "yellow" will be slightly faster to recognize the word "banana." This happens because yellow and banana are closely associated in memory. Additionally, priming can also refer to a technique in psychology used to train a person's memory in both positive and negative ways. 
+Source: https://www.psychologytoday.com/basics/priming
+
+Priming in Training
+
+Active learning environmemnts can benefit from what is known about priming. Careful training designs can expose learners to materials that prime the subject matter positively. By showing infographics or diagrams that summarise essential items that need to be memorised to fully understand or recall a subject.  In pretty much the same way, exposure to high impact videos can very effectively impact learning with negative priming, for example while instructors are inducing the learners to replace preconceived ideas or myths. Quite often, certain learners need this kind of help to articulate ways of freeing "space" for novel learning to take place.
+
+
 
 
 <a name="cognitive"></a>
