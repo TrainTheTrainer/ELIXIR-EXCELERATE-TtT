@@ -14,6 +14,7 @@
  * [Novices *vs* experts in learning](#novice)
  * [Retention](#retention)
  * [Cognitive load](#cognitive)
+ * [Priming](#priming)
  * [Research-based principles of learning and their implications for teaching practice](#principles)
 
 
