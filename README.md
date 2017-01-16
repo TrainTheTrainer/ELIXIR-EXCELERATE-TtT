@@ -12,7 +12,6 @@
 
 **Participants:**
 
-**Ahmed DEBIT**, GIGA-R University of Liege, Belgium <br>
 **Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>
 **David Francisco**, Universität Bern, Switzerland <br>
 **Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>
@@ -32,21 +31,21 @@ The course is made up of four sessions, covering:
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
 * [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
-* [Session, course, and materials design] (./TtT_session_3.md)
 * [Assessment and feedback in training] (./TtT_session_4.md)
+* [Session, course, and materials design] (./TtT_session_3.md)
 
 
 The learning objectives of the first day of the course (Mon, 16th Jan 2017) consist of exploring, discussing and understanding the themes of session 1 and 2.
 
 The following day (Tuesday, 17th Jan 2017) TtT participants will act as observers and training assistants in a Linux session until lunchtime.
 
-In the afternoon, we will work on session 3, whereas session 4 will be covered on the morning of day 3 (Wednesday, 18th Jan 2017).
+In the afternoon, we will work on session 4, whereas session 3 will be covered on the morning of day 3 (Wednesday, 18th Jan 2017).
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
  * To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
- * To learn about session, course, and materials design
  * To learn how to use assessment and feedback in training
+ * To learn about session, course, and materials design
 
 ### Learning Outcomes:
  * Learners can tell which learning principles a good trainer should have in mind
@@ -54,6 +53,8 @@ In the afternoon, we will work on session 3, whereas session 4 will be covered o
  * Learners can design a training session and a course
  * Learners can develop assessment questionnaires
  * Learners can tell what types of material are needed for each part of a training session 
+
+TtT-Lausanne 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-CH](https://etherpad.net/p/TtT_ELIXIR-CH)
 
 ---
 ### On knowledge, by Donald Rumsfeld:
@@ -96,26 +97,35 @@ Wednesday, 18th       |
  
 ### Session 1: Review of learning principles and how they apply to training
 
- * Terminology used in learning;
- * Learning aims, objectives and outcomes;
- * The Bloom's six categories of cognitive skills;
- * How learning works: research-based principles of learning and their implications for teaching practice;
+ * Terminology used in learning
+ * Teaching or training?
+ * Learning aims, objectives and outcomes
+ * The Bloom's six categories of cognitive skills
+ * How learning works
+ * Relevant models from cognitive science
+ * Declarative and procedural knowledge
  * What is formal and non-formal learning?
- * Relevant models from cognitive science;
- * Cognitive load.
+ * Active Learning
+ * Novices *vs* experts in learning
+ * Retention
+ * Priming
+ * Cognitive load
+ * Research-based principles of learning and their implications for teaching practice
 
 ### Session 2: Training techniques that can be used to enhance learner engagement and participation
- * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust;
- * Teaching as a preformance art: promoting learner engagement;
- * The GOBLET skills matrix for trainers;
- * Motivation and demotivation;
- * Closed loop learning delivery;
- * Learning by doing;
- * Retention;
- * Priming; 
- * Self-confidence and usage independence;
- * Carpentry teaching practices (http://swcarpentry.github.io/instructor-training/15-practices/);
- * The role of wrap-up sessions;
+
+ * What makes a good training session?
+ * Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust
+ * What makes a good trainer?
+ * The GOBLET skills matrix for trainers
+ * Teaching as a preformance art: promoting learner engagement
+ * Motivation and demotivation
+ * Self-confidence and usage independence
+ * The seven principles of learning
+ * Integrating active learning strategies into your course. Learning by doing.
+ * Gamification;
+ * [Carpentry teaching practices](http://swcarpentry.github.io/instructor-training/15-practices/)
+ * The role of wrap-up sessions;]
 
 ### Session 3: Session, course, and materials design
 * Training session design and plan;
