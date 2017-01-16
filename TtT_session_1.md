@@ -9,6 +9,7 @@
  * [The Bloom's six categories of cognitive skills](#bloom)
  * [How learning works](#works)
  * [Relevant models from cognitive science](#relevant)
+ * [Declarative and procedural knowledge](#declarative)
  * [What is formal and non-formal learning?](#formal)
  * [Active Learning](#active)
  * [Novices *vs* experts in learning](#novice)
@@ -37,9 +38,9 @@ Since this material cannot cover the broad literature on the subject of learning
 
 ###Terminology used in learning
 
-Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer sets of definitions that will help you to survive.
+Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer a set of definitions that will help you to survive.
 
-Before we do that, let us propose a minimal subset of specific terms, by choice, that we will try to use in the context of bioinformatics training in  a  consistent way. 
+Out of this set, we will propose a minimal subset of specific terms, by choice, that we will try to use in the context of bioinformatics training in  a  consistent way. 
 
 
 #### Common terms used in the science of learning
@@ -60,7 +61,6 @@ In the following list, most definitions are taken from the [Glossary of Online L
 * **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
 * **LEARNING OBJECTIVES**: Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course.
 * **LEARNING OUTCOMES**: A Learning Outcome is an outcome statement that captures specifically what knowledge, skills, attitudes learners should be able to exhibit following instruction.
-* **INSTRUCTOR LED TRAINING (ILT)**: ILT typically refers to providing instruction in a classroom environment where the instructor and learners are together at the same time and in the same physical location.
 * **MOBILE LEARNING**: Learning that takes place on a hand-held device, such as a mobile phone, that can take place anytime and anywhere.
 * **MULTIMEDIA**: Multimedia refers to the presentation of information and instruction through a combination of graphics, audio, text, or video. Multimedia instruction is often interactive.
 * **ONLINE LEARNING**: The term online learning is often used synonymously with eLearning. It is an umbrella term that includes any type of learning accomplished on a computer and usually over the Internet.
@@ -117,7 +117,7 @@ In the context of training, we will prefer to use the term **instructor** instea
 
 These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
 
-Here is an attempt to clarify this situation and remove the ambiguities:
+Here is an attempt to clarify this situation and remove ambiguities:
 
 ####Learning Objectives
  * Objectives describe the goals and intentions of the instructor.
@@ -158,8 +158,6 @@ The representation of the Bloom's hierarchy using a pyramid is aimed at stressin
 Critical thinking - which is the highest goal of learning - is only possible if it lays on the solid bases of the other five categories.
 As instructors, we should make it possible for the learners to acquire the knowledge needed to develop a given skill, comprehend the  objects of their learning, be able to apply, analyse and synthetise the concepts we explain them, and finally to critically think and discuss about what they will have learnt in the course. 
 
-In session 2, we describe and discuss teaching strategies to facilitate learning for each of the Bloom's categories. 
-
 In defining the learning objectives and outcomes for your session or course, you should be constantly aware of th Bloom's six categories.
  
 Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
@@ -193,6 +191,9 @@ Source: [List of Measurable Verbs Used to Assess Learning Outcomes ](https://www
 |Evaluation|Do you agree with the actions ...? with the outcomes ...? What is your opinion of ...? How would you prove ...? disprove ...? Can you assess the value or importance of ...? Would it be better if ...? Why did they (the character) choose ...? What would you recommend ...? How would you rate the ...? What would you cite to defend the actions ...? How would you evaluate ...? How could you determine ...? What choice would you have made ...? What would you select ...? How would you prioritize ...? What judgment would you make about ...? Based on what you know, how would you explain ...? What information would you use to support the view ...? How would you justify ...? What data was used to make the conclusion ...? Why was it better that ...? How would you prioritize the facts ...? How would you compare the ideas ...? people ...?|
 Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives)
 
+>### Challenge
+>Write a learning objective AND a learning outcome for a session or a course you usually deliver.
+
 <a name="works"></a>
 ###How learning works
 
@@ -220,7 +221,8 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 
 "Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon)
 
-
+>From Ambrose et al. (2010) "How learning works":
+>
 - Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
 - Learning involves change in knowledge, beliefs, behaviours, or attitudes
 - Learning is not something done to students, but rather **something students themselves do**.
@@ -280,7 +282,7 @@ To understand your particular learning style Honey and Mumford have developed a 
 
 - Become smarter at getting a better fit between learning opportunities and the way you learn best. This makes your learning easier, more effective and more enjoyable. It saves you tackling your learning on a hit-and-miss basis. Equipped with information about your learning preferences, you'll have many more hits and fewer misses.
 - Expand the 'band width' of experiences from which you derive benefit. Becoming an all-round learner, increases your versatility and helps you learn from a wide variety of different experiences - some formal, some informal, some planned and some spontaneous.
-- Improve your learning skills and processes. Increased awareness of how you learn, opens up the whole process to self-scrutiny and improvement. Learning to learn is your most important capability since it provides the gateway to everything else you want to develop
+- Improve your learning skills and processes. Increased awareness of how you learn, opens up the whole process to self-scrutiny and improvement. Learning to learn is your most important capability since it provides the gateway to everything else you want to develop.
 
 |Learning style|What activities different styles relate to|
 |---------------------|---------------|
@@ -302,7 +304,7 @@ Learning activities: main thing to remember:
 
 ####Learning Theories
 
-Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflectbthis bias will not apply to our activity.
+Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflect this bias will not apply to our activity.
 
 **Behaviourism** (started in the early 20th century by John Broadus Watson):
 * Learning is acquiring new behaviours by conditioning.
@@ -312,7 +314,7 @@ Learning is supported by a load of theories, some of them developed by schools o
 
 **Cognitivism** (started in 1920 by Jean Piaget):
 * Learning is based on the development of cognitive capabilities.
-* Its origin is in the "Gestalt Psychlogie"
+* Its origin is in the "Gestalt Psychologie"
 
 **Connectivism** (started in the 1980s by Stephen Downes and George Siemens):
 * Knowledge is perceived from the environment and resides in connections.
@@ -324,24 +326,39 @@ Ref: ["Knowing Knowledge”, George Siemens 2006](http:www.elearnspace.org/Knowi
 Connectivism is at the root of many present movements in learning, sometimes in a silent way (for example the Massive Open Online Courses also known as the MOOCs).
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on.
 
+<a name="declarative"></a>
+###Declarative and procedural knowledge
+
+>From Ambrose et al. (2010) "How learning works":
+>
+>There are many types of knowledge. One kind of knowledge that ppears across many of these typologies is *declarative knowledge*, or the knowledge of facrs and concepts that can be stated or declared. Declarative knowledge can be thought of as "knowing what". 
+>
+>A second type of knowledge is often referred to as *procedural knowledge*, because it involves knowing how and knowing whem to apply various procedures, methods, theories, styles, or approaches. 
+>
+>Declarative and procedural knowledge are not the same, nor do they enable the same kinds of performance. It is common, for instance, for students to know facts and concepts but not know how or when to apply them. In fact, research on science learning demonstrates that even when students can state scientific facts, they are often weak at applying those facts to solve problems, interpret data, and draw conclusions.
+>
+>Similarly, studies have shown that students can often perform procedural tasks without being able to articulate a clear understanding of what they are doing or why. [...] These students may have sufficient procedural knowledge to funcion effectively in specific contexts, yet lack the declarative knowledge of deep features and principles that would allow them both to adapt to different contexts and explain themselves to others.
+
+
+
 <a name="formal"></a>
 ###What is formal and non-formal learning?
 
-Reference source http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm
-
+> Reference source: [http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm](http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm)
+>
 We quote:
+>
+"**Formal learning** is always organised and structured, and has learning objectives. From the learner’s standpoint, it is always intentional: i.e. the learner’s explicit objective is to gain knowledge, skills and/or competences. Typical examples are learning that takes place within the initial education and training system or workplace training arranged by the employer. One can also speak about formal education and/or training or, more accurately speaking, education and/or training in a formal setting. This definition is rather consensual.
+>
+**Informal learning** is never organised, has no set objective in terms of learning outcomes and is never intentional from the learner’s standpoint. Often it is referred to as learning by experience or just as experience. The idea is that the simple fact of existing constantly exposes the individual to learning situations, at work, at home or during leisure time for instance. This definition, with a few exceptions (see Werquin, 2007) also meets with a fair degree of consensus.
+>
+Mid-way between the first two, **non-formal learning** is the concept on which there is the least consensus, which is not to say that there is consensus on the other two, simply that the wide variety of approaches in this case makes consensus even more difficult. Nevertheless, for the majority of authors, it seems clear that non-formal learning is rather organised and can have learning objectives. The advantage of the intermediate concept lies in the fact that such learning may occur at the initiative of the individual but also happens as a by-product of more organised activities, whether or not the activities themselves have learning objectives. In some countries, the entire sector of adult learning falls under non-formal learning; in others, most adult learning is formal. Non-formal learning therefore gives some flexibility between formal and informal learning, which must be strictly defined to be operational, by being mutually exclusive, and avoid overlap."
 
-"Formal learning is always organised and structured, and has learning objectives. From the learner’s standpoint, it is always intentional: i.e. the learner’s explicit objective is to gain knowledge, skills and/or competences. Typical examples are learning that takes place within the initial education and training system or workplace training arranged by the employer. One can also speak about formal education and/or training or, more accurately speaking, education and/or training in a formal setting. This definition is rather consensual.
 
-Informal learning is never organised, has no set objective in terms of learning outcomes and is never intentional from the learner’s standpoint. Often it is referred to as learning by experience or just as experience. The idea is that the simple fact of existing constantly exposes the individual to learning situations, at work, at home or during leisure time for instance. This definition, with a few exceptions (see Werquin, 2007) also meets with a fair degree of consensus.
+In this concern, a bioinformatics training course will most often be best classified as a NON-FORMAL learning instance.
+Whereas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
 
-Mid-way between the first two, non-formal learning is the concept on which there is the least consensus, which is not to say that there is consensus on the other two, simply that the wide variety of approaches in this case makes consensus even more difficult. Nevertheless, for the majority of authors, it seems clear that non-formal learning is rather organised and can have learning objectives. The advantage of the intermediate concept lies in the fact that such learning may occur at the initiative of the individual but also happens as a by-product of more organised activities, whether or not the activities themselves have learning objectives. In some countries, the entire sector of adult learning falls under non-formal learning; in others, most adult learning is formal. Non-formal learning therefore gives some flexibility between formal and informal learning, which must be strictly defined to be operational, by being mutually exclusive, and avoid overlap."
-
-
-In this concern, a bioinformatics training course will most often be best classified as a NON_FORMAL learning instance.
-Whreas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
-
-We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMALway
+We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMAL way
 * It provides essentially skills, rather than deep knowledge
 * It aims at the acquisition of competences
 * It must focus on the learner (learner-centric)
@@ -357,7 +374,8 @@ Please bear in mind that we are speaking about educating ADULTS. This is importa
 <a name="active"></a>
 ###Active learning
 
-"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly." (Waldrop, Nature 2015).
+>"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly." (Waldrop, Nature 2015).
+
 
 ![What people remember](fig/what_people_remember.jpg)
 
@@ -380,10 +398,10 @@ of the Research ([PDF](./doc/Prince-does_active_learning_work.pdf))
 >###Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
 > - Think about yourself as a learner. 
 > - How did you feel about something new when you were a student? How was to be a novice? Can you remember it?
-> - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but know nothing about painting techniques and the theory of colours) Does it happen sometimes?
+> - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but have no clues about painting techniques and the theory of colours). Does it happen sometimes?
 > - How do you feel when you have to learn something new *in your field*? Namely, something that is an extension of your current knowledge about something (e.g. you know well a given OS and you need to learn how a different OS works).
 > - Write at least two things in which novices and experts differ regarding knowledge.
-> > - Write at least two things in which novices and experts differ regarding learning.
+> - Write at least two things in which novices and experts differ regarding learning.
 
 
 ####Knowledge and knowledge organisation
@@ -411,8 +429,8 @@ To learn, we need to be able to memorise - and we actually choose what - and we 
 
 Rote learning methods can produce memorisation, but are exclusively based on repetition. The absence of a proper context, meaning and association is a serious obstacle to the acquisition of proper understanding. Therefore, rote methods have a very limited scope of application in learning. Alternatively, instructors need to opt for active learning or even deep learning methods.
 
-In active learning, the learner actively participates in the construction of his new knowledge. 
-Whereas in deep learning, the learner develops his own organisation scheme/framework where the new knowledge merges with previously acquired knowledge and new meaningful associations emerge logically.
+In active learning, the learner actively participates in the construction of his/her new knowledge. 
+Whereas in deep learning, the learner develops his/her own organisation scheme/framework where the new knowledge merges with previously acquired knowledge and new meaningful associations emerge logically.
 
 Short term memory (STM) has an evanescent behaviour. Repetition, as on rote learning, is maximally effective in producing long term memory (LTM), when not delivered all at once. Paced repetition combines recall with new memorisation, as typically shown in 
 http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
@@ -445,7 +463,7 @@ Active learning environmemnts can benefit from what is known about priming. Care
 >
 ---
 
-In cognitive psychology, cognitive load refers to the total amount of mental effort being used in the working memory. Cognitive load theory was developed out of the study of problem solving by John Sweller in the late 1980s. Sweller argued that instructional design can be used to reduce cognitive load in learners. Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane.
+In cognitive psychology, cognitive load refers to the total amount of mental effort being used in the working memory. Cognitive load theory was developed out of the study of problem solving by John Sweller in the late 1980s. Sweller argued that instructional design can be used to reduce cognitive load in learners. 
 Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane.
 
 Intrinsic cognitive load is the effort associated with a specific topic. Extraneous cognitive load refers to the way information or tasks are presented to a learner. And, germane cognitive load refers to the work put into creating a permanent store of knowledge, or a schema.

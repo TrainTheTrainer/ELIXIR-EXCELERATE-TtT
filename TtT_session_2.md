@@ -58,35 +58,36 @@ Lectures, as traditionally used in formal learning, are characterised by a unidi
 
 In training, we also use lectures to convey information, but we make them short, and, n«more importantly we make them fit in a model of delivery that is called a closed loop. The instructor delivers information so that it can be immediately utilised in and exercise or some other form of assessment. The learner perceives the effect of the incoming information and his/her ability to use it, and has an opportunity to interact with the instructor, thus "closing the loop". The instructor uses this mode to ensure that the new knowledge or skill is well sedimented in the learner's brain, and corrects whatever is needed.
 
-#### Interactive lectures as described by the Science Education Resource Center at Carleton College ([SERC] (http://serc.carleton.edu/index.html))
-
-We quote from [the SERC portal for Educators](http://serc.carleton.edu/sp/library/interactive//index.html):
-
-Interactive lectures are classes in which the instructor breaks the lecture at least once per class to have students participate in an activity that lets them work directly with the material. The instructor might begin the interactive segment with an engagement trigger (thought-provoking questions, evocative visuals, physical props, cartoons, photographs, evocative textual passages, clips) that captures and maintains student attention.
-
-An interactive lecture is an easy way for instructors to intellectually engage and involve students as active participants in a lecture-based class of any size. Interactive lectures are classes in which the instructor breaks the lecture at least once per class to have students participate in an activity that lets them work directly with the material.
-
+>
+>#### Interactive lectures as described by the Science Education Resource Center at Carleton College ([SERC] (http://serc.carleton.edu/index.html))
+>
+>We quote from [the SERC portal for Educators](http://serc.carleton.edu/sp/library/interactive//index.html):
+>
+>Interactive lectures are classes in which the instructor breaks the lecture at least once per class to have students participate in an activity that lets them work directly with the material. The instructor might begin the interactive segment with an engagement trigger (thought-provoking questions, evocative visuals, physical props, cartoons, photographs, evocative textual passages, clips) that captures and maintains student attention.
+>
+>An interactive lecture is an easy way for instructors to intellectually engage and involve students as active participants in a lecture-based class of any size. Interactive lectures are classes in which the instructor breaks the lecture at least once per class to have students participate in an activity that lets them work directly with the material.
+>
 * The instructor might begin the interactive segment with an engagement trigger that captures and maintains student attention.
 * Then the instructor incorporates an activity that allows students to apply what they have learned or give them a context for upcoming lecture material.
 * As the instructor feels more comfortable using interactive techniques he or she might begin to call upon a blend of various interactive techniques all in one class period.
-
-####Why use interactive lecture?
+>
+>####Why use interactive lecture?
 Lecturing is a time-honored teaching technique that is an efficient method to present large amounts of content in classes of any size and it is efficient for sharing information with large numbers of students, but may result in students who listen passively.
-
+>
 * Making lectures interactive by including techniques such as think-pair-share, demonstrations, and role playing, can foster active engagement and enhance the value of the lecture segments.
 * Using techniques that allow all of the students to participate, instead of having individual students answer questions when called on, will promote student retention and learning of the material presented during lecture, give students practice in developing critical-thinking skills, and enable instructors to assess how well the class is learning that day.
 * Breaking up the lecture with these techniques not only provides format change to engage students, these activities allow students to immediately apply content and provides feedback to the instructor on student
-
-####How to give an interactive lecture
+>
+>####How to give an interactive lecture
 Giving an interactive lecture involves creating and delivering an effective segmented lecture with engagement triggers and well-selected interactive lecture techniques.
+>
+>* The instructor must begin by giving attention to pre-instructional planning and various classroom management and logistical issues that allow for modification from the traditional lecture format. Learning goals must be established for interactive lecture techniques, the instructor must determine what types of tasks will be involved and what sort of engagement trigger might be appropriate for the activity (see more about establishing learning goals).
+>* Next, an interactive lecture technique must be selected and adapted for the specific course and content and attention must be given to how student feedback will be collected. In the most interactive of lectures, the instructor's traditional contributions would be short and the interactive activities could be both planned and spontaneous. 
 
-* The instructor must begin by giving attention to pre-instructional planning and various classroom management and logistical issues that allow for modification from the traditional lecture format. Learning goals must be established for interactive lecture techniques, the instructor must determine what types of tasks will be involved and what sort of engagement trigger might be appropriate for the activity (see more about establishing learning goals).
-* Next, an interactive lecture technique must be selected and adapted for the specific course and content and attention must be given to how student feedback will be collected. In the most interactive of lectures, the instructor's traditional contributions would be short and the interactive activities could be both planned and spontaneous. 
+The TtT taskforce of the Global Organisation for Bioinformatics Learning, Education and Training ([GOBLET] (http://mygoblet.org)), developed a skills matrix for trainiers. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! 
 
 <a name="gobletmatrix"></a>
 > ###Challenge 3: The GOBLET skills matrix for trainers
-> This matrix was developed by GOBLET TtT taskforce. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! 
-> 
 > 1. Try to reflect on your current skills and how they fit with this matrix.  
 > 
 > 2. Then share your thoughts with us.
@@ -159,12 +160,6 @@ Examples of techniques that you can use to promote engagement in training:
 * Introduce physical exercise (e.g. at the beginning of after-lunch sessions): this is good for both physical and mental health
 * Introduce short, relaxing breaks (e.g. one minute meditation)
 * Assign tasks to groups (e.g. Python libraries) and let the groups present the result of their work
-
-
-<a name="self"></a>
-###Self-confidence and usage independence
-
-...
 
 
 <a name="principles"></a>
