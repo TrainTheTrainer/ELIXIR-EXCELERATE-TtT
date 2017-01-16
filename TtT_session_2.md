@@ -166,7 +166,7 @@ Examples of techniques that you can use to promote engagement in training:
 ###The seven principles of learning
 
 > **See also**: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
-
+>
 - **Principle P1**:	Students' prior knowledge can help or hinder learning.
 - **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
 - **Principle P3**:	Students motivation determines, directs and sustains what they do learn.
@@ -174,9 +174,9 @@ Examples of techniques that you can use to promote engagement in training:
 - **Principle P5**:	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
 - **Principle P6**:	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
 - **Principle P7**:	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
-
-**Instructional strategies that collectively address all seven principles (P1-P7)**:
-
+>
+>**Instructional strategies that collectively address all seven principles (P1-P7)**:
+>
 - **Strategy S1**: Collect data about students and use it to design instruction (P1,P3).
 - **Strategy S2**: Be explicit about your learning goals, learning objectives and expecations (P3, P5, P6). Make your learning goals challenging but attainable by most of the learners in your course. Write detailed learning outcomes that spell out what the learners should be able to do (define, explain, calculate, model, critique, design,...) if they have aquired the knowledge and skills you are trying to help them to develop, and share your objectives with the learners.
 - **Strategy S3**: Scaffold complex tasks (P2-P7). Teach and test at a level that is challenging but not too far above the learners' current klnowledge and skill levels.
@@ -188,26 +188,26 @@ Examples of techniques that you can use to promote engagement in training:
 
 Consider ways to set clear expectations, design effective evaluation strategies and provide helpful feedback.
 
-We quote from [Richard M Felder and Rebecca Brent](./docs/active_learning_an_introduction.pdf):<br>
-
-"If you think of anything a teacher might ask students to do — answer questions in class,complete assignments and projects outside class, carry out lab experiments, or anything else other than sitting passively in a classroom — you will find people who would classify it as active learning. We find that a more restricted definition limited to in-class activities is more useful: 
-
-*Active learning is anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes.*
-
-You are doing active learning in your class when:
- 
+> We quote from [Richard M Felder and Rebecca Brent](./docs/active_learning_an_introduction.pdf):<br>
+>
+>If you think of anything a teacher might ask students to do — answer questions in class,complete assignments and projects outside class, carry out lab experiments, or anything else other than sitting passively in a classroom — you will find people who would classify it as active learning. We find that a more restricted definition limited to in-class activities is more useful: 
+>
+>*Active learning is anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes.*
+>
+>You are doing active learning in your class when:
+> 
 * you ask a question, pose a problem, or issue some other type of challenge; 
 * tell your students to work individually or in small groups to come up with a response; give them some time to do it; 
 * stop them, and call on one or more individuals or groups to share their responses. 
-
-You are **not** doing active learning when: 
-
+>
+>You are **not** doing active learning when: 
+>
 * you lecture, 
 * ask questions that the same few students always answer, 
 * or conduct discussions that engage only a small fraction of the class. <br>
-We are not about to propose that you throw out lecturing and make every class you teach a total active learning extravaganza. You know more than most of your students do about your subject, and you need to spend part of your class time teaching them what you know - explaining, clarifying, demonstrating, modeling, etc. 
-
-What we are suggesting is that **you avoid making lecturing the only thing you do**. If a lecture or recitation session includes even a few minutes of relevant activity — a minute here, 30 seconds there —the students will be awake and with you for the remaining time in a way that never happens in a traditional lecture, and most will retain far more of what happens in those few minutes than of what you say and do in the rest of the session."
+>>We are not about to propose that you throw out lecturing and make every class you teach a total active learning extravaganza. You know more than most of your students do about your subject, and you need to spend part of your class time teaching them what you know - explaining, clarifying, demonstrating, modeling, etc. 
+>
+>What we are suggesting is that **you avoid making lecturing the only thing you do**. If a lecture or recitation session includes even a few minutes of relevant activity — a minute here, 30 seconds there —the students will be awake and with you for the remaining time in a way that never happens in a traditional lecture, and most will retain far more of what happens in those few minutes than of what you say and do in the rest of the session.
 
 Our experience suggests that there are activities that should be reduced and activities that should be carried out as much intensively as possible.
 
