@@ -191,7 +191,7 @@ A description of the book written by the authors can be found [here](angelo_and_
 
 In the following we report the seven assumptions on which the CATs are based and five suggestions to use them fruitfully and effectively: 
 
->From [Angelo and Cross]()
+>From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
 > 1. The quality of student learning is directly, although not exclusively, related to the quality of teaching. Therefore, one of the most promising ways to improve learning is to improve teaching.2. To improve their effectiveness teachers need first to make their goals and objectives explicit and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.3. To improve their learning, students need to receive appropnate and focused feedback early and often; they also need to learn how to assess their own learning.4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.5. Systematic inquiry and intellectual challenge are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.

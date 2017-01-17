@@ -35,12 +35,12 @@ In this session you will learn how to:
 > **The beginning of a concept map with a focus question and a parking lot with concepts to be included in the map:**
 > 
 > 
-> ![focus session and parking lot](fig/concept-map-parking-lot.tiff)
+> ![focus session and parking lot](fig/concept-map-parking-lot.jpg)
 > 
 > **An expert skeleton concept map**<br>
 > The concept map deals with a key concept that needs to be understood as a foundation for learning science. It is based on the parking lot from the previous figure. Some comcepts were left in the parking lot for subsequent addition.
 > 
-> ![focus session and parking lot](fig/concept-map.tiff)
+> ![focus session and parking lot](fig/concept-map.jpg)
 
 
 ## Design of a three-minute presentation
