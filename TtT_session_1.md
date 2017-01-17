@@ -94,7 +94,6 @@ A first difference we make is between **teaching** and **training**. Here is a l
 #### "Instructor" *vs* "teacher" and "learner *vs* student"
 In the context of training, we will prefer to use the term **instructor** instead of teacher or professor. We will tend to use the term **learner** instead of student. These choices are adopted just because they are more encompassing.
 
-
 <a name="learning"></a>
 
 ###Learning aims, objectives and outcomes
