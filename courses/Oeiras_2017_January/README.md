@@ -59,6 +59,13 @@ On the second day (Fri, Jan 20th 2017) TtT participants will work on sessions 3 
 ### Shared Logbook
 TtT-Oeiras-Jan2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-PT](https://etherpad.net/p/TtT_ELIXIR-PT)
 
+### Repostory
+The content of the TrainTheTrainer EXCELERATE-TtT repository that you are reading has been contributed by:
+
+* Allegra Via, ELIXIT-IT
+* Vincenza Colonna, ELIXIR-IT
+* Pedro Fernandes, ELIXIR-PT
+
 ---
 ### On knowledge, by Donald Rumsfeld:
 > As we know,<br>
