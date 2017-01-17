@@ -10,15 +10,15 @@
 
 **Participants:**
 
-**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa<br>
-**Carina Silva**, Escola Superior de Tecnologias da Saúde<br>
-**Daniel Sobral**, Instituto Gulbenkian de Ciência<br>
-**Fernanda Diamantino**,  Faculdade de Ciências da Universidade de Lisboa<br>
-**Tiago Maie**, Instituto Gulbenkian de Ciência<br>
-**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência<br><br>
-**Ana Marreiros**, Universidade do Algarve<br>
-**Filomena Carnide**, Faculdade da Motricidade Himana<br>
-**Ana Moura Santos**, Instituto Superior Técnico<br>
+**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT<br>
+**Daniel Sobral**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Fernanda Diamantino**,  Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Tiago Maié**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Ana Marreiros**, Universidade do Algarve, Faro, PT<br>
+**Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT<br>
+**Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT<br>
 
 
 ##
