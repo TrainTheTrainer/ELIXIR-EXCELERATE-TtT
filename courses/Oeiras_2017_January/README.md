@@ -19,14 +19,14 @@
 **Ana Marreiros**, Universidade do Algarve, Faro, PT<br>
 **Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT<br>
 **Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT<br>
-
+**Manuela Neves**, Instituto Superior de Agronomia, Lisboa, PT<br>
 
 ##
 
 **Purpose:**
 
 ELIXIR-PT at the Instituto Gulbenkian de Ciência, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, 
-will hold a Train the Trainer (TtT) event for instructors andfuture instructors of the GTPB Programme. 
+will hold a Train the Trainer (TtT) event for instructors and future instructors of the GTPB Programme. 
 
 The course is made up of four sessions, covering: 
 
