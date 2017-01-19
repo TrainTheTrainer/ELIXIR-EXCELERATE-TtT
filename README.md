@@ -1,31 +1,32 @@
 # EXCELERATE-TtT
 
-#5th Pilot Course at the Swiss Institute of Bioinformatics, Lausanne, Switzerland
+# Train the Trainer workshop
 
-**Instructors:**
+**Instructor:**
 
-**Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Patricia Palagi**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
-**Diana Marek**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
+**Pedro Fernandes**, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
 
 ##
 
 **Participants:**
 
-**Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>
-**David Francisco**, Universität Bern, Switzerland <br>
-**Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>
-**Jessica Lindvall**, NBIS, SciLifeLab, Sweden <br>
-**Mosè Manni**, Université de Genève, Switzerland <br>
-**Madeleine Scriba**, Université de Lausanne, Switzerland <br>
-**Mathieu Seppey**, Université de Genève, Switzerland <br>
-**Armand Valsesia**, Nestlé Institute of Health Science, Switzerland <br>
+**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT<br>
+**Daniel Sobral**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Fernanda Diamantino**,  Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Tiago Maié**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Ana Marreiros**, Universidade do Algarve, Faro, PT<br>
+**Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT<br>
+**Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT<br>
+**Manuela Neves**, Instituto Superior de Agronomia, Lisboa, PT<br>
 
 ##
 
 **Purpose:**
 
-ELIXIR-CH, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
+ELIXIR-PT at the Instituto Gulbenkian de Ciência, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, 
+will hold a Train the Trainer (TtT) event for instructors and future instructors of the GTPB Programme. 
 
 The course is made up of four sessions, covering: 
 
@@ -35,11 +36,12 @@ The course is made up of four sessions, covering:
 * [Session, course, and materials design] (./TtT_session_3.md)
 
 
-The learning objectives of the first day of the course (Mon, 16th Jan 2017) consist of exploring, discussing and understanding the themes of session 1 and 2.
+The learning objectives of the first day of the course (Thu, Jan 19th 2017) consist of exploring, discussing and understanding 
+the themes of session 1 and 2.
+On the second day (Fri, Jan 20th 2017) TtT participants will work on sessions 3 and 4 and will engage in two practical exercises:
 
-The following day (Tuesday, 17th Jan 2017) TtT participants will act as observers and training assistants in a Linux session until lunchtime.
-
-In the afternoon, we will work on session 4, whereas session 3 will be covered on the morning of day 3 (Wednesday, 18th Jan 2017).
+* Running a training session based on an exercise (almost no lecture time).
+* Running a flipped-classroom session, as instructors and as learners.
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
@@ -54,7 +56,15 @@ In the afternoon, we will work on session 4, whereas session 3 will be covered o
  * Learners can develop assessment questionnaires
  * Learners can tell what types of material are needed for each part of a training session 
 
-TtT-Lausanne 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-CH](https://etherpad.net/p/TtT_ELIXIR-CH)
+### Shared Logbook
+TtT-Oeiras-Jan2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-PT](https://etherpad.net/p/TtT_ELIXIR-PT)
+
+### Repository
+The content of the TrainTheTrainer EXCELERATE-TtT repository that you are reading has been contributed by:
+
+* Allegra Via, ELIXIT-IT
+* Vincenza Colonna, ELIXIR-IT
+* Pedro Fernandes, ELIXIR-PT
 
 ---
 ### On knowledge, by Donald Rumsfeld:
@@ -77,7 +87,7 @@ TtT-Lausanne 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-CH](https://eth
 
  Time | Activity
 :-------------|:----------------
-Monday, 16th          |
+Thursday, 19th          |
 10.00 - 10.30         | Introductions, who is who and what we need to achieve
 10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
 12.30 - 13.30			  | Lunch
@@ -85,7 +95,7 @@ Monday, 16th          |
 15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 18:30 - 19:00			  | Wrap-up, and assignment
 19.30 - 21.30			  | Dinner with feedback and discussions
-Tuesday, 17th         |
+Friday, 20th         |
 09.00 - 12.30			  | Unix command line course
 14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 19.30 - 21.30         | Dinner with feedback and discussions
