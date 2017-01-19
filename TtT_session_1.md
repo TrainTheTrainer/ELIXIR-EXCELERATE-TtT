@@ -331,7 +331,7 @@ For a large number of reasons that we can - and should - discuss at length, conn
 >
 >There are many types of knowledge. One kind of knowledge that ppears across many of these typologies is *declarative knowledge*, or the knowledge of facrs and concepts that can be stated or declared. Declarative knowledge can be thought of as "knowing what". 
 >
->A second type of knowledge is often referred to as *procedural knowledge*, because it involves knowing how and knowing whem to apply various procedures, methods, theories, styles, or approaches. 
+>A second type of knowledge is often referred to as *procedural knowledge*, because it involves knowing how and knowing when to apply various procedures, methods, theories, styles, or approaches. 
 >
 >Declarative and procedural knowledge are not the same, nor do they enable the same kinds of performance. It is common, for instance, for students to know facts and concepts but not know how or when to apply them. In fact, research on science learning demonstrates that even when students can state scientific facts, they are often weak at applying those facts to solve problems, interpret data, and draw conclusions.
 >
@@ -365,7 +365,7 @@ We may pragmatically think of EFFICIENT bioinformatics training provision in the
 
 The EFFICIENCY of training can - and should - be independently assessed by the capability of reaching the desired OUTCOMES, in the context of the stated OBJECTIVES.
 
-Please bear in mind that we are speaking about educating ADULTS. This is important because adults have their interests focused of their self-improvement, and see training as a capacity-building exercise. Adults like to be respected as such, that their expectations are individually met, in an exhaustive way.
+Please bear in mind that we are speaking about educating ADULTS. This is important because adults have their interests focused of their self-improvement, and see training as a capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way. The term Andragogy refers to the mthodologies that apply to the edication of adults. Many times, actually quite often, Pedagogy is used instead, because many methods have common roots and actually show a small number of differences. 
 
 > Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
 
