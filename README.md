@@ -88,21 +88,20 @@ The content of the TrainTheTrainer EXCELERATE-TtT repository that you are readin
  Time | Activity
 :-------------|:----------------
 Thursday, 19th          |
-10.00 - 10.30         | Introductions, who is who and what we need to achieve
+09.30 - 10.30         | Introductions, who is who and what we need to achieve
 10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-12.30 - 13.30			  | Lunch
-13.30 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-18:30 - 19:00			  | Wrap-up, and assignment
-19.30 - 21.30			  | Dinner with feedback and discussions
-Friday, 20th         |
-09.00 - 12.30			  | Unix command line course
-14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
-19.30 - 21.30         | Dinner with feedback and discussions
-Wednesday, 18th       |
-09.00 - 12.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30         | Lunch with Session 4’s feedback and discussions
-13.30 - 15.00         | Course feedback and wrap-up
+12.30 - 13.30			      | Lunch
+14.00 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
+16.00 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+18:30 - 19:00			      | Wrap-up, and assignment
+
+Friday, 20th          |
+09.30 - 10.30			      | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+11.00 - 12.30         | Assignment #1
+12.30 - 13.30         | Lunch
+14.00 - 15.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
+16.00 - 18.00         | Assignment #2
+18.00 - 18.30         | Course feedback and wrap-up
 
  
 ### Session 1: Review of learning principles and how they apply to training
@@ -156,7 +155,7 @@ Wednesday, 18th       |
 * Systematic Feedback;
 * (Short and long term) Post-course feedback.
 
-## Materials to explore before attending the course:
+## Materials to explore:
 
 * https://www.youtube.com/watch?v=Z9orbxoRofI
 * Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](./docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
