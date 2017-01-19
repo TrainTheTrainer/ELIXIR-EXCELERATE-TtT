@@ -94,7 +94,6 @@ Thursday, 19th          |
 14.00 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
 16.00 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 18:30 - 19:00			      | Wrap-up, and assignment
-
 Friday, 20th          |
 09.30 - 10.30			      | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 11.00 - 12.30         | Assignment #1
