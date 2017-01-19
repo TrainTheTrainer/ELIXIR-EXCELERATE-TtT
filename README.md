@@ -1,6 +1,6 @@
 # EXCELERATE-TtT
 
-# Train the Trainer workshop
+# Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme. 
 
 **Instructor:**
 
@@ -96,10 +96,14 @@ Thursday, 19th          |
 18:30 - 19:00			      | Wrap-up, and assignment
 Friday, 20th          |
 09.30 - 10.30			      | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
-11.00 - 12.30         | Assignment #1
+11.00 - 12.30         | Assignment #1 An experiment with Flipped Classroom. Please watch the video at home. 
+                      | https://youtu.be/5NMxiOGL39M
+                      | Come to a discussion ready to play the roles of learner and instructor.
+                      | The discusion will be focused on the key concepts that one can extract from the video.
 12.30 - 13.30         | Lunch
 14.00 - 15.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-16.00 - 18.00         | Assignment #2
+16.00 - 18.00         | Assignment #2 Run an introductory session on Linux command line with an exercise and minimal lecturing
+                      | 
 18.00 - 18.30         | Course feedback and wrap-up
 
  
