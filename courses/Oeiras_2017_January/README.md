@@ -87,7 +87,7 @@ The content of the TrainTheTrainer EXCELERATE-TtT repository that you are readin
 
  Time | Activity
 :-------------|:----------------
-Monday, 16th          |
+Thursday, 19th          |
 10.00 - 10.30         | Introductions, who is who and what we need to achieve
 10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
 12.30 - 13.30			  | Lunch
@@ -95,7 +95,7 @@ Monday, 16th          |
 15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 18:30 - 19:00			  | Wrap-up, and assignment
 19.30 - 21.30			  | Dinner with feedback and discussions
-Tuesday, 17th         |
+Friday, 20th         |
 09.00 - 12.30			  | Unix command line course
 14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 19.30 - 21.30         | Dinner with feedback and discussions
