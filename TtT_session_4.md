@@ -39,7 +39,8 @@ Feedback to learners can be summative or formative. <br>
 
 *Formative assessment*. Formative assessment takes place **during** teaching and learning. Its purpose is to help both instructors and learners to become aware of what the focus should be. 
 
-"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and arealmost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
+"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and are
+almost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
 
 Formative assessment can be used to collect information about learners'
 
@@ -67,9 +68,15 @@ And can help understand
 > 
 
 From the [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
-> *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of studentcomprehension, learning needs, and academic progress during alesson, unit, or course. 
+> *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of student
+comprehension, learning needs, and academic progress during a
+lesson, unit, or course. 
 >
-> Formative assessments help teachers identify concepts that students are struggling to understand, skills they are having difficulty acquiring, or learning standards they have not yet achieved so that adjustments can be made to lessons, instructional techniques, and academic support.>>The general goal of formative assessment is to collect detailedinformation that can be used to improve instruction and studentlearning while it’s happening. 
+> Formative assessments help teachers identify concepts that students are struggling to understand, skills they are having difficulty acquiring, or learning standards they have not yet achieved so that adjustments can be made to lessons, instructional techniques, and academic support.
+>
+>The general goal of formative assessment is to collect detailed
+information that can be used to improve instruction and student
+learning while it’s happening. 
 >
 >What makes an assessment “formative” is not the design of a test, technique, or self-evaluation, per se, but the way it is used—i.e., to inform in-process teaching and learning modifications.
 >
@@ -194,9 +201,21 @@ In the following we report the seven assumptions on which the CATs are based and
 >From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
-> 1. The quality of student learning is directly, although not exclusively, related to the quality of teaching. Therefore, one of the most promising ways to improve learning is to improve teaching.2. To improve their effectiveness teachers need first to make their goals and objectives explicit and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.3. To improve their learning, students need to receive appropnate and focused feedback early and often; they also need to learn how to assess their own learning.4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.5. Systematic inquiry and intellectual challenge are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
+> 
+1. The quality of student learning is directly, although not exclusively, related to the quality of teaching. Therefore, one of the most promising ways to improve learning is to improve teaching.
+2. To improve their effectiveness teachers need first to make their goals and objectives explicit and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.
+3. To improve their learning, students need to receive appropnate and focused feedback early and often; they also need to learn how to assess their own learning.
+4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.
+5. Systematic inquiry and intellectual challenge are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.
+6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.
+7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
 >
-> Five suggestions for a successful start:1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.2. Don't make Classroom Assessment into a self-inflicted chore or burden.3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.4. Allow for more time than you think you will need to carry out and respond to the assessment.5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
+> Five suggestions for a successful start:
+1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.
+2. Don't make Classroom Assessment into a self-inflicted chore or burden.
+3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.
+4. Allow for more time than you think you will need to carry out and respond to the assessment.
+5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
 
 
 <a name="self"></a>
@@ -220,7 +239,7 @@ Quotes form "Peer Instruction, Getting students to think in class" by Erik Mazur
 "the first exposure to new material comes from reading printed material before the lecture reading." 
 
 
-to be continued .... SEE QUESTIONNAIRE [here](./doc/peer-instruction-Mazur.pdf)
+to be continued .... SEE QUESTIONNAIRE [here](./docs/peer-instruction-Mazur.pdf)
 
 
 ##Feedback from learners
