@@ -58,10 +58,10 @@ In this session you will learn how to:
 
 > - You will be split into groups of 3 or 4;
 > - Make sure your group has a laptop and a phone which can record video;
-> - You need to each deliver your 3 minute session to the others;
+> - Each of you needs to deliver a 3 minute session to the others;
 > - One person delivers the session;
 > - One person records on the phone;
-> - One person notes down comments real-time;
+> - One person takes  notes and comments in real-time;
 > - You then provide feedback to each individual, and give your own comments on your delivery;
 > - You then have time to revise your session, before delivering to the whole group.
 
@@ -93,7 +93,7 @@ Allocate enough time to complete the assignment and be ready to allocate extra t
 Show the solution of the exercises, or - even better - ask one or more learners to show it to the class.  
 
 **Wrap-up**<br>
-The wrap-uo can be used to repeat the main concepts illustrated during the teaching. This should be preferably done by learners. 
+The wrap-up can be used to repeat the main concepts illustrated during the teaching. This should be preferably done by the learners. 
 It can also be used to assess learning outcomes (for example using a questionnaire with questions similar to the questions of the warm-up questionnaire, or any other test).
 In a course wrap-up, you can also assess learners' expectations and collect feedback from them.
 
@@ -135,7 +135,7 @@ ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
 <a name="mat2"></a>
 ### Training materials: Archival; Sharing; Making re-use possible
 
-Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
+Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a connection to other parts of the event, they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
 
 Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
 
