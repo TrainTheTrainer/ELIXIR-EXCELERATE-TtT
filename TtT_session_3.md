@@ -237,7 +237,7 @@ Functionality
 Learners aceess to anything that is shared should be in the first line of priority. Access to shared storage space should be made easy. To communicate with the learners, video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard to pin materials, etc. should have premium access and ease of use.
 
 Hardware neeeds
-In some subjects, network connections providing simple browing (Port 80) or SSH acceess (Port 22) are more than sufficient. In that case, BYOD (bring your own device) can be adequate. The room must have easy power and network connections, including a good quality wifi access. 
+In some subjects, network connections providing simple browsing (Port 80) or SSH access (Port 22) are more than sufficient. In that case, BYOD (bring your own device) can be adequate. The room must have easy power and network connections, including a good quality wifi access. 
 
 Presently, playing with relatively demanding software in local machines is still needed. You may need to play with assemblers and mappers for NGS data, for example. For that, well configured workstations (enhaced  PCs) are still the best choice. Foreseeably virtualised environments on performant hardware will end-up reducing  this need to the level of lightweight terminal equipment, but we are still on the way to get such facilities in place with adequate quality.
 
