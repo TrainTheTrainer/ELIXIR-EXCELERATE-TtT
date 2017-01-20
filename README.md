@@ -162,8 +162,8 @@ Friday, 20th          |
 ## Materials to explore:
 
 * https://www.youtube.com/watch?v=Z9orbxoRofI
-* Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](../../docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
-* Good teaching - the top ten requirements ([PDF](../../docs/good_teaching_the_top_ten_requirements.pdf))
+* Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](../docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
+* Good teaching - the top ten requirements ([PDF](../docs/good_teaching_the_top_ten_requirements.pdf))
 
 ## Additional Ideas for Challenges:
 
