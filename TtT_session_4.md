@@ -194,11 +194,11 @@ The key to taking advantage of these strengths, however, is construction of good
  - Assessing Learner Reactions to Teachers and Teaching
  - Assessing Learner Reactions to Class Activities, Assignments, and Materials
 
-A description of the book written by the authors can be found [here](angelo_and_cross_assessment_techniques.pdf). 
+A description of the book written by the authors can be found [here](./docs/angelo_and_cross_assessment_techniques.pdf). 
 
 In the following we report the seven assumptions on which the CATs are based and five suggestions to use them fruitfully and effectively: 
 
->From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
+>From [Angelo and Cross](./docs/angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
 > 
