@@ -9,16 +9,16 @@ Pedro Fernandes, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT
 
 Participants:
 
-Lisete Maria de Sousa, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
-Carina Silva, Escola Superior de Tecnologias da Saúde, Lisboa, PT
-Daniel Sobral, Instituto Gulbenkian de Ciência, Oeiras, PT
-Fernanda Diamantino, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
-Tiago Maié, Instituto Gulbenkian de Ciência, Oeiras, PT
-Gabriele Sgarlata, Instituto Gulbenkian de Ciência, Oeiras, PT
-Ana Marreiros, Universidade do Algarve, Faro, PT
-Filomena Carnide, Faculdade da Motricidade Humana, Lisboa, PT
-Ana Moura Santos, Instituto Superior Técnico, Lisboa, PT
-Manuela Neves, Instituto Superior de Agronomia, Lisboa, PT
+**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
+**Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT
+**Daniel Sobral**, Instituto Gulbenkian de Ciência, Oeiras, PT
+**Fernanda Diamantino**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
+**Tiago Maié**, Instituto Gulbenkian de Ciência, Oeiras, PT
+**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência, Oeiras, PT
+**Ana Marreiros**, Universidade do Algarve, Faro, PT
+**Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT
+**Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT
+**Manuela Neves**, Instituto Superior de Agronomia, Lisboa, PT
 
 Purpose:
 
