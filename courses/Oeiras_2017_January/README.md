@@ -1,6 +1,7 @@
 # EXCELERATE-TtT
 
-# Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme. 
+# Train the Trainer Pilot Course <br>
+##for instructors and future instructors of the GTPB Programme. 
 
 **Instructor:**
 
