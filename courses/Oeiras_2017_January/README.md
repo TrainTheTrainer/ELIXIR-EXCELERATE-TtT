@@ -1,8 +1,8 @@
 
 ##EXCELERATE-TtT##
 
-#Train the Trainer Pilot Course<br>
-for instructors and future instructors of the GTPB Programme.#
+#Train the Trainer Pilot Course#<br>
+for instructors and future instructors of the GTPB Programme
 
 **Instructor:**
 
@@ -10,18 +10,18 @@ for instructors and future instructors of the GTPB Programme.#
 
 **Participants:**
 
-**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
-**Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT
-**Daniel Sobral**, Instituto Gulbenkian de Ciência, Oeiras, PT
-**Fernanda Diamantino**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
-**Tiago Maié**, Instituto Gulbenkian de Ciência, Oeiras, PT
-**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência, Oeiras, PT
-**Ana Marreiros**, Universidade do Algarve, Faro, PT
-**Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT
-**Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT
-**Manuela Neves**, Instituto Superior de Agronomia, Lisboa, PT
+**Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT<br>
+**Daniel Sobral**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Fernanda Diamantino**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT<br>
+**Tiago Maié**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Gabriele Sgarlata**, Instituto Gulbenkian de Ciência, Oeiras, PT<br>
+**Ana Marreiros**, Universidade do Algarve, Faro, PT<br>
+**Filomena Carnide**, Faculdade da Motricidade Humana, Lisboa, PT<br>
+**Ana Moura Santos**, Instituto Superior Técnico, Lisboa, PT<br>
+**Manuela Neves**, Instituto Superior de Agronomia, Lisboa, PT<br>
 
-Purpose:
+**Purpose:**
 
 ELIXIR-PT at the Instituto Gulbenkian de Ciência, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event for instructors and future instructors of the GTPB Programme.
 
