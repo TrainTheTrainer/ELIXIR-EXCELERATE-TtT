@@ -1,6 +1,6 @@
 # EXCELERATE-TtT
 
-# Train the Trainer workshop
+# Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme. 
 
 **Instructor:**
 
@@ -88,21 +88,24 @@ The content of the TrainTheTrainer EXCELERATE-TtT repository that you are readin
  Time | Activity
 :-------------|:----------------
 Thursday, 19th          |
-10.00 - 10.30         | Introductions, who is who and what we need to achieve
+09.30 - 10.30         | Introductions, who is who and what we need to achieve
 10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-12.30 - 13.30			  | Lunch
-13.30 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-18:30 - 19:00			  | Wrap-up, and assignment
-19.30 - 21.30			  | Dinner with feedback and discussions
-Friday, 20th         |
-09.00 - 12.30			  | Unix command line course
-14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
-19.30 - 21.30         | Dinner with feedback and discussions
-Wednesday, 18th       |
-09.00 - 12.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30         | Lunch with Session 4’s feedback and discussions
-13.30 - 15.00         | Course feedback and wrap-up
+12.30 - 13.30			      | Lunch
+14.00 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
+16.00 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+18:30 - 19:00			      | Wrap-up, and assignment
+Friday, 20th          |
+09.30 - 10.30			      | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+11.00 - 12.30         | Challenge #1 Perform an experiment using the Flipped Classroom technique. Please watch the video at home. 
+                      | Video: https://youtu.be/5NMxiOGL39M   How Bayesian Inference works
+                      | Come to a discussion ready to play the roles of learner and instructor.
+                      | The discusion will be focused on the key concepts that one can extract from the video.
+12.30 - 13.30         | Lunch
+14.00 - 15.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
+16.00 - 18.00         | Challenge #2 Run an introductory session on Linux command line with an exercise and minimal lecturing
+                      | Website: http://www.academis.eu/posts/linux-command-line-tutorial
+                      | Run this exercise, trying to bring learners to using Linux with the command line  in minimal time.
+18.00 - 18.30         | Course feedback and wrap-up
 
  
 ### Session 1: Review of learning principles and how they apply to training
@@ -156,13 +159,13 @@ Wednesday, 18th       |
 * Systematic Feedback;
 * (Short and long term) Post-course feedback.
 
-## Materials to explore before attending the course:
+## Materials to explore:
 
 * https://www.youtube.com/watch?v=Z9orbxoRofI
-* Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](./docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
-* Good teaching - the top ten requirements ([PDF](./docs/good_teaching_the_top_ten_requirements.pdf))
+* Random thoughts on How learning works, by Rebecca Brent and Richard M. Felder ([PDF](../docs/Ambrose_RandomThoughts_HowLearningWorks.pdf))
+* Good teaching - the top ten requirements ([PDF](../docs/good_teaching_the_top_ten_requirements.pdf))
 
-## Ideas for Challenges:
+## Additional Ideas for Challenges:
 
   * Design a diagnostic questionnaire;
   * Plan a session;
@@ -173,13 +176,13 @@ Wednesday, 18th       |
   * Create a group discussion and its annotation;
   
 ---
-> Challenge: <br>
+>  Challenge: <br>
 > - Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md) <br>
 > - If you want you can find further material on [Wikipedia](https://en.wikipedia.org/wiki/Concept_map) <br>
 > - Choose a topic that can be explained/taught in 3 minutes <br>
 > - Write Learning Objectives and Outcomes  <br>
 > - Draw a concept map <br>
 > - Make a 3 minute presentation (with or without slides) <br>
-> On Day 3, you will be videoed while presenting in group and receive feedback.
+>   You will be videoed while presenting in group and receive feedback.
 >
 ---
