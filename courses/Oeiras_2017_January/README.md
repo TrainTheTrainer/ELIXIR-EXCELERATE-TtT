@@ -78,7 +78,7 @@ On knowledge, by Donald Rumsfeld:
     https://youtu.be/GiPe1OiKQuk
 
 **Course Program**
---------------|---------------------
+:-------------|:----------------
 Time 	Activity
 Thursday, 19th 	
 09.30 - 10.30 	|Introductions, who is who and what we need to achieve
