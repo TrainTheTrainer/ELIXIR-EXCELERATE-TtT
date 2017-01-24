@@ -1,6 +1,7 @@
 
-EXCELERATE-TtT
-Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme.
+##EXCELERATE-TtT##
+
+#Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme.#
 
 Instructor:
 
@@ -78,24 +79,26 @@ On knowledge, by Donald Rumsfeld:
 Course Program
 Time 	Activity
 Thursday, 19th 	
-09.30 - 10.30 	Introductions, who is who and what we need to achieve
-10.30 - 12.30 	Session 1: Review of learning principles and how they apply to training
-12.30 - 13.30 	Lunch
-14.00 - 15.30 	Session 1: Review of learning principles and how they apply to training
-16.00 - 18.30 	Session 2: Training techniques that can be used to enhance learner engagement and participation
-18:30 - 19:00 	Wrap-up, and assignment
+09.30 - 10.30 	|Introductions, who is who and what we need to achieve
+10.30 - 12.30 	|Session 1: Review of learning principles and how they apply to training
+12.30 - 13.30 	|Lunch
+14.00 - 15.30 	|Session 1: Review of learning principles and how they apply to training
+16.00 - 18.30 	|Session 2: Training techniques that can be used to enhance learner engagement and participation
+18:30 - 19:00 	|Wrap-up, and assignment
 Friday, 20th 	
-09.30 - 10.30 	Session 3: Session, course, and materials design
-11.00 - 12.30 	Challenge #1 Perform an experiment using the Flipped Classroom technique. Please watch the video at home.
-	Video: https://youtu.be/5NMxiOGL39M How Bayesian Inference works
-	Come to a discussion ready to play the roles of learner and instructor.
-	The discusion will be focused on the key concepts that one can extract from the video.
-12.30 - 13.30 	Lunch
-14.00 - 15.30 	Session 4: Assessment and feedback in training
-16.00 - 18.00 	Challenge #2 Run an introductory session on Linux command line with an exercise and minimal lecturing
-	Website: http://www.academis.eu/posts/linux-command-line-tutorial
-	Run this exercise, trying to bring learners to using Linux with the command line in minimal time.
-18.00 - 18.30 	Course feedback and wrap-up
+09.30 - 10.30 	|Session 3: Session, course, and materials design
+11.00 - 12.30 	|Challenge #1 Perform an experiment using the Flipped Classroom technique. Please watch the video at home.
+	|Video: https://youtu.be/5NMxiOGL39M How Bayesian Inference works
+	|Come to a discussion ready to play the roles of learner and instructor.
+	|The discusion will be focused on the key concepts that one can extract from the video.
+12.30 - 13.30 	|Lunch
+14.00 - 15.30 	|Session 4: Assessment and feedback in training
+16.00 - 18.00 	|Challenge #2 Run an introductory session on Linux command line with an exercise and minimal lecturing
+	|Website: http://www.academis.eu/posts/linux-command-line-tutorial
+	|Run this exercise, trying to bring learners to using Linux with the command line in minimal time.
+18.00 - 18.30 	|Course feedback and wrap-up
+
+
 Session 1: Review of learning principles and how they apply to training
 
     Terminology used in learning
