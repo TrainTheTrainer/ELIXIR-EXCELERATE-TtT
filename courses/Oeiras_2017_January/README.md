@@ -1,13 +1,14 @@
 
 ##EXCELERATE-TtT##
 
-#Train the Trainer Pilot Course for instructors and future instructors of the GTPB Programme.#
+#Train the Trainer Pilot Course<br>
+for instructors and future instructors of the GTPB Programme.#
 
-Instructor:
+**Instructor:
 
-Pedro Fernandes, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT
+**Pedro Fernandes**, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT
 
-Participants:
+**Participants:
 
 **Lisete Maria de Sousa**, Faculdade de Ciências da Universidade de Lisboa, Lisboa, PT
 **Carina Silva**, Escola Superior de Tecnologias da Saúde, Lisboa, PT
