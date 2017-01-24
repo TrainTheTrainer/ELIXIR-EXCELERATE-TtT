@@ -1,7 +1,7 @@
 
 ##EXCELERATE-TtT##
 
-#Train the Trainer Pilot Course#<br>
+#Train the Trainer Pilot Course #<br>
 for instructors and future instructors of the GTPB Programme
 
 **Instructor:**
@@ -78,7 +78,6 @@ On knowledge, by Donald Rumsfeld:
     https://youtu.be/GiPe1OiKQuk
 
 **Course Program**
-:-------------|:----------------
 Time 	Activity
 Thursday, 19th 	
 09.30 - 10.30 	|Introductions, who is who and what we need to achieve
