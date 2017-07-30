@@ -1,6 +1,6 @@
-#ELIXIR – EXCELERATE Train the Trainer subtask
+# Session 1
 
-## Session 1: Review of learning principles and how they apply to training
+## Principles of learning and how they apply to training
 
  * [Introduction](#intro)
  * [Terminology used in learning](#term)
@@ -20,7 +20,7 @@
 
 
 <a name="intro"></a>
-###Introduction
+### Introduction
 
 ---
 
@@ -35,7 +35,7 @@ Since this material cannot cover the broad literature on the subject of learning
 
 <a name="term"></a>
 
-###Terminology used in learning
+### Terminology used in learning
 
 Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. Here we try to offer a set of definitions that will help you to survive.
 
@@ -73,7 +73,7 @@ In the following list, most definitions are taken from the [Glossary of Online L
 
 <a name="teach"></a>
 
-###Teaching or Training?
+### Teaching or Training?
 
 A first difference we make is between **teaching** and **training**. Here is a list of differences adapted from [http://www.differencebetween.com/difference-between-teaching-and-vs-training/](http://www.differencebetween.com/difference-between-teaching-and-vs-training/):
 
@@ -95,7 +95,7 @@ In the context of training, we will prefer to use the term **instructor** instea
 
 <a name="learning"></a>
 
-###Learning aims, objectives and outcomes
+### Learning aims, objectives and outcomes
 
 ---
 > Source: [Atherton J S (2013) Learning and Teaching; Objectives](http://www.learningandteaching.info/teaching/objectives.htm#ixzz4DtSAL2pi)
@@ -111,20 +111,20 @@ In the context of training, we will prefer to use the term **instructor** instea
 
 **See also** the [PDF] (docs/Objectives_vs_Outcomes.pdf) document from the [Rensselaer Polytechnic Institute Office of the Provost](http://provost.rpi.edu/institutional-research)
 
-####Learning objectives and learning outcomes
+#### Learning objectives and learning outcomes
 
 These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
 
 Here is an attempt to clarify this situation and remove ambiguities:
 
-####Learning Objectives
+#### Learning Objectives
  * Objectives describe the goals and intentions of the instructor.
  * Objectives, often termed the input in the course, state the purpose and goals of the course.
  * Objectives focus on content and skills important within the classroom or programme.
  * Objectives may describe what the instructors will do.
  * Objectives can often be numerous, specific, and detailed.
 
-####Learning Outcomes
+#### Learning Outcomes
  * Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
  * Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
  * Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete useable knowledge upon completing the
@@ -135,7 +135,7 @@ course.
 
 Adapted from [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)
 
-####Learning outcomes should be SMART
+#### Learning outcomes should be SMART
 ||||
 |---------------------|---------------|--------------|
 |Specific|They should state clearly what the student should know/be able to do, and at what level|What?|
@@ -146,7 +146,7 @@ Adapted from [http://provost.rpi.edu/learning-assessment/learning-outcomes/objec
 
 <a name="bloom"></a>
 
-###The Bloom's six categories of cognitive skills
+### The Bloom's six categories of cognitive skills
 
 **Bloom's Taxonomy of Educational Objectives (1956) - Cognitive Skills**: A group of educators, led by Benjamin Bloom, identified a hierarchy of six categories of cognitive skills: knowledge, comprehension, application, analysis, synthesis and evaluation. As students learn, they start with the knowledge level and progress through the hierarchy. This is the process we are called upon to facilitate.
 
@@ -160,7 +160,7 @@ In defining the learning objectives and outcomes for your session or course, you
  
 Below you will find a web-resource as well as a list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
 
-####From taxonomy to verbs…
+#### From taxonomy to verbs…
 
 **Verbs that are often used but are better to avoid because they are open to many interpretations**: appreciate, have faith in, know, learn, understand, believe.
 
@@ -193,11 +193,11 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 >Write a learning objective AND a learning outcome for a session or a course you usually deliver.
 
 <a name="works"></a>
-###How learning works
+### How learning works
 
 ---
 
->###Challenge: How do you go about learning something new ? How do you approach learning new things?
+>### Challenge: How do you go about learning something new ? How do you approach learning new things?
 <!--
 > - Read about it
 > - Attend a training session !
@@ -215,7 +215,7 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 
 ---
 
-####What is learning?
+#### What is learning?
 
 "Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn" (H.A. Simon)
 
@@ -226,9 +226,9 @@ Source: [Writing Objectives Using Bloom's Taxonomy ](http://teaching.uncc.edu/le
 - Learning is not something done to students, but rather **something students themselves do**.
 
 <a name="relevant"></a>
-###Relevant models from cognitive science
+### Relevant models from cognitive science
 
-####Kolb's learning styles
+#### Kolb's learning styles
 
 ---
 >Source: [http://www.simplypsychology.org/learning-kolb.html](http://www.simplypsychology.org/learning-kolb.html)
@@ -263,7 +263,7 @@ Kolb (1974) views learning as an integrated process with each stage being mutual
 
 However, effective learning only occurs when a learner is able to execute all four stages of the model. Therefore, no one stage of the cycle is an effective as a learning procedure on its own.
 
-####Honey & Mumford (1986) Learning Styles
+#### Honey & Mumford (1986) Learning Styles
 
 ---
 >Source: [learningtheories](https://www.le.ac.uk/users/rjm1/etutor/resources/learningtheories/honeymumford.html)
@@ -300,7 +300,7 @@ Learning activities: main thing to remember:
 - For lecture sessions – intersperse with activities eg questions, short problems, discussion points
 - For practical sessions – check on where the group as a whole is, or have demonstrators who can move around the room
 
-####Learning Theories
+#### Learning Theories
 
 Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed havin the child learner in mind, so some aspects that reflect this bias will not apply to our activity.
 
@@ -325,7 +325,7 @@ Connectivism is at the root of many present movements in learning, sometimes in 
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on.
 
 <a name="declarative"></a>
-###Declarative and procedural knowledge
+### Declarative and procedural knowledge
 
 >From Ambrose et al. (2010) "How learning works":
 >
@@ -340,7 +340,7 @@ For a large number of reasons that we can - and should - discuss at length, conn
 
 
 <a name="formal"></a>
-###What is formal and non-formal learning?
+### What is formal and non-formal learning?
 
 > Reference source: [http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm](http://www.oecd.org/edu/skills-beyond-school/recognitionofnon-formalandinformallearning-home.htm)
 >
@@ -370,7 +370,7 @@ Please bear in mind that we are speaking about educating ADULTS. This is importa
 > Reference: “The Adult Learner”, Malcom Knowles,ElwoodHolton & Richard Swanson, 7th ed 2011
 
 <a name="active"></a>
-###Active learning
+### Active learning
 
 >"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly." (Waldrop, Nature 2015).
 
@@ -391,9 +391,9 @@ of the Research ([PDF](./doc/Prince-does_active_learning_work.pdf))
 (https://www.youtube.com/watch?v=Z9orbxoRofI)
 
 <a name="novice"></a>
-###Novices *vs* experts in learning
+### Novices *vs* experts in learning
 
->###Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
+>### Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
 > - Think about yourself as a learner. 
 > - How did you feel about something new when you were a student? How was to be a novice? Can you remember it?
 > - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but have no clues about painting techniques and the theory of colours). Does it happen sometimes?
@@ -402,7 +402,7 @@ of the Research ([PDF](./doc/Prince-does_active_learning_work.pdf))
 > - Write at least two things in which novices and experts differ regarding learning.
 
 
-####Knowledge and knowledge organisation
+#### Knowledge and knowledge organisation
 Novices and experts differ in terms of the amount of knowledge and experience they own. 
 Experts went through the process of learning several times in their lives, they have accumulated errors and have learnt how to face and fix them. They have also accumulated notions and facts. All in all, they know many more things than novices. 
 But the amount of knowledge is not the only difference between novices and experts. 
@@ -416,7 +416,7 @@ This implies that instructors have to pay particular attention to this need and 
 
 
 <a name="retention"></a>
-###Retention
+### Retention
 
 “I hear and I forget. I see and I remember. I do and I understand.”
 – Confucius
@@ -435,7 +435,7 @@ http://com.msu.edu/Students/Academic_Guidance/long_term_retention_recall.pdf
 
 
 <a name="priming"></a>
-###Priming
+### Priming
 What Is Priming?
 
 Priming is a nonconscious form of human memory concerned with perceptual identification of words and objects. It refers to activating particular representations or associations in memory just before carrying out an action or task. For example, a person who sees the word "yellow" will be slightly faster to recognize the word "banana." This happens because yellow and banana are closely associated in memory. Additionally, priming can also refer to a technique in psychology used to train a person's memory in both positive and negative ways. 
@@ -446,10 +446,8 @@ Priming in Training
 Active learning environmemnts can benefit from what is known about priming. Careful training designs can expose learners to materials that prime the subject matter positively. By showing infographics or diagrams that summarise essential items that need to be memorised to fully understand or recall a subject.  In pretty much the same way, exposure to high impact videos can very effectively impact learning with negative priming, for example while instructors are inducing the learners to replace preconceived ideas or myths. Quite often, certain learners need this kind of help to articulate ways of freeing "space" for novel learning to take place.
 
 
-
-
 <a name="cognitive"></a>
-###Cognitive load
+### Cognitive load
 
 ---
 >Source: Cognitive load - [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_load)
@@ -467,7 +465,7 @@ Cognitive load theory differentiates cognitive load into three types: intrinsic,
 Intrinsic cognitive load is the effort associated with a specific topic. Extraneous cognitive load refers to the way information or tasks are presented to a learner. And, germane cognitive load refers to the work put into creating a permanent store of knowledge, or a schema.
 
 <a name="principles"></a>
-###Research-based principles of learning and their implications for teaching practice
+### Research-based principles of learning and their implications for teaching practice
 
 ---
 > Source:
