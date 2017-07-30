@@ -40,9 +40,9 @@ ELIXIR-SI, in cooperation with the ELIXIR Train-The-Trainer subtask, will hold a
 The learning objectives of the first two days of the course (Mon, 28th and Tue, 29th) consist of exploring, discussing and understanding four main themes: 
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
-* [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
-* [Session, course, and materials design] (./TtT_session_3.md)
-* [Assessment and feedback in training] (./TtT_session_4.md)
+* [Training techniques that can be used to enhance learner engagement and participation](./TtT_session_2.md)
+* [Session, course, and materials design](./TtT_session_3.md)
+* [Assessment and feedback in training](./TtT_session_4.md)
 
 The following day (Wednesday, 30th November) TtT participants will act as observers and training assistants in a Linux session, and will attend an end-of-the-day recapitulation meeting where the effectiveness of the methods is assessed and discussed. They will be asked to prepare a report as assignments, to be returned in the two weeks after the course.
 
