@@ -1,4 +1,4 @@
-#ELIXIR – EXCELERATE Train-the Trainer subtask
+# ELIXIR – EXCELERATE Train-the Trainer subtask
 
 ## Session 2: Training techniques that can be used to enhance learner engagement and participation
 
@@ -16,9 +16,9 @@
  * [The role of wrap-up sessions;](#wrap)
 
 <a name="goodsession"></a>
-###What makes a good training session?
+### What makes a good training session?
 
-> ###Challenge 1: Training you have been involved in...
+> ### Challenge 1: Training you have been involved in...
 
 >- What makes a good training session?
 >- What makes a bad training session?
@@ -42,17 +42,17 @@ You can leverage multiple learning/teaching modes; indeed, fostering a high orde
 Try to give up the position of the "sage on the stage", to become the "guide on the side". This makes learners feel free to interact, ask questions, tell they got lost (when they are) and allows you to better understand what problems participants have,  work individually with those in need of help, and use your time to focus and (re)explain what was not well received.
 
 <a name="goodtrainer"></a>
-###What makes a good trainer?
+### What makes a good trainer?
 
-> ###Challenge 2: What makes a good trainer? 
+> ### Challenge 2: What makes a good trainer? 
 Discuss it in pairs and write down which characteristics you think a good trainer should have.
 
 >[Compare your thoughts with ours](#challenge2)
 
 <a name="teaching"></a>
-###Teaching as a preformance art: promoting learner engagement
+### Teaching as a preformance art: promoting learner engagement
 
-####Interactive lectures and closed loop learning delivery
+#### Interactive lectures and closed loop learning delivery
 
 Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. So, the instructor can speak for several hours in unidirectional mode.
 
@@ -71,14 +71,14 @@ In training, we also use lectures to convey information, but we make them short,
 * Then the instructor incorporates an activity that allows students to apply what they have learned or give them a context for upcoming lecture material.
 * As the instructor feels more comfortable using interactive techniques he or she might begin to call upon a blend of various interactive techniques all in one class period.
 >
->####Why use interactive lecture?
+>#### Why use interactive lecture?
 Lecturing is a time-honored teaching technique that is an efficient method to present large amounts of content in classes of any size and it is efficient for sharing information with large numbers of students, but may result in students who listen passively.
 >
 * Making lectures interactive by including techniques such as think-pair-share, demonstrations, and role playing, can foster active engagement and enhance the value of the lecture segments.
 * Using techniques that allow all of the students to participate, instead of having individual students answer questions when called on, will promote student retention and learning of the material presented during lecture, give students practice in developing critical-thinking skills, and enable instructors to assess how well the class is learning that day.
 * Breaking up the lecture with these techniques not only provides format change to engage students, these activities allow students to immediately apply content and provides feedback to the instructor on student
 >
->####How to give an interactive lecture
+>#### How to give an interactive lecture
 Giving an interactive lecture involves creating and delivering an effective segmented lecture with engagement triggers and well-selected interactive lecture techniques.
 >
 >* The instructor must begin by giving attention to pre-instructional planning and various classroom management and logistical issues that allow for modification from the traditional lecture format. Learning goals must be established for interactive lecture techniques, the instructor must determine what types of tasks will be involved and what sort of engagement trigger might be appropriate for the activity (see more about establishing learning goals).
@@ -87,35 +87,35 @@ Giving an interactive lecture involves creating and delivering an effective segm
 The TtT taskforce of the Global Organisation for Bioinformatics Learning, Education and Training ([GOBLET] (http://mygoblet.org)), developed a skills matrix for trainiers. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! 
 
 <a name="gobletmatrix"></a>
-> ###Challenge 3: The GOBLET skills matrix for trainers
+> ### Challenge 3: The GOBLET skills matrix for trainers
 > 1. Try to reflect on your current skills and how they fit with this matrix.  
 > 
 > 2. Then share your thoughts with us.
 
 ![The Goblet skills matrix for trainers](fig/goblet_skills_matrix.jpg)
 
->####Communication skills
+>#### Communication skills
 >*Verbal communication skills* - able to deliver information orally in a clear manner that is understood by trainees.
 >*Written communication skills* - providing written information eg handouts, at the correct level for trainees and in appropriate format
 >*Presentation skills* - producing suitable slide-sets for lecture-style sessions; presenting complex information in an accessible manner
 >
->####Expertise and knowledge
+>#### Expertise and knowledge
 >*Subject area knowledge* - having knowledge / expertise in a specific subject
 >*User application awareness* - understanding how a learner will apply the information "How will this analysis benefit my work?"
 >*Knowledge of training methodology* - awareness of individual learning styles and basic pedagogy
 >
->####Planning and Management
+>#### Planning and Management
 >*Session planning* - able to define the requirements for a single session; be able to plan appropriate activities based on objectives of session and time available;
 >*Curriculum planning* - organising a balanced course; clear definitions of target group and course outcomes; appropriate mix of theory and practice;
 >*Event management* - "everything else" around the science in a course eg appropriate breaks, running times, networking opportunities.
 >
->####Learner engagement
+>#### Learner engagement
 >*Flexibility in delivery* - adapting a session /  course based on real-time in class feedback;
 >*Empathy with learners* - recognising how learners are engaging with the subject; drawing learners in to the learning opportunity presented;
 >*Understanding / knowledge of learners* - understanding learners' requirements from the course.
 
 <a name="motivation"></a>
-###Motivation and demotivation
+### Motivation and demotivation
 
 In general terms, as an instructor, if you feel that you need to motivate learners you should stop and think. There must be something wrong. You may be unable to identify the reason but this should be seen as a signal not to continue. You should not need to motivate people that fall in yor hands, but if you do, you should have a strategy in place for that. Start with figuring out the level of the audience and what could grab their interest.
 
@@ -163,7 +163,7 @@ Examples of techniques that you can use to promote engagement in training:
 
 
 <a name="principles"></a>
-###The seven principles of learning
+### The seven principles of learning
 
 > **See also**: [Brent R and Felder RM (2011)](docs/how_learning_works_thoughts.pdf)
 >
@@ -184,7 +184,7 @@ Examples of techniques that you can use to promote engagement in training:
 - **Strategy S5**: Establish a supportive class climate (P3, P6). Learn and use learners' names and encourage them to interact with you in and out the course. Collect anonymous learner feedback and investigate and respond to any complaints related to class climate.
 
 <a name="learning"></a>
-###Integrating active learning strategies into your course. Learning by doing.
+### Integrating active learning strategies into your course. Learning by doing.
 
 Consider ways to set clear expectations, design effective evaluation strategies and provide helpful feedback.
 
@@ -205,7 +205,8 @@ Consider ways to set clear expectations, design effective evaluation strategies 
 * you lecture, 
 * ask questions that the same few students always answer, 
 * or conduct discussions that engage only a small fraction of the class. <br>
->>We are not about to propose that you throw out lecturing and make every class you teach a total active learning extravaganza. You know more than most of your students do about your subject, and you need to spend part of your class time teaching them what you know - explaining, clarifying, demonstrating, modeling, etc. 
+>
+>We are not about to propose that you throw out lecturing and make every class you teach a total active learning extravaganza. You know more than most of your students do about your subject, and you need to spend part of your class time teaching them what you know - explaining, clarifying, demonstrating, modeling, etc. 
 >
 >What we are suggesting is that **you avoid making lecturing the only thing you do**. If a lecture or recitation session includes even a few minutes of relevant activity — a minute here, 30 seconds there —the students will be awake and with you for the remaining time in a way that never happens in a traditional lecture, and most will retain far more of what happens in those few minutes than of what you say and do in the rest of the session.
 
@@ -261,7 +262,7 @@ Possible games are:
 
 ---
 <a name="carpentry"></a>
->###Carpentry teaching practices
+>### Carpentry teaching practices
 >Very effective teaching practices are described in the [Teaching practices lesson] (http://swcarpentry.github.io/instructor-training/15-practices/) from the [Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training). 
 
 >Here is a short extract: 
@@ -282,7 +283,7 @@ We frequently also ask for summary feedback at the end of each day. The instruct
 >Minute cards are anonymous; the alternating up-and-down feedback is not. Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 >
 ---
-> ###Things that an instructor shouldn't do in a course 
+> ### Things that an instructor shouldn't do in a course 
 > > From: [Motivation - Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training/19-motivation/)
 
 > - Tell learners they are rubbish because they use Excel and/or Word don't modularize their code, etc.
@@ -296,7 +297,7 @@ We frequently also ask for summary feedback at the end of each day. The instruct
 ---
 
 <a name="wrap"></a>
-###The role of wrap-up sessions
+### The role of wrap-up sessions
 At the end of sessions (or a day course, or the whole course), it is important to devote a few minutes to wrap-up and collect feedback.
 Wrap-up should be carried out by participants. 
 In a course lasting more than one day, the wrap-up of one entire day, can be carried out as the first thing on the day after. The various topics of a day can be assigned to a few participants (it is advised to identify max 4/5 main topics each day and assign each to a different participant), who will stand on the stage before the class and briefly summarise what was done the day before. The instructor may decide to give the participants who have to present a bit of time to reflect and organise a bried speach. 
@@ -306,7 +307,7 @@ Usually they accept talking in front of the class if they have time to adapt to 
 Feedback at the end of each session should be quick and simple. One example approach is the fist of five voting, which is described in the [session on assessment](./TtT_session_4.md).  
 
 
-##Challenges: discussion
+## Challenges: discussion
 
 <a name="challenge2">Challenge 2</a>:
 What makes a good trainer? 
