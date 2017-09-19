@@ -11,34 +11,31 @@
 
 **Participants:**
 
-**Anastasia Chasapi**, SIB Swiss Institute of Bioinformatics, Switzerland <br>
-**David Francisco**, Universität Bern, Switzerland <br>
-**Lukas Jelonek**, Justus Liebig Universität Gießen, Germany <br>
-**Jessica Lindvall**, NBIS, SciLifeLab, Sweden <br>
-**Mosè Manni**, Université de Genève, Switzerland <br>
-**Madeleine Scriba**, Université de Lausanne, Switzerland <br>
-**Mathieu Seppey**, Université de Genève, Switzerland <br>
-**Armand Valsesia**, Nestlé Institute of Health Science, Switzerland <br>
+**Vincenza Colonna**,Italy  <br>
+**Christof De Bo**, Belgium <br>
+**Ilaria Di Gregorio**, Italy  <br>
+**Angelo Facchiano**, Italy  <br>
+**Lillà Lionetti**,Italy  <br>
+**Charitra Kumar Mishra**, Norway <br>
+**Francesco Musacchia**, Italy  <br>
+**Catello Polito**, Italy  <br>
+**Danilo Swann Matassa**, Italy  <br>
+**Antonio Vanacore**, Italy  <br>
 
 ##
 
 **Purpose:**
 
-ELIXIR-CH, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with an "Introduction to the Linux command line" short course. 
+ELIXIR-IT, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with a Practical Course on Best practices for RNA-Seq data analysis. 
 
 The course is made up of four sessions, covering: 
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
-* [Training techniques that can be used to enhance learner engagement and participation] (./TtT_session_2.md)
-* [Assessment and feedback in training] (./TtT_session_4.md)
-* [Session, course, and materials design] (./TtT_session_3.md)
+* [Training techniques that can be used to enhance learner engagement and participation](./TtT_session_2.md)
+* [Assessment and feedback in training](./TtT_session_4.md)
+* [Session, course, and materials design](./TtT_session_3.md)
 
-
-The learning objectives of the first day of the course (Mon, 16th Jan 2017) consist of exploring, discussing and understanding the themes of session 1 and 2.
-
-The following day (Tuesday, 17th Jan 2017) TtT participants will act as observers and training assistants in a Linux session until lunchtime.
-
-In the afternoon, we will work on session 4, whereas session 3 will be covered on the morning of day 3 (Wednesday, 18th Jan 2017).
+During the course, TtT participants will act as observers and training assistants in the RNA-Seq data analysis course for the duration of a session (2h).
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
@@ -53,7 +50,7 @@ In the afternoon, we will work on session 4, whereas session 3 will be covered o
  * Learners can develop assessment questionnaires
  * Learners can tell what types of material are needed for each part of a training session 
 
-TtT-Lausanne 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-CH](https://etherpad.net/p/TtT_ELIXIR-CH)
+TtT-Salerno 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-IT_2017](https://etherpad.net/p/TtT_ELIXIR-IT_2017)
 
 ---
 ### On knowledge, by Donald Rumsfeld:
@@ -76,22 +73,20 @@ TtT-Lausanne 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-CH](https://eth
 
  Time | Activity
 :-------------|:----------------
-Monday, 16th          |
-10.00 - 10.30         | Introductions, who is who and what we need to achieve
-10.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
-12.30 - 13.30			  | Lunch
-13.30 - 15.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-15.30 - 18.30         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-18:30 - 19:00			  | Wrap-up, and assignment
-19.30 - 21.30			  | Dinner with feedback and discussions
-Tuesday, 17th         |
-09.00 - 12.30			  | Unix command line course
+Wednesday, 27th       |
+14.00 - 14.30         | Introductions, who is who and what we need to achieve
+14.30 - 18.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
+Friday, 28th         |
+09.15 - 13.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+13.00 - 14.00			  | Lunch and assignment
 14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
 19.30 - 21.30         | Dinner with feedback and discussions
-Wednesday, 18th       |
-09.00 - 12.30         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30         | Lunch with Session 4’s feedback and discussions
-13.30 - 15.00         | Course feedback and wrap-up
+Friday, 29th          |
+09.00 - 11.00         | Observing and helping Loredana and Fabrizio at work in the Practical Course on Best practices for RNA-Seq data analysis
+11.30 - 13.00| [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
+13.00 - 14.00         | Lunch with feedback and discussions
+14.00 - 15.00         | More on Assessment and feedback in training
+15.00 - 16.00         | Course feedback and wrap-up
 
  
 ### Session 1: Review of learning principles and how they apply to training
