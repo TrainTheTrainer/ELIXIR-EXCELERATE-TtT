@@ -1,6 +1,6 @@
-# EXCELERATE-TtT
+# ELIXIR-EXCELERATE Train the Trainer
 
-#5th Pilot Course at the Swiss Institute of Bioinformatics, Lausanne, Switzerland
+#  Course at the University of Salerno, Fisciano (Sa), Italy
 
 **Instructors:**
 
