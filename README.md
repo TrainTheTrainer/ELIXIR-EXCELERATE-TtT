@@ -5,17 +5,17 @@
 **Instructors:**
 
 **Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Pedro Fernandes**, ELIXIR-PT, Gulbenkian, Portugal <br>
+**Pedro Fernandes**, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT <br>
 
 ##
 
 **Participants:**
 
-**Vincenza Colonna**,Italy  <br>
+**Vincenza Colonna**, Italy  <br>
 **Christof De Bo**, Belgium <br>
 **Ilaria Di Gregorio**, Italy  <br>
 **Angelo Facchiano**, Italy  <br>
-**Lillà Lionetti**,Italy  <br>
+**Lillà Lionetti**, Italy  <br>
 **Charitra Kumar Mishra**, Norway <br>
 **Francesco Musacchia**, Italy  <br>
 **Catello Polito**, Italy  <br>
