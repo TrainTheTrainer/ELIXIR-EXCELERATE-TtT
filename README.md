@@ -5,8 +5,7 @@
 **Instructors:**
 
 **Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Patricia Palagi**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
-**Diana Marek**, ELIXIR-CH, Swiss Institute of Bioinformatics (SIB), Switzerland <br>
+**Pedro Fernandes**, ELIXIR-PT, Gulbenkian, Portugal <br>
 
 ##
 
