@@ -15,9 +15,11 @@
 **Christof De Bo**, Belgium <br>
 **Ilaria Di Gregorio**, Italy  <br>
 **Angelo Facchiano**, Italy  <br>
+**Luca Angelo Lauri**, Italy <br>
 **Lillà Lionetti**, Italy  <br>
 **Charitra Kumar Mishra**, Norway <br>
 **Francesco Musacchia**, Italy  <br>
+**Gaetano Paolella**, Italy <br>
 **Catello Polito**, Italy  <br>
 **Danilo Swann Matassa**, Italy  <br>
 **Antonio Vanacore**, Italy  <br>
@@ -66,7 +68,7 @@ TtT-Salerno 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-IT_2017](https:/
 ><br>
 
 >
-###https://youtu.be/GiPe1OiKQuk
+### [You can watch Donald Rumsfeld's speech in YouTube](https://youtu.be/GiPe1OiKQuk)
 ---
 
 # Course Program
