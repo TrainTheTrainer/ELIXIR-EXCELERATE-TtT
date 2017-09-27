@@ -19,7 +19,7 @@
 **Lillà Lionetti**, Italy  <br>
 **Charitra Kumar Mishra**, Norway <br>
 **Francesco Musacchia**, Italy  <br>
-**Gaetano Paolella**, Italy <br>
+**Gaetana Paolella**, Italy <br>
 **Catello Polito**, Italy  <br>
 **Danilo Swann Matassa**, Italy  <br>
 **Antonio Vanacore**, Italy  <br>
