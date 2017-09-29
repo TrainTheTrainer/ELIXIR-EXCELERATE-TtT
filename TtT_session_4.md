@@ -33,13 +33,14 @@ We have to be aware of the difference between giving feedback to learners and re
 Feedback to learners is anything we do to help both ourselves, the instructors, and learners to get information about whether learning is occurring (if during the teaching) or has occurred (at the end of the teaching). 
 Grades are an example of a type of feedback we can give to students to inform them how they performed in a test or exam. Grading, on the one hand, informs instructors whether the learning took place and whether learners are ready to move on and, on the other, should make learners aware of the knowledge and mastery they have atteined by the time they took the test.
 
-####Summative and formative assessment
+#### Summative and formative assessment
 Feedback to learners can be summative or formative. <br>
 *Summative assessment*. An exam or a test at the end of a course is an example of summative assessment. Summative assessment is aimed at evaluating learners' performance at the end of teaching (this could be at the end of a topic, a session, or at the end of the entire course). This is the most frequent type of assessment occurring in schools and universities and usually includes grading. It is less frequent in training.
 
 *Formative assessment*. Formative assessment takes place **during** teaching and learning. Its purpose is to help both instructors and learners to become aware of what the focus should be. 
 
-"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and arealmost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
+"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and are
+almost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
 
 Formative assessment can be used to collect information about learners'
 
@@ -57,7 +58,7 @@ And can help understand
 - if learners goals and objectives are aligned to the course's goals and objectives 
 - which types of mistakes need special attention
 
->###Challenge 2: what kind of feedback/assessment do you use as an instructor?
+>### Challenge 2: what kind of feedback/assessment do you use as an instructor?
 > * What type of feedback/assessment strategies do you use in your courses?
 > * What is their purpose?
 > * Do you mostly provide feedback to learners? or
@@ -67,9 +68,15 @@ And can help understand
 > 
 
 From the [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
-> *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of studentcomprehension, learning needs, and academic progress during alesson, unit, or course. 
+> *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of student
+comprehension, learning needs, and academic progress during a
+lesson, unit, or course. 
 >
-> Formative assessments help teachers identify concepts that students are struggling to understand, skills they are having difficulty acquiring, or learning standards they have not yet achieved so that adjustments can be made to lessons, instructional techniques, and academic support.>>The general goal of formative assessment is to collect detailedinformation that can be used to improve instruction and studentlearning while it’s happening. 
+> Formative assessments help teachers identify concepts that students are struggling to understand, skills they are having difficulty acquiring, or learning standards they have not yet achieved so that adjustments can be made to lessons, instructional techniques, and academic support.
+>
+>The general goal of formative assessment is to collect detailed
+information that can be used to improve instruction and student
+learning while it’s happening. 
 >
 >What makes an assessment “formative” is not the design of a test, technique, or self-evaluation, per se, but the way it is used—i.e., to inform in-process teaching and learning modifications.
 >
@@ -80,7 +87,7 @@ Formative assessment can be used as a teaching strategy and, as such, as an actu
 
 In particular, it can be used to:
 
-####1) activate and explore prior knowledge
+#### 1) activate and explore prior knowledge
 "Student's prior knowledge can help or hinder learning" <br>(Ambrose et al. (2010) "How learning works", principle 1)
 
 - **strategies to activate prior knowledge**
@@ -94,18 +101,18 @@ In particular, it can be used to:
 - **strategies to highlight inaccurate prior knowledge.** Inaccurate prior knowledge can be corrected fairly easily if it consists of relatively isolated ideas or beliefs that are not embedded in larger conceptual models (for example, the belief that Pluto is a planet). Some kinds of inaccurate prior knowledge - called *misconceptions* - are remarkably resitant to correction. *Misconceptions* are models or thoeries that are deeply embedded in students' thinking (e.g. the notion that objects of different masses fall at different rates, "folk psychology" myths such as that blind people have more sensitive hearingthan sighted people, or that seasons depend on the distance of the Earth from the Sun). Misconceptions are difficult to refute for a number of reasons: 1) many of them have been reinforced over time and across multiple contexts; 2) they often include accurate - as well as inaccurate - elements, thus students mau not recognise their flaws; 3) in many cases, thwy may allow for successful explanation and prediction in a number of everyday circumstances.
   - Administer MCQs with distractors (see below).
 
-####2) to promote peer instruction and content delivery
+#### 2) to promote peer instruction and content delivery
 - You can use an anonymous diagnostic questionnaire as described [below](#diagnostic).
 
-####3) to practice retrieval
+#### 3) to practice retrieval
 ..... (see Small Teaching)
 
-####4) to stimulate reflection and prepare learners' brain for learning
+#### 4) to stimulate reflection and prepare learners' brain for learning
 
 
-####5) to highlight learners' weaknesses and difficulties and therefore to set the pace of the following teaching
+#### 5) to highlight learners' weaknesses and difficulties and therefore to set the pace of the following teaching
 
-####6) to help learners understand what they have to focus on 
+#### 6) to help learners understand what they have to focus on 
 
 Formative assessment can be done in many different ways:
 
@@ -118,9 +125,9 @@ Formative assessment can be done in many different ways:
 
 
 <a name="diagnostic"></a>
-###Diagonstic questionnaires
+### Diagonstic questionnaires
 
-####Google forms
+#### Google forms
 
 This types of questionnaires can be anonymous or not. We suggest that you use them anonymously.
 
@@ -128,7 +135,7 @@ This types of questionnaires can be anonymous or not. We suggest that you use th
 
 [Here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) you can see how the responses look like.
 
-####Socrative
+#### Socrative
 
 > From the Socrative website:
 > 
@@ -156,7 +163,7 @@ The key to taking advantage of these strengths, however, is construction of good
 
 .........
 
->###Challenge 3: Design a questionnaire
+>### Challenge 3: Design a questionnaire
 >
 >Write three MCQs (in your field of teaching) revealing:
 >* a knowledge gap ("what")
@@ -164,7 +171,7 @@ The key to taking advantage of these strengths, however, is construction of good
 >* a misconception
 
 
-###50 classroom assessment techniques (CATs) by Angelo&Cross
+### 50 classroom assessment techniques (CATs) by Angelo&Cross
 
 [Here] (./docs/angelo_and_cross_50_cats.pdf) you can find the **50 CATS by Angelo and Cross**. These are fifty assessment techinques grouped by purpose which can be used in teaching and in training. Some of them better apply to university semester courses, or high school classes, wheras some may turn out to be also useful in training courses/sessions. They are fully described and discussed in the book ""Classroom assessment techinques: A handbook for college teachers" (1993) by the same authors.  
 
@@ -194,13 +201,25 @@ In the following we report the seven assumptions on which the CATs are based and
 >From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
-> 1. The quality of student learning is directly, although not exclusively, related to the quality of teaching. Therefore, one of the most promising ways to improve learning is to improve teaching.2. To improve their effectiveness teachers need first to make their goals and objectives explicit and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.3. To improve their learning, students need to receive appropnate and focused feedback early and often; they also need to learn how to assess their own learning.4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.5. Systematic inquiry and intellectual challenge are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
+> 
+1. The quality of student learning is directly, although not exclusively, related to the quality of teaching. Therefore, one of the most promising ways to improve learning is to improve teaching.
+2. To improve their effectiveness teachers need first to make their goals and objectives explicit and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.
+3. To improve their learning, students need to receive appropnate and focused feedback early and often; they also need to learn how to assess their own learning.
+4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.
+5. Systematic inquiry and intellectual challenge are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.
+6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.
+7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
 >
-> Five suggestions for a successful start:1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.2. Don't make Classroom Assessment into a self-inflicted chore or burden.3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.4. Allow for more time than you think you will need to carry out and respond to the assessment.5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
+> Five suggestions for a successful start:
+1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.
+2. Don't make Classroom Assessment into a self-inflicted chore or burden.
+3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.
+4. Allow for more time than you think you will need to carry out and respond to the assessment.
+5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
 
 
 <a name="self"></a>
-###Self-assessment, self-confidence and usage independence
+### Self-assessment, self-confidence and usage independence
 
 In active learning environments, learners are so involved in the learning process that they often loose consciousness about their accumulated knowledge and its level of operational value. Learning by doing catches them in the process, so they often forget about assessing it.
 
@@ -223,7 +242,7 @@ Quotes form "Peer Instruction, Getting students to think in class" by Erik Mazur
 to be continued .... SEE QUESTIONNAIRE [here](./doc/peer-instruction-Mazur.pdf)
 
 
-##Feedback from learners
+## Feedback from learners
 
 Feedback from learners is aimed at:
 
@@ -260,7 +279,7 @@ This is **Instant Feedback**.
 Several methods have been tested, some of the using technology (Clickers, Socrative, Learning Catalytics) or not (the fist of five method). The choice is made according to the availability of the means and how engaging the audience finds it.
 
 ---
->###Fist or Five Feedback
+>### Fist or Five Feedback
 >
 >by Allegra Via, Kristian Rother and Pedro Fernandes
 >From: [Academis by Kristian Rother](http://www.academis.sites.djangoeurope.com/blog/posts/recipe-fist-or-five/).
@@ -310,11 +329,11 @@ Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biolo
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
 
-####Training Evaluation
+#### Training Evaluation
 
 There are several methods that can be used to evaluate training. One of the most referenced methods comes from Donald Kirpatrick (1924-2014).
 
-####The Kirkpatrick Model
+#### The Kirkpatrick Model
 
 - Level 1: Reaction
 The degree to which participants find the training favorable, engaging and relevant to their jobs
