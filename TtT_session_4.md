@@ -116,7 +116,7 @@ In particular, it can be used to:
 
 Formative assessment can be done in many different ways:
 
-- Asking questions to learners and get responses orally;
+- Asking questions to learners and getting responses orally;
 - Asking them to describe the strategy they would adopt to solve a problem;
 - Asking them to solve a problem in groups, or individually but in front of the class;
 - Using brainstorming and discussions;
