@@ -35,7 +35,6 @@ During the course, TtT participants will act as observers and training assistant
  * Learners can develop assessment questionnaires
  * Learners can tell what types of material are needed for each part of a training session
 
-TtT-Salerno 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-IT_2017](https://etherpad.net/p/TtT_ELIXIR-IT_2017)
 
 ---
 ### On knowledge, by Donald Rumsfeld:
