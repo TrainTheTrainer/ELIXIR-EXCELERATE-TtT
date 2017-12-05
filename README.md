@@ -57,20 +57,15 @@ During the course, TtT participants will act as observers and training assistant
 
  Time | Activity
 :-------------|:----------------
-Wednesday, 27th       |
-14.00 - 14.30         | Introductions, who is who and what we need to achieve
-14.30 - 18.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
-Friday, 28th         |
-09.15 - 13.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-13.00 - 14.00			  | Lunch and assignment
-14.00 - 18.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
-19.30 - 21.30         | Dinner with feedback and discussions
-Friday, 29th          |
-09.00 - 11.00         | Observing and helping Loredana and Fabrizio at work in the Practical Course on Best practices for RNA-Seq data analysis
-11.30 - 13.00| [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
-13.00 - 14.00         | Lunch with feedback and discussions
-14.00 - 15.00         | More on Assessment and feedback in training
-15.00 - 16.00         | Course feedback and wrap-up
+Day 1, 11th           |
+09.00 - 09.30         | Introductions, who is who and what we need to achieve
+09.30 - 12.30         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
+12.30 - 14.00         | Lunch
+14.00 - 18.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+Day 2, 11th 
+09.00 - 12.30         | [**Session 3**](./TtT_session_3.md): Session, course, and materials design
+12.30 - 14.00         | Lunch
+14.00 - 18.00         | [**Session 4**](./TtT_session_4.md): Assessment and feedback in training
 
 
 ### Session 1: Review of learning principles and how they apply to training
@@ -148,6 +143,6 @@ Friday, 29th          |
 > - Write Learning Objectives and Outcomes  <br>
 > - Draw a concept map <br>
 > - Make a 3 minute presentation (with or without slides) <br>
-> On Day 3, you will be videoed while presenting in group and receive feedback.
+> You will be videoed while presenting in group and receive feedback.
 >
 ---
