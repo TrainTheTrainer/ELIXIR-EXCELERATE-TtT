@@ -1,36 +1,19 @@
 # ELIXIR-EXCELERATE Train the Trainer
 
-#  Course at the University of Salerno, Fisciano (Sa), Italy
+#  Course at University of Lausanne, Lausanne, Switzerland.
 
 **Instructors:**
 
 **Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Pedro Fernandes**, ELIXIR-PT, Instituto Gulbenkian de Ciência, Oeiras, PT <br>
-
-##
-
-**Participants:**
-
-**Vincenza Colonna**, Italy  <br>
-**Christof De Bo**, Belgium <br>
-**Ilaria Di Gregorio**, Italy  <br>
-**Angelo Facchiano**, Italy  <br>
-**Luca Angelo Lauri**, Italy <br>
-**Lillà Lionetti**, Italy  <br>
-**Charitra Kumar Mishra**, Norway <br>
-**Francesco Musacchia**, Italy  <br>
-**Gaetana Paolella**, Italy <br>
-**Catello Polito**, Italy  <br>
-**Danilo Swann Matassa**, Italy  <br>
-**Antonio Vanacore**, Italy  <br>
+**Patricia Palagi**, ELIXIR-CH <br>
 
 ##
 
 **Purpose:**
 
-ELIXIR-IT, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer subtask, will hold a Train the Trainer (TtT) event in connection with a Practical Course on Best practices for RNA-Seq data analysis. 
+ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
 
-The course is made up of four sessions, covering: 
+The course is made up of four sessions, covering:
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
 * [Training techniques that can be used to enhance learner engagement and participation](./TtT_session_2.md)
@@ -50,7 +33,7 @@ During the course, TtT participants will act as observers and training assistant
  * Learners can describe at least three training techniques drawing on learning principles
  * Learners can design a training session and a course
  * Learners can develop assessment questionnaires
- * Learners can tell what types of material are needed for each part of a training session 
+ * Learners can tell what types of material are needed for each part of a training session
 
 TtT-Salerno 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-IT_2017](https://etherpad.net/p/TtT_ELIXIR-IT_2017)
 
@@ -77,7 +60,7 @@ TtT-Salerno 2017 - Etherpad: [https://etherpad.net/p/TtT_ELIXIR-IT_2017](https:/
 :-------------|:----------------
 Wednesday, 27th       |
 14.00 - 14.30         | Introductions, who is who and what we need to achieve
-14.30 - 18.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training 
+14.30 - 18.00         | [**Session 1**](./TtT_session_1.md): Review of learning principles and how they apply to training
 Friday, 28th         |
 09.15 - 13.00         | [**Session 2**](./TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
 13.00 - 14.00			  | Lunch and assignment
@@ -90,7 +73,7 @@ Friday, 29th          |
 14.00 - 15.00         | More on Assessment and feedback in training
 15.00 - 16.00         | Course feedback and wrap-up
 
- 
+
 ### Session 1: Review of learning principles and how they apply to training
 
  * Terminology used in learning
@@ -157,7 +140,7 @@ Friday, 29th          |
   * Prepare a mini-presentation (3-mins); video yourself while delivering it; watch the video; adjust the mini-session and run it again [notice that you have to find a topic that can be taught in 3 minutes; it could be from any field]
   * Collect responses dynamically using Socrative or Learning Catalytics;
   * Create a group discussion and its annotation;
-  
+
 ---
 > Challenge: <br>
 > - Read the Sofware Carpentry Instructor training document on [Concept maps](https://github.com/swcarpentry/instructor-training/blob/gh-pages/_episodes/08-memory.md) <br>
