@@ -20,7 +20,9 @@ In this session you will learn how to:
 ## Using Concept Maps to develop courses and sessions
 
 **Description**: This sequence describes what are concept maps and how they can be used to design course sessions and courses.
+
 **Keywords**: concept maps, relationships, course design, course sessions
+
 **Learning objective**: Develop an understanding of concept maps, apply concept maps to the development of courses and course sessions
  
 **Introduction**
@@ -63,9 +65,13 @@ In this session you will learn how to:
 
 <a name="sessions"></a>
 ## Training session design and plan
+
 **Description**: This sequence describes the steps to define a coherent session plan.
+
 **Keywords**: course sessions, session design, plan
-**Learning objective**: Practice to design and plan a training session  
+
+**Learning objective**: Practice to design and plan a training session 
+
 **Learning outcome**: To be able to reflect on, design and plan a training session
  
 **Introduction**  
@@ -101,14 +107,14 @@ Defining a course and course sessions is an iterative and circular process. You 
 - Sketch the structure of your presentation (e.g., 40 secs introduction/2 mins on topic/20 secs conclusion);
 
 ### Recipe for planning a mini-session 
-- Identify the ideal target audience;
-- Set learning objectives;
-- Set learning outcomes;
-- Identify the required prior knowledge;
-- Draw a concept map of the session's topic;
-- Decide how much time to allocate for each activity and prepare an outline;
-- Decide the order of activities;
-- Try to include at least a warm-up session, a short lecture, a practical or group activity, and a wrap-up.
+    * Identify the ideal target audience;
+    * Set learning objectives;
+    * Set learning outcomes;
+    * Identify the required prior knowledge;
+    * Draw a concept map of the session's topic;
+    * Decide how much time to allocate for each activity and prepare an outline;
+    * Decide the order of activities;
+    * Try to include at least a warm-up session, a short lecture, a practical or group activity, and a wrap-up.
 
 
 **Warm-up** <br>
@@ -155,45 +161,40 @@ Your plan for 1h15 session may look like this:
 
 #### Recipe to prepare a new training course
 
-* Define the main idea (matching a perceived need)
-* Define the Ideal Target Audience
-* Define pre-requisites for the participants
-* Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
-* Breakdown into skills and concepts needed
-* for each skill {
-
-
-    state learning objective(s) and write them down (use SMART learning objectives) 
-
-    consider exercise alternatives 
-
-    gauge duration, technical requirements, testing  
-
-    pick the best suited exercise 
-
-    design a short lecture to precede it
-    
-    adjust timing for an ideal training slot duration 
-
-    prepare self-assessment questions
-
+    * Define the main idea (matching a perceived need)
+    * Define the Ideal Target Audience
+    * Define pre-requisites for the participants
+    * Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
+    * Breakdown into skills and concepts needed
+    * for each skill {
+        state learning objective(s) and write them down (use SMART learning objectives) 
+        consider exercise alternatives 
+        gauge duration, technical requirements, testing  
+        pick the best suited exercise 
+        design a short lecture to precede it   
+        adjust timing for an ideal training slot duration 
+        prepare self-assessment questions
     }
-* Compose a logical sequence of slots and distribute them in a course plan timetable
-* for each training day {
-    program a fist slot / 
-    On the fist day, use that slot to break the ice and establish team work discipline / 
-    On the other days, use it for the wrap-up of the content of the evening / 
+    * Compose a logical sequence of slots and distribute them in a course plan timetable
+    * for each training day {
+        program a fist slot / 
+        On the fist day, use that slot to break the ice and establish team work discipline / 
+        On the other days, use it for the wrap-up of the content of the evening / 
     }
-* Plan a final wrap-up discussion at the end of the course
-* Distribute the time slots through the days of training, using duration to balance the learning effort
-* Use breaks to induce periods of collective reflection
-* Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
+    * Plan a final wrap-up discussion at the end of the course
+    * Distribute the time slots through the days of training, using duration to balance the learning effort
+    * Use breaks to induce periods of collective reflection
+    * Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
 
 <a name="design"></a>
 ## Training materials: designing, producing, delivering, sharing, making re-use possible
+
 **Description**: This sequence raises the awareness of the amount of work and time needed to create training materials (preparing the course content), the importance of sharing and reusing training materials, and of some of the current training repositories.
+
 **Keywords**: training materials, repositories
+
 **Learning objective**: Develop an awareness of the workload needed to create training materials, create a routine of sharing and profiting from shared training materials. 
+
 **Learning outcome**: Be able to identify training materials that exist already, and develop a routine of sharing training materials. 
  
 **Introduction**  
@@ -212,8 +213,7 @@ Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.
 
 **References**:  
 - [P.Fernandes (March 2013):](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
-Examples:
-
+**Examples**:  
 * http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
 * http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
 * https://github.com/sdwfrost/mevr        (repository) 
@@ -225,8 +225,11 @@ Examples:
 ## Reproducibility of compute environments
 
 **Description"": This sequence raises the awareness of the compute environments that are needed in different settings of bioinformatics courses.
+
 **Keywords**: computer environment, computer setup
+
 **Learning objective**: Develop an awareness of the computer setups that are need for training courses. 
+
 **Learning outcome**: Be able to identify compute requirements for different types of training courses. 
 
 **Introduction**. 
@@ -244,9 +247,13 @@ In the case the course is run in a training room which is equipped with computer
 
 <a name="rooms"></a>
 ## Training rooms for bioinformatics
+
 **Description**: This sequence is meant to raise the awareness of the physical environment of the training room in the case of face-to-face courses.
+
 **Keywords**: computer room, training room, room
+
 **Learning objective**: Develop an awareness of the physical room environments needed to run face-to-face training courses. 
+
 **Learning outcome**: Be able to identify physical room requirements for needed to run face-to-face training courses. 
  
 **Introduction**
@@ -271,25 +278,25 @@ In some cases, network connections providing simple browsing (Port 80) or SSH ac
 <a name="preparatory"></a>
 ####Checklist for face-to-face course deployment in rooms which provide
 
-* Prepare the workstations so that they have a uniform setups/installations.
-* Ideally, prepare and test one machine and use disk cloning, VMs or containers to ensure uniformity.
-* Clean-up shared directories: To_Participant, From_Participant, Data, Installers
-* Check projector, lamp, dust filter, focus and color mode.
-* Check documentation that may need to be distributed in paper form
-* Check name tags for the Participants
-* Prepare a list of Participants
-* Check training room tidyness
-* Check air conditioned, lighting
-* Check for the availability of pens and paper pads for notes
-* Check Felt Tip Markers and whiteboard
+    * Prepare the workstations so that they have a uniform setups/installations.
+    * Ideally, prepare and test one machine and use disk cloning, VMs or containers to ensure uniformity.
+    * Clean-up shared directories: To_Participant, From_Participant, Data, Installers
+    * Check projector, lamp, dust filter, focus and color mode.
+    * Check documentation that may need to be distributed in paper form
+    * Check name tags for the Participants
+    * Prepare a list of Participants
+    * Check training room tidyness
+    * Check air conditioned, lighting
+    * Check for the availability of pens and paper pads for notes
+    * Check Felt Tip Markers and whiteboard
 
 #### Checklist for face-to-face course deployment when participants bring their own computers 
-* Prepare and test VMs or containers to ensure uniformity.
-* Check projector, lamp, dust filter, focus and color mode.
-* Check documentation that may need to be distributed in paper form
-* Check name tags for the Participants
-* Prepare a list of Participants
-* Check training room tidiness
-* Check air conditioned, lighting
-* Check for the availability of pens and paper pads for notes
-* Check Felt Tip Markers and whiteboard
+    * Prepare and test VMs or containers to ensure uniformity.
+    * Check projector, lamp, dust filter, focus and color mode.
+    * Check documentation that may need to be distributed in paper form
+    * Check name tags for the Participants
+    * Prepare a list of Participants
+    * Check training room tidiness
+    * Check air conditioned, lighting
+    * Check for the availability of pens and paper pads for notes
+    * Check Felt Tip Markers and whiteboard
