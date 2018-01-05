@@ -213,6 +213,7 @@ Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.
 
 **References**:  
 - [P.Fernandes (March 2013):](ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
+
 **Examples**:  
 * http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
 * http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
