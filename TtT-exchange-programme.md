@@ -1,7 +1,7 @@
 ## ELIXIR-EXCELERATE Train the Trainer Exchange Programme
 
 ### Contacts: 
-Patricia Palagi: Patricia.Palagi@sib.swiss
+Patricia Palagi: Patricia.Palagi@sib.swiss <br>
 Allegra Via: allegra.via@uniroma1.it
 
 ### Applications
