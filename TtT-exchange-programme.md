@@ -5,25 +5,27 @@ Patricia Palagi: Patricia.Palagi@sib.swiss <br>
 Allegra Via: allegra.via@uniroma1.it
 
 ### Applications
+
 For the TtT course in Lausanne (30-31 Jan, 2018) you can apply by simply sending an email to both contacts.
 For future TtT courses, you will find instructions on how to apply directly in the course application form. 
 
 ### The Programme
+
 The ELIXIR Train the Trainers’ Exchange Programme will support the exchange of trainers between ELIXIR Nodes. 
 This will help build the ELIXIR trainers’ community, strengthen the links between ELIXIR Nodes and facilitate training 
 capacity building across the ELIXIR infrastructure. 
 The Exchange Programme will provide EE-TtT participants with  the opportunity to apply for two kinds of travel grants:
 
-**Travel grant  Type 1** 
-Number of grants available per course: 3 
-Eligible applicants: EE-TtT course participants.
-Purpose: To enable successful applicants to attend an EE-TtT course as a trainee.
-Number of travel grants: Up to 3 grants will be available for each EE-TtT course.
-**Travel grant Type 2**
-Number of grants available per course: 8
-Eligible applicants: EE-TtT course completers (EE-TtT participants who have attended an  EE-TtT course in full).
-Purpose: To enable successful applicants to travel to a different Node to participate in the delivery of  a bioinformatics course as an trainer, thus practicing the skills acquired in the EE-TtT course. 
-Number of travel grants: Up to 8 grants will be available for each EE-TtT course.
+**Travel grant Type 1** <br>
+- Purpose: To enable successful applicants to attend an EE-TtT course as a trainee. 
+- Number of travel grants: Up to 3 grants will be available for each EE-TtT course.
+- Eligible applicants: EE-TtT course participants. 
+
+**Travel grant Type 2** 
+- Purpose: To enable successful applicants to travel to a different Node to participate in the delivery of  a bioinformatics course as an trainer, thus practicing the skills acquired in the EE-TtT course. 
+- Number of travel grants: Up to 8 grants will be available for each EE-TtT course.
+- Eligible applicants: EE-TtT course completers (EE-TtT participants who have attended an  EE-TtT course in full).
+
 The travel grant can only be used to cover travel costs, accommodation and per diem. The funding can not be used to cover salaries, bursaries or administrative costs.
 
 **Eligibility requirements**
