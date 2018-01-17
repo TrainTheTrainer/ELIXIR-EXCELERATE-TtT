@@ -28,17 +28,21 @@ The Exchange Programme will provide EE-TtT participants with  the opportunity to
 
 The travel grant can only be used to cover travel costs, accommodation and per diem. The funding can not be used to cover salaries, bursaries or administrative costs.
 
-**Eligibility requirements**
-*Travel grant Type 1:* 
-Travel grants can be used to travel to another Node or from different locations within the same node, provided the 
-distance between the two locations is large enough to justify the request of a travel grant.
-Applicants must have already been selected for an EE-TtT course
-*Travel grant type 2:*
-Travel grants can only be used to travel to another Node.
-Applicants must have attended an EE-TtT course as trainee in the previous twelve months
+### Eligibility requirements 
 
-**Priority criteria**
+*Travel grant Type 1:* <br>
+- Travel grants can be used to travel to another Node or from different locations within the same node, provided the 
+distance between the two locations is large enough to justify the request of a travel grant.
+- Applicants must have already been selected for an EE-TtT course
+
+*Travel grant type 2:* <br>
+- Travel grants can only be used to travel to another Node.
+- Applicants must have attended an EE-TtT course as trainee in the previous twelve months
+
+### Priority criteria
+
 Priority will be given to:
+
 - Applicants that can demonstrate their involvement in the training activities of their local Node (proven by a letter/email from the Node’s Training Coordinator).
 - Applicants from Nodes that are most in need of funds and/or new trainers, or would like to expand training but have too small a cohort of trainers (proven by  a statement from the Node’s Training Coordinator).
 *Travel grant  type 1:*
