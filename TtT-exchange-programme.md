@@ -7,7 +7,7 @@ Allegra Via: allegra.via@uniroma1.it
 ### Applications
 
 For the TtT course in Lausanne (30-31 Jan, 2018) you can apply by simply sending an email to both contacts.
-For future TtT courses, you will find instructions on how to apply directly in the course application form. 
+For future TtT courses, you will find instructions on how to apply directly in the course's application form. 
 
 ### The Programme
 
