@@ -7,7 +7,7 @@
 **Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
 **Patricia Palagi**, ELIXIR-CH <br>
 
-##
+## [Train the Trainer Travel Exchange Programme: What it is and How to apply](./travel-exchange-programme.md)
 
 **Purpose:**
 
