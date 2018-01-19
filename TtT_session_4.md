@@ -1,4 +1,4 @@
-#ELIXIR – EXCELERATE Train-the Trainer subtask
+# ELIXIR – EXCELERATE Train-the Trainer subtask
 
 ## Session 4: Assessment and feedback in training
 
