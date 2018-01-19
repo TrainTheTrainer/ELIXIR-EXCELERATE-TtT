@@ -3,8 +3,6 @@
 ## Session 4: Assessment and feedback in training
 
 * [Feedback to and from learners](#feedback)
-
-
 * [Using questionnaires to promote peer instruction and content delivery;](#using)
 * [The role of questioning in learning; Formative Assessment;](#role)
 * [Diagnostic questionnaires](#diagnostic)
@@ -13,14 +11,20 @@
 * [Systematic Feedback;] (#systematic)
 * [(Short and long term) Post-course feedback.] (#short)
 
-<a name="feedback"></a>
-##Feedback to and from learners
+<a name="introduction"></a>
+##Introduction to assessment and feedback in training
 
-"Usually, teachers give feedback to their students, while trainers receive feedback from the learners;"
+Description: This sequence incites the reflexion on feedback and the way it is conveyed.
+Keywords: feedback, giving feedback, receiving feedback
+Learning objective: Develop an understanding of different types of feedback, when to give and receive feedback, and for which purpose. 
+Learning outcome:
+ 
+Introduction
+"Usually, teachers give feedback to their students, while trainers receive feedback from the learners"
 
 We have to be aware of the difference between giving feedback to learners and receiving feedback from learners. Both types of feedback are useful but have different purposes.
 
->###Challenge 1: what kind of feedback/assessment do you know as a learner?
+>###Activity (individual) - Challenge 1: what kind of feedback/assessment do you know as a learner or use as a trainer?
 > 
 > * What type of assessment did you undertake as a learner?
 > * What was its purpose in your opinion? 
@@ -28,6 +32,45 @@ We have to be aware of the difference between giving feedback to learners and re
 > 
 > Write at least one example and discuss it with us.
 
+### Assessment timeline - when and why to assess
+
+1. Pre-course assessment (before the course) - verify the target audience of the course
+2. Preventive assessment (beginning of the course) - final adjustments of the course to the reality of the participants
+3. Formative assessment (during the course) - pilot in real time if learning is taking place
+4. Summative assessment (right after the course) - measure and evaluate the knowledge and skills acquired
+5. Strategic evaluation (after the course, long time after the course) - measure the adequacy, quality and impact of the course  
+
+<a name="diagnostic"></a>
+## Pre-course assessment - Diagnostic questionnaires
+Pre-course assessment are useful tools for teachers to get an idea of where the learners and the group of learners stand at the beginning of a course. This is very helpful to setup realistic learning objectives, to meet expectations of learners and to adapt the course content to fill gaps identified in the diagnostic questionnaire and avoid spending time in things that are not necessary. Diagnostic questionnaires can be anonymous or not. Anonymous questionnaires allow to have an idea of the level of knowledge of the whole group of learners. An example of a diagnostic anonymous questionnaire for a session on PPI resources is giving [here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#). And [here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) you can see how the responses look like.
+
+Non-anonymous and personal questionnaires allow to find out if the learner has a necessary pre-required knowledge, and in the negative case indicate an appropriate teaching choice to palliate this lack. For example, a diagnostic questionnaire with Unix commands is used at SIB previous to an HPC course where Unix is pre-required. And an [Unix e-learning module](https://www.sib.swiss/training/e-learning) is proposed at SIB when the learners are not sure of their level of expertise or have been identified of lacking some knowledge. 
+
+<a name="design"></a>
+### Design of MCQs with distractors
+
+> We quote from [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
+>
+>A multiple choice question consists of a problem, known as the stem, and a list of suggested solutions, known as alternatives. The alternatives consist of one correct or best alternative, which is the answer, and incorrect or inferior alternatives, known as distractors.
+>
+Multiple choice test questions, also known as items, can be an effective and efficient way to assess learning outcomes. Multiple choice test items have several potential advantages:
+>
+Versatility: Multiple choice test items can be written to assess various levels of learning outcomes, from basic recall to application, analysis, and evaluation. Because students are choosing from a set of potential answers, however, there are obvious limits on what can be tested with multiple choice items. For example, they are not an effective way to test students’ ability to organize thoughts or articulate explanations or creative ideas.
+>
+Reliability: Reliability is defined as the degree to which a test consistently measures a learning outcome. Multiple choice test items are less susceptible to guessing than true/false questions, making them a more reliable means of assessment. The reliability is enhanced when the number of MC items focused on a single learning objective is increased. In addition, the objective scoring associated with multiple choice test items frees them from problems with scorer inconsistency that can plague scoring of essay questions.
+>
+Validity: Validity is the degree to which a test measures the learning outcomes it purports to measure. Because students can typically answer a multiple choice item much more quickly than an essay question, tests based on multiple choice items can typically focus on a relatively broad representation of course material, thus increasing the validity of the assessment.
+>
+The key to taking advantage of these strengths, however, is construction of good multiple choice items.
+
+>### Challenge 3: Design a questionnaire
+>
+>Write three MCQs (in your field of teaching) revealing:
+>* a knowledge gap ("what")
+>* a weakness in a practical skill ("why, when, how")
+>* a misconception
+
+<a name="feedback"></a>
 ##Feedback to learners
 
 Feedback to learners is anything we do to help both ourselves, the instructors, and learners to get information about whether learning is occurring (if during the teaching) or has occurred (at the end of the teaching). 
@@ -39,7 +82,7 @@ Feedback to learners can be summative or formative. <br>
 
 *Formative assessment*. Formative assessment takes place **during** teaching and learning. Its purpose is to help both instructors and learners to become aware of what the focus should be. 
 
-"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and are
+Formative "Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded and are
 almost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
 
 Formative assessment can be used to collect information about learners'
@@ -57,15 +100,6 @@ And can help understand
 - if the level of mastery is sufficient according to the course's learning objectives and outcomes
 - if learners goals and objectives are aligned to the course's goals and objectives 
 - which types of mistakes need special attention
-
->### Challenge 2: what kind of feedback/assessment do you use as an instructor?
-> * What type of feedback/assessment strategies do you use in your courses?
-> * What is their purpose?
-> * Do you mostly provide feedback to learners? or
-> * Do you collect feedback from learners?
-> * Are your assessment techniques mostly *summative* or *formative*?
-> * Write at least one example and discuss it with the others
-> 
 
 From the [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
 > *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of student
@@ -123,79 +157,6 @@ Formative assessment can be done in many different ways:
 - Providing diagnostic questionnaires;
 - Providing MCQs with distractors.
 
-
-<a name="diagnostic"></a>
-### Diagonstic questionnaires
-
-#### Google forms
-
-This types of questionnaires can be anonymous or not. We suggest that you use them anonymously.
-
-[This](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#) is an example of a diagnostic questionnaire for a session on PPI resources 
-
-[Here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) you can see how the responses look like.
-
-#### Socrative
-
-> From the Socrative website:
-> 
->[Socrative](https://www.socrative.com/) is your classroom app for fun, effective classroom engagement. No matter where or how you teach, Socrative allows you to instantly connect with students as learning happens.
->
->(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
-
-
-<a name="design"></a>
-### Design of MCQs with distractors
-
-> We quote from [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
->
->A multiple choice question consists of a problem, known as the stem, and a list of suggested solutions, known as alternatives. The alternatives consist of one correct or best alternative, which is the answer, and incorrect or inferior alternatives, known as distractors.
->
-Multiple choice test questions, also known as items, can be an effective and efficient way to assess learning outcomes. Multiple choice test items have several potential advantages:
->
-Versatility: Multiple choice test items can be written to assess various levels of learning outcomes, from basic recall to application, analysis, and evaluation. Because students are choosing from a set of potential answers, however, there are obvious limits on what can be tested with multiple choice items. For example, they are not an effective way to test students’ ability to organize thoughts or articulate explanations or creative ideas.
->
-Reliability: Reliability is defined as the degree to which a test consistently measures a learning outcome. Multiple choice test items are less susceptible to guessing than true/false questions, making them a more reliable means of assessment. The reliability is enhanced when the number of MC items focused on a single learning objective is increased. In addition, the objective scoring associated with multiple choice test items frees them from problems with scorer inconsistency that can plague scoring of essay questions.
->
-Validity: Validity is the degree to which a test measures the learning outcomes it purports to measure. Because students can typically answer a multiple choice item much more quickly than an essay question, tests based on multiple choice items can typically focus on a relatively broad representation of course material, thus increasing the validity of the assessment.
->
-The key to taking advantage of these strengths, however, is construction of good multiple choice items.
-
-.........
-
->### Challenge 3: Design a questionnaire
->
->Write three MCQs (in your field of teaching) revealing:
->* a knowledge gap ("what")
->* a weakness in a practical skill ("why, when, how")
->* a misconception
-
-
-### 50 classroom assessment techniques (CATs) by Angelo&Cross
-
-[Here] (./docs/angelo_and_cross_50_cats.pdf) you can find the **50 CATS by Angelo and Cross**. These are fifty assessment techinques grouped by purpose which can be used in teaching and in training. Some of them better apply to university semester courses, or high school classes, wheras some may turn out to be also useful in training courses/sessions. They are fully described and discussed in the book ""Classroom assessment techinques: A handbook for college teachers" (1993) by the same authors.  
-
-**Techniques for Assessing Course-Related Knowledge & Skills**
-
- - Assessing Prior Knowledge, Recall, and Understanding
- - Assessing Skill in analysis and Critical Thinking
- - Assessing Skill in Synthesis and Creative Thinking
- - Assessing Skill in Problem Solving
- - Assessing Skill in Application and Performance
- 
-**Techniques for Assessing Learner Attitudes, Values, and Self-Awareness**
- 
- - Assessing Students’ Awareness of Their Attitudes and Values
- - Assessing Students’ Self-Awareness as Learners
- - Assessing Course-Related Learning and Study Skills, Strategies, and Behaviors
-
-**Techniques for Assessing Learner Reactions to Instruction**
- 
- - Assessing Learner Reactions to Teachers and Teaching
- - Assessing Learner Reactions to Class Activities, Assignments, and Materials
-
-A description of the book written by the authors can be found [here](angelo_and_cross_assessment_techniques.pdf). 
-
 In the following we report the seven assumptions on which the CATs are based and five suggestions to use them fruitfully and effectively: 
 
 >From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
@@ -250,23 +211,8 @@ Feedback from learners is aimed at:
 - assessing learner reactions to class activities, assignments, and materials thus giving instructors information that will help them improve their course materials and assignments;
 - assessing learner reactions course organisational aspects, thus providing the organiser information that will help him or her to improve the course organisation.
 
-<a name="assessment"></a>
-### Assessment of training quality, participant and instructor performance
-
-Examples of feedback questionnaires:
-
-1) This is the type of questionnaire we developed for ELIXIR Italy courses:
-
-[Feedback questionnaire](https://docs.google.com/forms/d/101Z1pufbmWTGN-P_EgHYaeXN1g0uSRQiGDJeFe_NBEg/edit#) for the ELIXIR Italy course on "NGS for evolutionary biologists: from basic scripting to variant calling" (Rome, 23-27 November 2015)
-
-We adapt it to each new course.
-
-2) This is the type of questionnaire used to assess the quality of bioinformatics courses organised and delivered by the Gulbenkian Training Programme in Bioinformatics at the Instituto Gulbenkian de Ciência:
-
-[Feedback questionnaire](./docs/Questionnaire.pdf) for the course on "Bioinformatics using Python for Biomedical Researchers" (Oeiras, PT July 11th – July 15th 2016)
-
 <a name="systematic"></a>
-### Systematic feedback
+### Systematic immediate feedback
 
 In a training course, getting feedback at the end of the event is necessary, as the participants may (should) have developed encompassing, integrated views. However, it is vastly insufficient. Questioning participants frequently during training provision is rich with information and has very interesting effects. But when should this happen? And how can it be induced so that, as a drug, has as many positive effects  and as low adverse effects as possible?
 
@@ -316,10 +262,39 @@ Notice that the Carpentry teaching practices quoted in [session 2](./TtT-session
 * For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
 * For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead o the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge wheather the pace of training delivery is correctly chosen for the audience.
 
-<a name="short"></a>
-### (Short and long term) Post-course feedback
+#### Socrative
 
-Long term assessments are rather difficult. First becaulse learners move and become more diffuicult to cantact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the aseesment of impacts that endure.
+> Getting instant feedback with the app Socrative:
+> 
+>"[Socrative](https://www.socrative.com/) is your classroom app for fun, effective classroom engagement. No matter where or how you teach, Socrative allows you to instantly connect with students as learning happens."
+>
+>(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
+
+<a name="assessment"></a>
+### Short term feedback - assessment of training quality, participant and instructor performance
+
+Short term feedback is a very important strategic evaluation of a course. It happens immediately at the end of the course with the purpose to measure the trainees’ perception of: the quality of the training and its organisation aspects, the trainer’s capacity to teach (performance), the adequacy of the training to their expectations and the strengths and weaknesses of course.
+
+Examples of feedback questionnaires:
+
+1) This is the type of questionnaire we developed for ELIXIR Italy courses:
+
+[Feedback questionnaire](https://docs.google.com/forms/d/101Z1pufbmWTGN-P_EgHYaeXN1g0uSRQiGDJeFe_NBEg/edit#) for the ELIXIR Italy course on "NGS for evolutionary biologists: from basic scripting to variant calling" (Rome, 23-27 November 2015)
+
+We adapt it to each new course.
+
+2) This is the type of questionnaire used to assess the quality of bioinformatics courses organised and delivered by the Gulbenkian Training Programme in Bioinformatics at the Instituto Gulbenkian de Ciência:
+
+[Feedback questionnaire](./docs/Questionnaire.pdf) for the course on "Bioinformatics using Python for Biomedical Researchers" (Oeiras, PT July 11th – July 15th 2016)
+
+3) And this is the type of common shared questions used by most of the ELIXIR Nodes (countries).
+
+[Feedback questionnaire](https://docs.google.com/forms/d/1XoRMD3boIdNd_PPzrpaguO5MHbJwsu1TgSbHYGF_M8w/edit) 
+
+<a name="short"></a>
+### Long term post-course feedback
+
+Long term assessments (over 6 months after a course) are rather difficult. First because learners move jobs/cities frequently and become more difficult to contact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the assessment of impacts that endure.
 
 Interviewing former course participants would be a possibility but it requires a lot of time. Sending them short questions by e-mail has worked  with a yeald of about 30%, so unless you are tarining at least several hundreds of people it is likely that you end-up with a very small number of answers. Currently we see some home in the usage of social networks to collect valuable data.
 
@@ -329,7 +304,7 @@ Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biolo
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
 
-#### Training Evaluation
+## Extra - Going deeper on Training Evaluation
 
 There are several methods that can be used to evaluate training. One of the most referenced methods comes from Donald Kirpatrick (1924-2014).
 
@@ -356,3 +331,29 @@ Applying the Kirkpatrick model and its variants is not easy. One needs to be ver
 The evaluation of training efficiency is a difficult subject. There is an obvious need to standardise to allow for the comparison of observations.
 
 You may like to read an article about applying Kirkpatrick's methods. https://www.mindtools.com/pages/article/kirkpatrick.htm
+
+
+## Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross
+
+[Here] (./docs/angelo_and_cross_50_cats.pdf) you can find the **50 CATS by Angelo and Cross**. These are fifty assessment techinques grouped by purpose which can be used in teaching and in training. Some of them better apply to university semester courses, or high school classes, wheras some may turn out to be also useful in training courses/sessions. They are fully described and discussed in the book ""Classroom assessment techinques: A handbook for college teachers" (1993) by the same authors.  
+
+**Techniques for Assessing Course-Related Knowledge & Skills**
+
+ - Assessing Prior Knowledge, Recall, and Understanding
+ - Assessing Skill in analysis and Critical Thinking
+ - Assessing Skill in Synthesis and Creative Thinking
+ - Assessing Skill in Problem Solving
+ - Assessing Skill in Application and Performance
+ 
+**Techniques for Assessing Learner Attitudes, Values, and Self-Awareness**
+ 
+ - Assessing Students’ Awareness of Their Attitudes and Values
+ - Assessing Students’ Self-Awareness as Learners
+ - Assessing Course-Related Learning and Study Skills, Strategies, and Behaviors
+
+**Techniques for Assessing Learner Reactions to Instruction**
+ 
+ - Assessing Learner Reactions to Teachers and Teaching
+ - Assessing Learner Reactions to Class Activities, Assignments, and Materials
+
+A description of the book written by the authors can be found [here](angelo_and_cross_assessment_techniques.pdf). 
