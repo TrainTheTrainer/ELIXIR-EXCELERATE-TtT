@@ -5,15 +5,15 @@
 * [Introduction to assessment and feedback in training](#introduction)
     * [Assessment timeline - when and why to assess](#timeline)
 * [Pre-course assessment - Diagnostic questionnaires](#diagnostic)
-    * [Design of MCQs with distractors] (#design)
+    * [Design of MCQs with distractors](#design)
 * [Feedback to learners](#feedback)
-    * [Summative and formative assessment] (#summative)
+    * [Summative and formative assessment](#summative)
 * [Feedback from learners](#feedbackfrom)
-    * [Systematic Feedback;] (#systematic)
-* [Short term feedback - assessment of training quality, participant and instructor performance.] (#short)
-* [Long term post-course feedback.] (#short)
-* [Extra - Going deeper on Training Evaluation] (#extra1)
-* [Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross] (#extra2)
+    * [Systematic Feedback;](#systematic)
+* [Short term feedback - assessment of training quality, participant and instructor performance.](#short)
+* [Long term post-course feedback.](#short)
+* [Extra - Going deeper on Training Evaluation](#extra1)
+* [Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross](#extra2)
 
 <a name="introduction"></a>
 ## Introduction to assessment and feedback in training
