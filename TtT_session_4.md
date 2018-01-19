@@ -2,17 +2,21 @@
 
 ## Session 4: Assessment and feedback in training
 
-* [Feedback to and from learners](#feedback)
-* [Using questionnaires to promote peer instruction and content delivery;](#using)
-* [The role of questioning in learning; Formative Assessment;](#role)
-* [Diagnostic questionnaires](#diagnostic)
-* [Design of MCQs with distractors] (#design)
-* [Assessment of training quality, participant and instructor performance;] (#assessment)
-* [Systematic Feedback;] (#systematic)
-* [(Short and long term) Post-course feedback.] (#short)
+* [Introduction to assessment and feedback in training](#introduction)
+    * [Assessment timeline - when and why to assess](#timeline)
+* [Pre-course assessment - Diagnostic questionnaires](#diagnostic)
+    * [Design of MCQs with distractors] (#design)
+* [Feedback to learners](#feedback)
+    * [Summative and formative assessment] (#summative)
+* [Feedback from learners](#feedbackfrom)
+    * [Systematic Feedback;] (#systematic)
+* [Short term feedback - assessment of training quality, participant and instructor performance.] (#short)
+* [Long term post-course feedback.] (#short)
+* [Extra - Going deeper on Training Evaluation] (#extra1)
+* [Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross] (#extra2)
 
 <a name="introduction"></a>
-##Introduction to assessment and feedback in training
+## Introduction to assessment and feedback in training
 
 Description: This sequence incites the reflexion on feedback and the way it is conveyed.
 Keywords: feedback, giving feedback, receiving feedback
@@ -24,7 +28,7 @@ Introduction
 
 We have to be aware of the difference between giving feedback to learners and receiving feedback from learners. Both types of feedback are useful but have different purposes.
 
->###Activity (individual) - Challenge 1: what kind of feedback/assessment do you know as a learner or use as a trainer?
+>### Activity (individual) - Challenge 1: what kind of feedback/assessment do you know as a learner or use as a trainer?
 > 
 > * What type of assessment did you undertake as a learner?
 > * What was its purpose in your opinion? 
@@ -32,6 +36,7 @@ We have to be aware of the difference between giving feedback to learners and re
 > 
 > Write at least one example and discuss it with us.
 
+<a name="timeline"></a>
 ### Assessment timeline - when and why to assess
 
 1. Pre-course assessment (before the course) - verify the target audience of the course
@@ -76,7 +81,8 @@ The key to taking advantage of these strengths, however, is construction of good
 Feedback to learners is anything we do to help both ourselves, the instructors, and learners to get information about whether learning is occurring (if during the teaching) or has occurred (at the end of the teaching). 
 Grades are an example of a type of feedback we can give to students to inform them how they performed in a test or exam. Grading, on the one hand, informs instructors whether the learning took place and whether learners are ready to move on and, on the other, should make learners aware of the knowledge and mastery they have atteined by the time they took the test.
 
-#### Summative and formative assessment
+<a name="summative"></a>
+### Summative and formative assessment
 Feedback to learners can be summative or formative. <br>
 *Summative assessment*. An exam or a test at the end of a course is an example of summative assessment. Summative assessment is aimed at evaluating learners' performance at the end of teaching (this could be at the end of a topic, a session, or at the end of the entire course). This is the most frequent type of assessment occurring in schools and universities and usually includes grading. It is less frequent in training.
 
@@ -203,6 +209,7 @@ Quotes form "Peer Instruction, Getting students to think in class" by Erik Mazur
 to be continued .... SEE QUESTIONNAIRE [here](./doc/peer-instruction-Mazur.pdf)
 
 
+<a name="feedbackfrom"></a>
 ## Feedback from learners
 
 Feedback from learners is aimed at:
@@ -270,7 +277,7 @@ Notice that the Carpentry teaching practices quoted in [session 2](./TtT-session
 >
 >(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
 
-<a name="assessment"></a>
+<a name="short"></a>
 ### Short term feedback - assessment of training quality, participant and instructor performance
 
 Short term feedback is a very important strategic evaluation of a course. It happens immediately at the end of the course with the purpose to measure the trainees’ perception of: the quality of the training and its organisation aspects, the trainer’s capacity to teach (performance), the adequacy of the training to their expectations and the strengths and weaknesses of course.
@@ -291,7 +298,7 @@ We adapt it to each new course.
 
 [Feedback questionnaire](https://docs.google.com/forms/d/1XoRMD3boIdNd_PPzrpaguO5MHbJwsu1TgSbHYGF_M8w/edit) 
 
-<a name="short"></a>
+<a name="long"></a>
 ### Long term post-course feedback
 
 Long term assessments (over 6 months after a course) are rather difficult. First because learners move jobs/cities frequently and become more difficult to contact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the assessment of impacts that endure.
@@ -304,6 +311,7 @@ Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biolo
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
 
+<a name="extra1"></a>
 ## Extra - Going deeper on Training Evaluation
 
 There are several methods that can be used to evaluate training. One of the most referenced methods comes from Donald Kirpatrick (1924-2014).
@@ -333,6 +341,7 @@ The evaluation of training efficiency is a difficult subject. There is an obviou
 You may like to read an article about applying Kirkpatrick's methods. https://www.mindtools.com/pages/article/kirkpatrick.htm
 
 
+<a name="extra2"></a>
 ## Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross
 
 [Here] (./docs/angelo_and_cross_50_cats.pdf) you can find the **50 CATS by Angelo and Cross**. These are fifty assessment techinques grouped by purpose which can be used in teaching and in training. Some of them better apply to university semester courses, or high school classes, wheras some may turn out to be also useful in training courses/sessions. They are fully described and discussed in the book ""Classroom assessment techinques: A handbook for college teachers" (1993) by the same authors.  
