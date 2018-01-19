@@ -5,7 +5,7 @@
 * [Using Concept Maps to develop courses and sessions;](#conceptmaps)
 * [Training session design and plan;](#sessions)
 * [Training materials: designing, producing, delivering, sharing, making re-use possible;](#design)
-* [Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.](#repositories)
+    * [Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.](#repositories)
 * [Reproducibility of compute environments;](#reproducibility)
 * [Training rooms for bioinformatics;](#rooms)
 
