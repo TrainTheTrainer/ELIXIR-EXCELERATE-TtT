@@ -225,7 +225,7 @@ Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.
 <a name="reproducibility"></a>
 ## Reproducibility of compute environments
 
-**Description"": This sequence raises the awareness of the compute environments that are needed in different settings of bioinformatics courses.
+**Description**: This sequence raises the awareness of the compute environments that are needed in different settings of bioinformatics courses.
 
 **Keywords**: computer environment, computer setup
 
