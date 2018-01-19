@@ -68,7 +68,7 @@ Validity: Validity is the degree to which a test measures the learning outcomes 
 >
 The key to taking advantage of these strengths, however, is construction of good multiple choice items.
 
->### Challenge 3: Design a questionnaire
+>### Activity (individual) Challenge 2: Design a questionnaire
 >
 >Write three MCQs (in your field of teaching) revealing:
 >* a knowledge gap ("what")
@@ -76,7 +76,7 @@ The key to taking advantage of these strengths, however, is construction of good
 >* a misconception
 
 <a name="feedback"></a>
-##Feedback to learners
+## Feedback to learners
 
 Feedback to learners is anything we do to help both ourselves, the instructors, and learners to get information about whether learning is occurring (if during the teaching) or has occurred (at the end of the teaching). 
 Grades are an example of a type of feedback we can give to students to inform them how they performed in a test or exam. Grading, on the one hand, informs instructors whether the learning took place and whether learners are ready to move on and, on the other, should make learners aware of the knowledge and mastery they have atteined by the time they took the test.
@@ -278,7 +278,7 @@ Notice that the Carpentry teaching practices quoted in [session 2](./TtT-session
 >(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
 
 <a name="short"></a>
-### Short term feedback - assessment of training quality, participant and instructor performance
+## Short term feedback - assessment of training quality, participant and instructor performance
 
 Short term feedback is a very important strategic evaluation of a course. It happens immediately at the end of the course with the purpose to measure the trainees’ perception of: the quality of the training and its organisation aspects, the trainer’s capacity to teach (performance), the adequacy of the training to their expectations and the strengths and weaknesses of course.
 
@@ -299,7 +299,7 @@ We adapt it to each new course.
 [Feedback questionnaire](https://docs.google.com/forms/d/1XoRMD3boIdNd_PPzrpaguO5MHbJwsu1TgSbHYGF_M8w/edit) 
 
 <a name="long"></a>
-### Long term post-course feedback
+## Long term post-course feedback
 
 Long term assessments (over 6 months after a course) are rather difficult. First because learners move jobs/cities frequently and become more difficult to contact with. Secondly because they forget, as all of us do. In this case they forget what worked for them as hidden details. Those may matter because what we are looking for, here, is the assessment of impacts that endure.
 
