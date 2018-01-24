@@ -30,9 +30,9 @@ We have to be aware of the difference between giving feedback to learners and re
 
 >### Activity (individual) - Challenge 1: what kind of feedback/assessment do you know as a learner or use as a trainer?
 > 
-> * What type of assessment did you undertake as a learner?
+> * What type of assessment did you undertake as a learner or trainer?
 > * What was its purpose in your opinion? 
-> * Was it useful to your learning? 
+> * Was it useful to your learning or teaching? 
 > 
 > Write at least one example and discuss it with us.
 
@@ -79,7 +79,7 @@ The key to taking advantage of these strengths, however, is construction of good
 ## Feedback to learners
 
 Feedback to learners is anything we do to help both ourselves, the instructors, and learners to get information about whether learning is occurring (if during the teaching) or has occurred (at the end of the teaching). 
-Grades are an example of a type of feedback we can give to students to inform them how they performed in a test or exam. Grading, on the one hand, informs instructors whether the learning took place and whether learners are ready to move on and, on the other, should make learners aware of the knowledge and mastery they have atteined by the time they took the test.
+Grades are an example of a type of feedback we can give to students to inform them how they performed in a test or exam. Grading, on the one hand, informs instructors whether the learning took place and whether learners are ready to move on and, on the other, should make learners aware of the knowledge and mastery they have attained by the time they took the test.
 
 <a name="summative"></a>
 ### Summative and formative assessment
