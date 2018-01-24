@@ -163,9 +163,9 @@ Formative assessment can be done in many different ways:
 - Providing diagnostic questionnaires;
 - Providing MCQs with distractors.
 
-In the following we report the seven assumptions on which the CATs are based and five suggestions to use them fruitfully and effectively: 
+In the following, we report the seven assumptions on which the CATs (Course Assessment Techniques) are based and five suggestions to use them fruitfully and effectively: 
 
->From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
+>From [Angelo and Cross](./docs/angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
 > 
