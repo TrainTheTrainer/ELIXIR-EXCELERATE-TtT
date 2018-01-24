@@ -93,7 +93,7 @@ almost always anonymous." (from [From Angelo & Cross, Classroom Assessment techn
 
 Formative assessment can be used to collect information about learners'
 
-- prior knwledge
+- prior knowledge
 - mental models
 - level of mastery of the topic at hand
 - goals and objectives
