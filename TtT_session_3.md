@@ -85,36 +85,27 @@ Defining a course and course sessions is an iterative and circular process. You 
 - Think whether you need to distribute some material in advance to the audience (e.g. if you are teaching how to make an origami item, you might want provide learners with sheets of paper);
 - Sketch the structure of your presentation (e.g., 40 secs introduction/2 mins on topic/20 secs conclusion);
 
-> ## Challenge
+**Activity (group) - Challenge**: Recording the 3 minute sessions
 
-> - You will be split into groups of 3 or 4;
-> - Make sure your group has a laptop and a phone which can record video;
-> - You need to each deliver your 3 minute session to the others;
-> - One person delivers the session;
-> - One person records on the phone;
-> - One person notes down comments real-time;
-> - You then provide feedback to each individual, and give your own comments on your delivery;
-> - You then have time to revise your session, before delivering to the whole group.
+- You will be split into groups of 3 or 4;
+- Make sure your group has a laptop and a phone which can record video;
+- You need to each deliver your 3 minutes session to the others;
+- One person delivers the session;
+- One person records on the phone;
+- One person notes down comments real-time;
+- You then provide feedback to each individual, and give your own comments on your delivery;
+- You then have time to revise your session, before delivering to the whole group.
 
-## Design of a three-minute presentation
 
-- Set a learning goal and a learning outcome for your mini-session;
-- Identify the target audience and prerequisites;
-- Draw a concept map for your mini-session;
-- Think if you want to make your presentation active and interactive (if you are going to teach how two draw, e.g., a stylised bicycle, you might want learners to do it while you show them how to do it);
-- Think whether you need or want to use a visual support (e.g. slides/video/pictures/a web page);
-- Think whether you need to distribute some material in advance to the audience (e.g. if you are teaching how to make an origami item, you might want provide learners with sheets of paper);
-- Sketch the structure of your presentation (e.g., 40 secs introduction/2 mins on topic/20 secs conclusion);
-
-### Recipe for planning a mini-session 
-    * Identify the ideal target audience;
-    * Set learning objectives;
-    * Set learning outcomes;
-    * Identify the required prior knowledge;
-    * Draw a concept map of the session's topic;
-    * Decide how much time to allocate for each activity and prepare an outline;
-    * Decide the order of activities;
-    * Try to include at least a warm-up session, a short lecture, a practical or group activity, and a wrap-up.
+> ### Recipe for planning a mini-session 
+>    * Identify the ideal target audience;
+>    * Set learning objectives;
+>    * Set learning outcomes;
+>    * Identify the required prior knowledge;
+>    * Draw a concept map of the session's topic;
+>    * Decide how much time to allocate for each activity and prepare an outline;
+>    * Decide the order of activities;
+>    * Try to include at least a warm-up session, a short lecture, a practical or group activity, and a wrap-up.
 
 
 **Warm-up** <br>
