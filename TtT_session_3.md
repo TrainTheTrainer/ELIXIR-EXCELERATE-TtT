@@ -72,7 +72,7 @@ In this session you will learn how to:
 
 **Learning objective**: Practice to design and plan a training session 
 
-**Learning outcome**: To be able to reflect on, design and plan a training session
+**Learning outcome**: To reflect on, and to practice the design and planning of a training session 
  
 **Introduction**  
 Defining a course and course sessions is an iterative and circular process. You start by defining an overall objective related to the concepts and skills you want the learners to develop (see concept maps). These objectives should be as much as possible SMART (Specific, Measurable, Achievable, Realistic, Time-limited). You can then explicit what are the pre-requirements that the learners will need to have a priori and what are the set of skills the training course will provide. You can also define an evaluation that participants would take to prove they have achieved the learning, and what are the concepts/competencies/skills they need to learn to succeed the evaluation. With this information at hand, you can start describing and creating the course session content, the process of the session (instructions), and any materials that would be needed. Bear in mind that this is an iterative process and can be revised several times. 
