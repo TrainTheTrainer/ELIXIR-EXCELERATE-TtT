@@ -51,7 +51,7 @@ In this session you will learn how to:
 
 **Activity (individual)**: Building up step by step the design of a very short lesson (three-minute session)
 - Choose a topic you think you can teach in three minutes. This can be **any** topic (how to make an origami bird, introduction to biochemistry, how bats recognise the presence of obstacles, the second law of Newton, how to draw a comic strip, etc);
-- Draw a concept map for your mini-session; What are the concepts that you want to the learners to learn and the relations among the concepts
+- Draw a concept map for your mini-session; What are the concepts that you want the learners to learn and the relations among the concepts
  
 **References**:  
 - Ambrose et al (2010) "How learning works - Seven research-based principles for smart teaching". Jossey-Bass, a Wiley Imprint.
