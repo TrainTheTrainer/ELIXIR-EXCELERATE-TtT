@@ -12,6 +12,7 @@
     * [Systematic Feedback;](#systematic)
 * [Short term feedback - assessment of training quality, participant and instructor performance.](#short)
 * [Long term post-course feedback.](#short)
+* [Dealing with (bad) feedback.](#dealing)
 * [Extra - Going deeper on Training Evaluation](#extra1)
 * [Extra - 50 classroom assessment techniques (CATs) by Angelo & Cross](#extra2)
 
@@ -310,6 +311,23 @@ Critical appraisals often happen is casual conversations. One should take notes 
 Example: Pedro Fernandes, Pooja Jain, Catarina Moita Training Experimental Biologists
 in Bioinformatics, Adv Bioinformatics. 2012;2012:672749. doi:
 10.1155/2012/672749. Epub 2012 Jan 31. (Open Access)
+
+<a name="dealing"></a>
+## Dealing with (bad) feedback
+
+**What do to with bad feedback:**
+- Trainees feedback should be considered along other forms of quality evidence:
+  - Review what they have effectively learned (in exams)
+  - Consider your own experience of teaching
+  - Discuss with colleagues and friends
+  - Look at the feedback from past sessions of the same course  
+  - Look at the response rates
+  - Look at the counter examples (contradictions)
+  - Look at the repetitive patterns(not at only one single answer)
+- Breath deeply 
+- Humans focus more on negative feedback than on positive (you are not alone)
+- Try to see the point in the criticism, learn from it
+- Don’t take it personally (easier said than done). Try to focus on what they say about what you do (not who you are)
 
 <a name="extra1"></a>
 ## Extra - Going deeper on Training Evaluation
