@@ -263,7 +263,7 @@ Functionality
 
 Learners access to anything that is shared should be in the first line of priority. Access to shared storage space should be made easy. To communicate with the learners, video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard to pin materials, etc. should have premium access and ease of use.
 
-Hardware neeeds
+Hardware needs
 
 In some cases, network connections providing simple browsing (Port 80) or SSH access (Port 22) are more than sufficient. In the case of BYOD (bring your own device), the room must have easy power suppliers and network connections, including a good quality wifi access.
 
