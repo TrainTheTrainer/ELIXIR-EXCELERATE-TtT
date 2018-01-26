@@ -4,7 +4,7 @@
 
 * [Using Concept Maps to develop courses and sessions;](#conceptmaps)
 * [Training session design and plan;](#sessions)
-* [Training materials: designing, producing, delivering, sharing, making re-use possible;](#design)
+* [Training materials: sharing and making re-use possible;](#design)
     * [Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.](#repositories)
 * [Reproducibility of compute environments;](#reproducibility)
 * [Training rooms for bioinformatics;](#rooms)
@@ -178,7 +178,7 @@ Your plan for 1h15 session may look like this:
     * Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
 
 <a name="design"></a>
-## Training materials: designing, producing, delivering, sharing, making re-use possible
+## Training materials: sharing and making re-use possible
 
 **Description**: This sequence raises the awareness of the amount of work and time needed to create training materials (preparing the course content), the importance of sharing and reusing training materials, and of some of the current training repositories.
 
@@ -194,11 +194,11 @@ Designing and producing quality training materials (presentations, exercises, su
 
 <a name="repositories"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-With sharing and [FAIR](https://fair-dom.org/) principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
+With sharing and [FAIR](https://fair-dom.org/) principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of training materials has already been deposited.
 
-The need for referencing training materials in general, in the context of ELIXIR, has led to the development of [TeSS](http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform), a training e-support system. It is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
+The need for referencing training materials in general, in the context of ELIXIR, has led to the development of [TeSS](https://tess.elixir-europe.org), a training e-support system. It is all about discovering, packaging and linking training related objects, i.e. aggregating training materials, events and resources and making them accessible through one single entry point.
 
-Many people involved in the production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
+Many people involved in the production of training materials are finding useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be a smart choice, especially because updating is left in the hands of the authors. The extended capabilities to produce websites, e-books, etc. are also seen as strengths. 
 
 Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are gaining popularity. "Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
 
