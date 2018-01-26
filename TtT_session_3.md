@@ -103,7 +103,8 @@ Defining a course and course sessions is an iterative and circular process. You 
 >    * Set learning outcomes;
 >    * Identify the required prior knowledge;
 >    * Draw a concept map of the session's topic;
->    * Decide how much time to allocate for each activity and prepare an outline;
+>    * Expand the learning outcomes into an outline;
+>    * Decide how much time to allocate for each activity;
 >    * Decide the order of activities;
 >    * Try to include at least a warm-up session, a short lecture, a practical or group activity, and a wrap-up.
 
@@ -145,7 +146,7 @@ Your plan for 1h15 session may look like this:
 > - You will need to:
 >   - Identify target audience
 >   - Define session structure (include indicative content, length, breakdown and timings)
->   - Set learning objectives and outcomes
+>   - Set learning objectives and outcomes, expand the them to make a session outline
 >   - Decide learning activities  
 >   - Suggest how you will assess trainee progress
 > - Tell us anything else you think we need to know….
