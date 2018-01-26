@@ -194,13 +194,13 @@ Designing and producing quality training materials (presentations, exercises, su
 
 <a name="repositories"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-With sharing and [FAIR](https://fair-dom.org/) principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of training materials has already been deposited.
+With sharing and [FAIR](https://fair-dom.org/) principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a [training Portal](http://mygoblet.org/training-portal) in 2014  where a significant amout of training materials has already been deposited.
 
 The need for referencing training materials in general, in the context of ELIXIR, has led to the development of [TeSS](https://tess.elixir-europe.org), a training e-support system. It is all about discovering, packaging and linking training related objects, i.e. aggregating training materials, events and resources and making them accessible through one single entry point.
 
 Many people involved in the production of training materials are finding useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be a smart choice, especially because updating is left in the hands of the authors. The extended capabilities to produce websites, e-books, etc. are also seen as strengths. 
 
-Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are gaining popularity. "Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
+Alternatively, the use of electronic notebooks, namely [Jupyter](http://jupyter.org) and its satellite services are gaining popularity. "Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
 
 **References**:  
 - [P.Fernandes - March 2013] (ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf)
