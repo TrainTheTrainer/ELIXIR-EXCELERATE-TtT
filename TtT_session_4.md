@@ -191,7 +191,7 @@ In the following, we report the seven assumptions on which the CATs (Course Asse
 
 In active learning environments, learners are so involved in the learning process that they often loose consciousness about their accumulated knowledge and its level of operational value. Learning by doing catches them in the process, so they often forget about assessing it.
 
-In good quality training, instructors make efforts to keep the interaction loop closed. As facilitators, they can give steering contributions to this buil-up.
+In good quality training, instructors make efforts to keep the interaction loop closed. As facilitators, they can give steering contributions to this build-up.
 
 At carefully chosen times, it may be useful to intervene and stimulate self assessment (see how to, under instant feedback below). Self assessment helps to regain such consciousness. Learners verify that they can do things that they could not do by themselves before, or at least that the need for external aid is lowering. This can be seen as a work-out process towards gaining independence or mastery in a subject matter. The conscious learner feels "empowered". It is up to the instructor to moderate and keep this empowerment within reasonable limits. Learners that are not feeling empowered often find it by comparing their experience with their peers. Dialogues between learners will naturally occur, but can also be stimulated by reflective exercises (such as in Software and Data Carpentry). The instructor will learn to adapt the level of intervention to each situation, keeping in mind that the learner is the focus of the learning process, and that the instructor/learner relationship is the cornerstone of learning as a stimulated human activity.
 
@@ -267,8 +267,8 @@ Notice that the Carpentry teaching practices quoted in [session 2](./TtT-session
 
 ### Instant Feedback: benefits worth noticing 
 
-* For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy ist it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartes way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
-* For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead o the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge wheather the pace of training delivery is correctly chosen for the audience.
+* For the LEARNER. Carefully implemented instant feedback obliges the learner to introspect, to answer himself first (do I really know this? How easy it it for me to do this by myself?). With this, it becomes clear that he is made aware of his own progress and this is the smartest way to gain self-confidence. When questioned at the end-of the course questionnaire, he is much more able to make encompassing self assessments
+* For the INSTRUCTOR. Multiple ways of checking if what has just been done was effective, as a result of the quality of the question. Useful assessment of the quality of the materials and the performance of the instructor. A way of identifying learners that may be dragging behind and may need more attention. A way of identifying learners that are getting ahead of the others in the group, and can become more active, receive harder assignments, help their colleagues, etc. A way to judge whether the pace of training delivery is correctly chosen for the audience.
 
 #### Socrative
 
