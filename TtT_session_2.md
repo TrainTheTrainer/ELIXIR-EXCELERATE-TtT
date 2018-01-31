@@ -48,6 +48,11 @@ Try to give up the position of the "sage on the stage", to become the "guide on 
 Discuss it in pairs and write down which characteristics you think a good trainer should have.
 
 >[Compare your thoughts with ours](#challenge2)
+>
+>###Challenge 3: What good teachers have in common? 
+>Identify two essential characteristics that good teachers have in common. Discuss with your partner. Write them down and share them with us.
+>
+>[Compare your thoughts with ours](#challenge3)
 
 <a name="teaching"></a>
 ### Teaching as a preformance art: promoting learner engagement
@@ -87,7 +92,7 @@ Giving an interactive lecture involves creating and delivering an effective segm
 The TtT taskforce of the Global Organisation for Bioinformatics Learning, Education and Training ([GOBLET] (http://mygoblet.org)), developed a skills matrix for trainiers. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! 
 
 <a name="gobletmatrix"></a>
-> ### Challenge 3: The GOBLET skills matrix for trainers
+> ### Challenge 4: The GOBLET skills matrix for trainers
 > 1. Try to reflect on your current skills and how they fit with this matrix.  
 > 
 > 2. Then share your thoughts with us.
@@ -122,7 +127,7 @@ In general terms, as an instructor, if you feel that you need to motivate learne
 You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. 
 
 ---
-> The lesson on [Motivation and Demotivation](http://swcarpentry.github.io/instructor-training/16-motivation/) from the [Software/Data Carpentry Instructor training](http://swcarpentry.github.io/instructor-training/) is a very interesting reading on the topic. Here is a list of strategies for motivating learners from this lesson:
+> The lesson on [Motivation and Demotivation](http://swcarpentry.github.io/instructor-training/16-motivation/) from the [Software/Data Carpentry Instructor training](http://carpentries.github.io/instructor-training/08-motivation/) is a very interesting reading on the topic. Here is a list of strategies for motivating learners from this lesson:
 > 
     Strategies to establish value:
       - Connect the material to students’ interests.
@@ -310,9 +315,9 @@ Feedback at the end of each session should be quick and simple. One example appr
 ## Challenges: discussion
 
 <a name="challenge2">Challenge 2</a>:
-What makes a good trainer? 
+> What makes a good trainer? 
 
-- Knowledge of subject
+> - Knowledge of subject
 - Clear aims for session outcomes
 - Confidence in delivery
 - Appropriate delivery
@@ -320,3 +325,6 @@ What makes a good trainer?
 - Flexible – can change pace / depth if required
 - Approachable
 - Engaging
+
+<a name="challenge3">Challenge 3</a>:
+>According to experiment described in (Willingham, 2009), effective teachers have two qualities: they are able to connect personally with students, and they organise the material in a way that makes it interesting and easy to understand (the class is well organised).
