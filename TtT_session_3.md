@@ -149,7 +149,7 @@ Your plan for 1h15 session may look like this:
 >   - Set learning objectives and outcomes, expand the them to make a session outline
 >   - Decide learning activities  
 >   - Suggest how you will assess trainee progress
-> - Tell us anything else you think we need to know….
+> - Let us know of anything else you will need to think about….
 
 #### Recipe to prepare a new training course
 
