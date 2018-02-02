@@ -45,9 +45,9 @@ Priority will be given to:
 
 - Applicants that can demonstrate their involvement in the training activities of their local Node (proven by a letter/email from the Node’s Training Coordinator).
 - Applicants from Nodes that are most in need of funds and/or new trainers, or would like to expand training but have too small a cohort of trainers (proven by  a statement from the Node’s Training Coordinator).
-*Travel grant  type 1:*
+*Travel grant  type 1:*<br>
 - Applicants from Nodes that have not sent trainees to any previous EE-TtT course. Exceptions may be made if the course attended had a different format
 - Applicants who have not previously attended an EE-TtT course.
-*Travel grant type 2:*
+*Travel grant type 2:*<br>
 - Applicants who have an invitation from a course organiser or experienced trainer to teach in a bioinformatics course scheduled to take place within an ELIXIR node within twelve months after the end of the EE-TtT course.
 
