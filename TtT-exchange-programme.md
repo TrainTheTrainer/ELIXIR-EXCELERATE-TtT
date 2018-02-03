@@ -6,8 +6,7 @@ Allegra Via: allegra.via@uniroma1.it
 
 ### Applications
 
-For the TtT course in Lausanne (30-31 Jan, 2018) you can apply by simply sending an email to both contacts.
-For future TtT courses, you will find instructions on how to apply directly in the course's application form. 
+You can apply directly in the TtT course's application form, by answering "yes" to the questions on the EXCELERATE TtT Exchange Programme.
 
 ### The Programme
 
@@ -22,7 +21,7 @@ The Exchange Programme will provide EE-TtT participants with  the opportunity to
 - Eligible applicants: EE-TtT course participants. 
 
 **Travel grant Type 2** 
-- Purpose: To enable successful applicants to travel to a different Node to participate in the delivery of  a bioinformatics course as an trainer, thus practicing the skills acquired in the EE-TtT course. 
+- Purpose: To enable successful applicants to travel to a different Node to participate in the delivery of  a bioinformatics course as a trainer, thus practicing the skills acquired in the EE-TtT course. 
 - Number of travel grants: Up to 8 grants will be available for each EE-TtT course.
 - Eligible applicants: EE-TtT course completers (EE-TtT participants who have attended an  EE-TtT course in full).
 
