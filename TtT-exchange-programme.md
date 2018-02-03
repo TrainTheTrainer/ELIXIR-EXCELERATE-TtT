@@ -25,7 +25,9 @@ The Exchange Programme will provide EE-TtT participants with  the opportunity to
 - Number of travel grants: Up to 8 grants will be available for each EE-TtT course.
 - Eligible applicants: EE-TtT course completers (EE-TtT participants who have attended an  EE-TtT course in full).
 
-The travel grant can only be used to cover travel costs, accommodation and per diem. The funding can not be used to cover salaries, bursaries or administrative costs.
+The travel grant can only be used to cover travel costs and accommodation. The funding cannot be used to cover salaries, bursaries or administrative costs. 
+
+Expenses will be reimbursed after the event, by completing a Visitor Expense Claim Form, signed and supported with original receipts. The form must be posted to the address indicated on the form. Expenses should be submitted within one month of course attendance. For further details about expenses reimbursement, please contact admin@elixir-europe.org.
 
 ### Eligibility requirements 
 
