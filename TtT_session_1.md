@@ -254,7 +254,7 @@ In order to write learning outcomes, you can use the following scheme:
 4) Avoid verbs that are open to many interpretations: appreciate, have faith in, know, learn, understand, believe
 5) Keep in mind that learning outcomes can be as specific as you want. You may even think about a different learning outcome for each task you assign to learners. 
 
-[Here](doc/learning-outcomes.md) you will find a web-resource as well as a list of measurable verbs to assist you in writing and assessing learning outcomes.
+[Here](docs/learning-outcomes.md) you will find a web-resource as well as a list of measurable verbs to assist you in writing and assessing learning outcomes.
 
 >### Challenge
 >
