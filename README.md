@@ -4,8 +4,8 @@
 
 **Instructors:**
 
-**Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
-**Patricia Palagi**, ELIXIR-CH <br>
+**Allegra Via**, ELIXIR-IT, IBPM-CNR, Italy <br>
+**Patricia Palagi**, ELIXIR-CH, SIB, Switzerland <br>
 
 ##
 
