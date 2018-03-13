@@ -1,6 +1,6 @@
 # ELIXIR-EXCELERATE Train the Trainer
 
-#  Course at University of Lausanne, Lausanne, Switzerland.
+#  Course at Institute Pasteur Paris, 26th - 27th March 2018
 
 **Instructors:**
 
@@ -11,7 +11,7 @@
 
 **Purpose:**
 
-ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
+ELIXIR France, ELIXIR-IT/IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
 
 The course is made up of four sessions, covering:
 
