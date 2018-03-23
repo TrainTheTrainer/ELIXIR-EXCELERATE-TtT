@@ -20,7 +20,7 @@ The course is made up of four sessions, covering:
 * [Assessment and feedback in training](./TtT_session_4.md)
 * [Session, course, and materials design](./TtT_session_3.md)
 
-During the course, TtT participants will act as observers and training assistants in the RNA-Seq data analysis course for the duration of a session (2h).
+During the course, TtT participants will act as observers and training assistants in the Software Carpentry workshop for the duration of a session (2h).
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
