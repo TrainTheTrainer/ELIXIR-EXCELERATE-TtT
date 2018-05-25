@@ -1,9 +1,5 @@
 # ELIXIR-EXCELERATE Train the Trainer
 
-**Purpose:**
-
-The ELIXIR-EXCELERATE Train-The-Trainer programme is pleased to announce a Train the Trainer (TtT) event.
-
 The course is made up of four sessions, covering:
 
 * [Learning principles and how they apply to training](./TtT_session_1.md)
