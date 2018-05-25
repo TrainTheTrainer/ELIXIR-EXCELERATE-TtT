@@ -1,17 +1,8 @@
 # ELIXIR-EXCELERATE Train the Trainer
 
-#  Course at Institute Pasteur Paris, 26th - 27th March 2018
-
-**Instructors:**
-
-**Allegra Via**, ELIXIR-IT, IBPM-CNR, Italy <br>
-**Patricia Palagi**, ELIXIR-CH, SIB, Switzerland <br>
-
-##
-
 **Purpose:**
 
-ELIXIR France, ELIXIR-IT/IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
+The ELIXIR-EXCELERATE Train-The-Trainer programme is pleased to announce a Train the Trainer (TtT) event.
 
 The course is made up of four sessions, covering:
 
@@ -20,7 +11,6 @@ The course is made up of four sessions, covering:
 * [Assessment and feedback in training](./TtT_session_4.md)
 * [Session, course, and materials design](./TtT_session_3.md)
 
-During the course, TtT participants will act as observers and training assistants in the Software Carpentry workshop for the duration of a session (2h).
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
