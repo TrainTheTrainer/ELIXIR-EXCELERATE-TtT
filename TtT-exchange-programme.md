@@ -1,4 +1,4 @@
-## ELIXIR-EXCELERATE Train the Trainer Exchange Programme
+## ELIXIR Train the Trainer Exchange Programme
 
 ### Contacts: 
 Patricia Palagi: Patricia.Palagi@sib.swiss <br>
@@ -6,7 +6,7 @@ Allegra Via: allegra.via@uniroma1.it
 
 ### Applications
 
-You can apply directly in the TtT course's application form, by answering "yes" to the questions on the EXCELERATE TtT Exchange Programme.
+You can apply directly in the TtT course's application form, by answering "yes" to the questions on the TtT Exchange Programme.
 
 ### The Programme
 
