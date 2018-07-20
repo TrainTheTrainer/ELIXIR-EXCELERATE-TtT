@@ -107,7 +107,7 @@ What it is important to know is that there is not a universal theory of learning
 - **Principle P4**:	To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
 - **Principle P5**:	Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
 - **Principle P6**:	Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
-- **Principle P7**:	To become self-directd leaners, students must learn to monitor and adjust their approaches to learning.
+- **Principle P7**:	To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
 
 We are not going to discuss these principles one by one, but you will notice that our pedagogical model strongly draws on them.
 
@@ -263,7 +263,7 @@ In order to write learning outcomes, you can use the following scheme:
 
 ### The acquisition of skills: novice, competent practicionner, expert
 Another model of learning, which is somehow related to the Bloom's six categories of cognitive skills, is based on the [Dreyfus model of skill acquisition] (http://journals.sagepub.com/doi/10.1177/0270467604265061) (see the [Dreyfus model on Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) and the [work of Patricia Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook- %2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format))
-This model suggests that learners acquire skills through disting stages of learning. Dreyfus identifies five stages:
+This model suggests that learners acquire skills through distinct stages of learning. Dreyfus identifies five stages:
 
 ![Dreyfus model](fig/dreyfus-skill-acquisition-model.jpg)
 
