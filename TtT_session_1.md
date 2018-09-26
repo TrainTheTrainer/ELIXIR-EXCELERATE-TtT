@@ -262,7 +262,8 @@ In order to write learning outcomes, you can use the following scheme:
 >
 
 ### The acquisition of skills: novice, competent practicionner, expert
-Another model of learning, which is somehow related to the Bloom's six categories of cognitive skills, is based on the [Dreyfus model of skill acquisition](http://journals.sagepub.com/doi/10.1177/0270467604265061) (see the [Dreyfus model on Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) and the [work of Patricia Benner] (https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook- %2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format) )
+Another model of learning, which is somehow related to the Bloom's six categories of cognitive skills, is based on the [Dreyfus model of skill acquisition](http://journals.sagepub.com/doi/10.1177/0270467604265061). 
+See the [Dreyfus model on Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) and the [work of Patricia Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook-%2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format).
 This model suggests that learners acquire skills through distinct stages of learning. Dreyfus identifies five stages:
 
 ![Dreyfus model](fig/dreyfus-skill-acquisition-model.jpg)
