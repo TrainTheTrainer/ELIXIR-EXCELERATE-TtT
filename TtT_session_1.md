@@ -44,7 +44,7 @@ Out of this set, we propose a minimal subset of specific terms and concepts, tha
 <a name="learn"></a> 
 ---
 
->### Challenge: How do you go about learning something new ? How do you approach learning new things? (3 min + 5 min)
+> ### Challenge: How do you go about learning something new ? How do you approach learning new things? (3 min + 5 min)
 <!--
 > - Read about it
 > - Attend a training session !
@@ -128,7 +128,7 @@ Our pedagogical model is based on the following concepts, ideas, and models:
 ### Teaching or Training?
 <a name="teach"></a>
 
->### Challenge: Based on your experience, what are in your opinion the differences between teaching and training? (5 min)
+> ### Challenge: Based on your experience, what are in your opinion the differences between teaching and training? (5 min)
 
 > Make a list of three main differences. Discuss with your partner(s). Write each on a different sticky note.
 >
@@ -154,7 +154,7 @@ And here is a list of differences adapted from [http://www.differencebetween.com
 *  In order to build up as a competent professional, a person needs to have a go on understanding about the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and sort of complementary concepts.
 
 
->#### "Instructor" *vs* "teacher" and "learner *vs* student"
+> #### "Instructor" *vs* "teacher" and "learner *vs* student"
 In the context of training, we will prefer to use the term **instructor** instead of teacher or professor. We will tend to use the term **learner** instead of student. These choices are adopted just because they are more encompassing.
 
 <a name="learning"></a>
@@ -218,7 +218,7 @@ In defining the learning objectives and outcomes for your session or course, in 
 
 **See also** the [PDF] (docs/Objectives_vs_Outcomes.pdf) document from the [Rensselaer Polytechnic Institute Office of the Provost](http://provost.rpi.edu/institutional-research)
 
->#### Learning objectives and learning outcomes
+> #### Learning objectives and learning outcomes
 >
 >These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
 >
@@ -291,7 +291,7 @@ A mental model is a collection of concepts and facts, along with the relationshi
 ![Mental model example](fig/mental-model-example.png)
 
 
->### Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
+> ### Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
 > - Think about yourself as a learner. 
 > - How did you feel about something new when you were a student? How was to be a novice? Can you remember it?
 > - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but have no clues about painting techniques and the theory of colours). Does it happen sometimes?
@@ -318,7 +318,7 @@ This implies that instructors have to pay particular attention to this need and 
 - **Principle P1**:	Students' prior knowledge can help or hinder learning.
 - **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
 
-####How can prior knowledge hinder learning? 
+#### How can prior knowledge hinder learning? 
 
 In many cases, prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed “misconceptions” and can impede learning by making it more difficult for learners to incorporate new, correct information into their mental models.
 
@@ -359,15 +359,15 @@ The fact that working memory has limited space, implies that thinking becomes in
 
 In order to facilitate comprehension, thinking and learning, it is necessary to make room in working memory. This makes it easier to relate ideas, and therefore to comprehend and critically think. 
 
-###What can we do to make room in working memory?
+### What can we do to make room in working memory?
 
 - Increase our background knowledge
 - Avoid extraneous cognitive load
 
-####Increase our background knowledge
+#### Increase our background knowledge
 We can increase background knowledge (both factual and procedural). Indeed, it has been shown that background knowledge is essential to reading comprehension, critical thinking and is necessary for cognitive skills and learning. 
 
->###Challenge (Willingham, 2009): How many letters can you remember?
+> ### Challenge (Willingham, 2009): How many letters can you remember?
 >X C N <br>
 >N P H <br>
 >D F B <br>
