@@ -73,7 +73,7 @@ Out of this set, we propose a minimal subset of specific terms and concepts, tha
 - Learning is a change in the long term memory
 
 #### Which learning theory?
-Researchers in the field of cognitive sciences and educational psychology (the science of learning and teaching) have proposed a large number of learning theories. See for example the Holistic Approach to Techonology Enhanced Learning ([HoTEL](http://hotel-project.eu/sites/default/files/Learning_Theory_v6_web/Learning Theory.html)) website. 
+Researchers in the field of cognitive sciences and educational psychology (the science of learning and teaching) have proposed a large number of learning theories. See for example the Holistic Approach to Techonology Enhanced Learning ([HoTEL](http://cmapspublic3.ihmc.us/rid=1LNV3H2J9-HWSVMQ-13LH/Learning%20Theory.cmap)) website. 
 Which ones should we rely on? Which one should we learn, teach and apply?
 
 Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed having the child learner in mind, so some aspects that reflect this bias will not apply to our activity. Adults' learning differs from children learning
