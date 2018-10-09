@@ -111,7 +111,7 @@ What it is important to know is that there is not a universal theory of learning
 
 We are not going to discuss these principles one by one, but you will notice that our pedagogical model strongly draws on them.
 
-##Our pedagogical approach
+## Our pedagogical approach
 <a name="learn"></a> 
 
 Our pedagogical model is based on the following concepts, ideas, and models:
