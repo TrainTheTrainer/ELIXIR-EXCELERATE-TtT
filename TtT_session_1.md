@@ -1,7 +1,7 @@
 
 # Session 1
 
-## Principles of learning and how they apply to training
+## Review of learning principles and how they apply to training and teaching
 
 ## Topics of session 1
  * [How learning works](#learn)
@@ -459,14 +459,8 @@ Cognitive load theory’s proponents claim that eliminating extraneous cognitive
 
 ## Active learning
 
-> “I hear and I forget. I see and I remember. I do and I understand.”
-– Confucius
 
 >"Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly." (Waldrop, Nature 2015).
-
-
-![What people remember](fig/what_people_remember.jpg)
-
 
 Active learning requires students to participate in class, as opposed to sitting and listening quietly. Strategies include, but are not limited to, brief question-and-answer sessions, discussion integrated into the lecture, impromptu writing assignments, hands-on activities and experiential learning events. 
 
