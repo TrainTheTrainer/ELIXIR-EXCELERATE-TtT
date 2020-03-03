@@ -137,7 +137,7 @@ Our pedagogical model is based on the following concepts, ideas, and models:
 Here are sample definitions:
 
 * **TEACHING**: Teaching is a process of educating a person with theoretical concepts and is a kind of a knowledge transfer between a teacher and a student. The role of the teacher is to act as a facilitator of learning by leading discussions, providing opportunities to ask open-ended questions, guiding the processes and tasks and enabling the active participation of learners and to engage with ideas ([source](http://www.differencebetween.com/difference-between-teaching-and-vs-training/)).
-* **TRAINING**: Training is an approach used in short and intensive courses to build a person’s skills, knowledge and attitudes on a specific subject. Even though the person has attained the highest academic qualifications, still she may want or need to aquire specific knowledge and skills on a given topic.
+* **TRAINING**: Training is an approach used in short and intensive courses to build a person’s skills, knowledge and attitudes on a specific subject. Even though the person has attained the highest academic qualifications, still she may want or need to acquire specific knowledge and skills on a given topic.
 
 And here is a list of differences adapted from [http://www.differencebetween.com/difference-between-teaching-and-vs-training/](http://www.differencebetween.com/difference-between-teaching-and-vs-training/):
 
