@@ -44,11 +44,11 @@ Out of this set, we propose a minimal subset of specific terms and concepts, tha
 <a name="learn"></a> 
 ---
 
-> ### Challenge: How do you go about learning something new ? How do you approach learning new things? (3 min + 5 min)
+> ### Challenge: How do you go about learning something new? How do you approach learning new things? (3 min + 5 min)
 <!--
 > - Read about it
-> - Attend a training session !
-> - Have a go ?
+> - Attend a training session!
+> - Have a go?
 > - Do, reflect, process, further understand?
 >
 --> 
@@ -99,7 +99,7 @@ Connectivism is at the root of many present movements in learning, sometimes in 
 For a large number of reasons that we can - and should - discuss at length, connectivism is the standpoint that we find most suitable to support most of the design and implementation decisions in what concerns the training courses that we are concentrating on.
 
 You have to know that some theories were validated by several experiments, whereas others were never confirmed. 
-What it is important to know is that there is not a universal theory of learning but a number of evidence-based research results supporting some learning principles, which are today accepted and applied in several communities of practice. These principles are very well expressed in ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101):
+What is important to know is that there is no universal theory of learning but a number of evidence-based research results supporting some learning principles, which are today accepted and applied in several communities of practice. Those principles are very well expressed in ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101):
 
 - **Principle P1**:	Students' prior knowledge can help or hinder learning.
 - **Principle P2**:	How students organise knowledge influences how they learn and apply what they know.
@@ -137,7 +137,7 @@ Our pedagogical model is based on the following concepts, ideas, and models:
 Here are sample definitions:
 
 * **TEACHING**: Teaching is a process of educating a person with theoretical concepts and is a kind of a knowledge transfer between a teacher and a student. The role of the teacher is to act as a facilitator of learning by leading discussions, providing opportunities to ask open-ended questions, guiding the processes and tasks and enabling the active participation of learners and to engage with ideas ([source](http://www.differencebetween.com/difference-between-teaching-and-vs-training/)).
-* **TRAINING**: Training is an approach used in short and intensive courses to build a person’s skills, knowledge and attitudes on a specific subject. Even though the person has attained the highest academic qualifications, still she may want or need to aquire specific knowledge and skills on a given topic.
+* **TRAINING**: Training is an approach used in short and intensive courses to build a person’s skills, knowledge and attitudes on a specific subject. Even though the person has attained the highest academic qualifications, still she may want or need to acquire specific knowledge and skills on a given topic.
 
 And here is a list of differences adapted from [http://www.differencebetween.com/difference-between-teaching-and-vs-training/](http://www.differencebetween.com/difference-between-teaching-and-vs-training/):
 
@@ -151,7 +151,7 @@ And here is a list of differences adapted from [http://www.differencebetween.com
 * Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training may encompass teaching;
 * Teaching may also include typical training activities and goals, such as practicals; 
 * Despite teaching and training techniques may sometime differ, the difference between training and teaching is not related with the process itself but with the focus: training generally has a more specific focus than teaching;
-*  In order to build up as a competent professional, a person needs to have a go on understanding about the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and sort of complementary concepts.
+*  In order to build up as a competent professional, a person needs to have a go on understanding of the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and sort of complementary concepts.
 
 
 > #### "Instructor" *vs* "teacher" and "learner *vs* student"
@@ -212,7 +212,7 @@ In defining the learning objectives and outcomes for your session or course, in 
 >
 ---
 
-**Objectives** are statements of what you are setting out to teach, although expressed as if the students were going to learn it. Despite Aims are usually intended to be more general and encompassing than Objectives, they are essential the same.
+**Objectives** are statements of what you are setting out to teach, although expressed as if the students were going to learn it. Despite Aims are usually intended to be more general and encompassing than Objectives, they are essentially the same.
 
 **Outcomes** (more accurately “desired outcomes”) are statements of what you might (in principle) assess. You may not end up assessing all of them, but they are statements of what a student will know or be able to do, if she or he has learned everything in the course or session.
 
@@ -220,7 +220,7 @@ In defining the learning objectives and outcomes for your session or course, in 
 
 > #### Learning objectives and learning outcomes
 >
->These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
+>These two terms are often used interchangeably by the community. Even worse, they are often abbreviated by the acronym (LO), thus introducing even more ambiguity. In our opinion there is no need for that. Objectives (aims or goals) and Outcomes (results) may overlap, but are not genuinely the same.
 >
 >Furthermore, American educational psychologists tend to use "Learning Objectives" to mean "Learning Outcomes" and "Teaching aims, goals or objectives" to mean "Learning Objectives".
 
@@ -261,7 +261,7 @@ In order to write learning outcomes, you can use the following scheme:
 >Write a Teaching Objective AND a Learning Outcome for a session or a course you usually deliver.
 >
 
-### The acquisition of skills: novice, competent practicionner, expert
+### The acquisition of skills: novice, competent practicioner, expert
 Another model of learning, which is somehow related to the Bloom's six categories of cognitive skills, is based on the [Dreyfus model of skill acquisition](http://journals.sagepub.com/doi/10.1177/0270467604265061). 
 See the [Dreyfus model on Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) and the [work of Patricia Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook-%2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format).
 This model suggests that learners acquire skills through distinct stages of learning. Dreyfus identifies five stages:
@@ -269,7 +269,7 @@ This model suggests that learners acquire skills through distinct stages of lear
 ![Dreyfus model](fig/dreyfus-skill-acquisition-model.jpg)
 
 > #### From the [Carpentry Instructor Training](http://carpentries.github.io/instructor-training/) 
-> The carpentries propose a simplified form of the model consisting in:
+> The carpentries propose a simplified form of the model consisting of:
 
 > **Novice**: someone who doesn’t even know what questions to ask.
 
@@ -295,7 +295,7 @@ A mental model is a collection of concepts and facts, along with the relationshi
 > ### Challenge: What are the main differences between a novice and an expert in terms of knowledge and learning?
 > - Think about yourself as a learner. 
 > - How did you feel about something new when you were a student? How was to be a novice? Can you remember it?
-> - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide you want to learn painting but have no clues about painting techniques and the theory of colours). Does it happen sometimes?
+> - How do you feel today when you have/want to learn something completely new to you? (e.g. you decide that you want to learn painting but have no clues about painting techniques and the theory of colours). Does it happen sometimes?
 > - How do you feel when you have to learn something new *in your field*? Namely, something that is an extension of your current knowledge about something (e.g. you know well a given OS and you need to learn how a different OS works).
 > - Write at least two things in which novices and experts differ regarding knowledge.
 > - Write at least two things in which novices and experts differ regarding learning.
@@ -344,7 +344,7 @@ Another very simple model of the mind, is the following (Willingham, 2009):
 
 **Working memory**: component of your mind (synonymous of consciousness). It is where thinking occurs. It is the part of your mind where you are aware of what is around you.
 
-**Long-term memory**: vast storehousein which you mantain your factual knowledge of the world. Information in long-term memory resides outside of awareness.
+**Long-term memory**: vast storehouse in which you mantain your factual knowledge of the world. Information in long-term memory resides outside of awareness.
 
 Thinking occurs when you combine information (from the environment and long-tern memory) in new ways. That combining happens in working memory.
 
@@ -453,7 +453,7 @@ Cognitive load theory’s proponents claim that eliminating extraneous cognitive
 > From Ambrose et al. 2010
 ![effects on motivation](fig/motivation-ambrose.jpg)
 >**Value**: the goal is valued (attainment value - satisfaction that one gains from mastery and accomplishment of a goal or task -, intrinsic value and motivation - the satisfaction that one gains simply from doing the task rather than from a parricular outcome of the task, instrumental value/extrinsic rewards - praise, punlic recognition, money, material goods, an interesting career, a high-status job, etc.) <br>
->**Efficacy**: positive outcomes expectancies for success (growth vs fixed mindset) - Efficacy expetancies represent the belief that onw is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). So, in order to hold a positive expectancy for success, a student must not only believe that doing the assigned work can earn a passing grade (growth mindset), she must also believe that she is capable of doing the work necessary to earn a passing grade<br>
+>**Efficacy**: positive outcomes expectancies for success (growth vs fixed mindset) - Efficacy expetancies represent the belief that one is capable of identifying, organising, initiating, and executing a course of action that will bring about a desired outcome (Bandura, 1997). So, in order to hold a positive expectancy for success, a student must not only believe that doing the assigned work can earn a passing grade (growth mindset), she must also believe that she is capable of doing the work necessary to earn a passing grade<br>
 >**Environment**: complex dynamics of the classroom, its tone, the interpersonal forces at play, the nature and structure of communication patterns. E.g. "The instructor is approachable and several of my classmates seem willing to help me if I run into troubles". <br>
 
 
@@ -503,7 +503,7 @@ Source: https://www.psychologytoday.com/basics/priming
 
 Priming in Training
 
-Active learning environmemnts can benefit from what is known about priming. Careful training designs can expose learners to materials that prime the subject matter positively. By showing infographics or diagrams that summarise essential items that need to be memorised to fully understand or recall a subject.  In pretty much the same way, exposure to high impact videos can very effectively impact learning with negative priming, for example while instructors are inducing the learners to replace preconceived ideas or myths. Quite often, certain learners need this kind of help to articulate ways of freeing "space" for novel learning to take place.
+Active learning environmemnts can benefit from what is known about priming. Careful training designs can expose learners to materials that prime the subject matter positively. By showing infographics or diagrams that summarise essential items that need to be memorised to fully understand or recall a subject. In pretty much the same way, exposure to high impact videos can very effectively impact learning with negative priming, for example while instructors are inducing the learners to replace preconceived ideas or myths. Quite often, certain learners need this kind of help to articulate ways of freeing "space" for novel learning to take place.
 
 ### What is formal and non-formal learning?
 
@@ -522,7 +522,7 @@ In this concern, a bioinformatics training course will most often be best classi
 Whereas a semester course in a university would most often be classified as FORMAL and an impromptu demonstration session on RNA-seq could be better classified as INFORMAL learning.
 
 We may pragmatically think of EFFICIENT bioinformatics training provision in the following NON-FORMAL way
-* It provides essentially skills, rather than deep knowledge
+* It provides essential skills, rather than deep knowledge
 * It aims at the acquisition of competences
 * It must focus on the learner (learner-centric)
 * It must guarantee that independently reproducible outcomes are obtained
