@@ -1,4 +1,8 @@
-# ELIXIR-EXCELERATE Train the Trainer
+# Please note that this GitHub repository has been replaced by the ELIXIR-GOBLET Train-the-Trainer - <a href="https://elixir-europe-training.github.io/ELIXIR-TrP-GOBLET-Train-the-Trainer/"><span style="color:red">New ELIXIR-GOBLET Train-the-Trainer GitHub repo</span></a>
+
+# This GitHub repo is not maintained any more since 2020. 
+
+<!--> # ELIXIR-EXCELERATE Train the Trainer
 
 The course is made up of four sessions, covering:
 
@@ -132,3 +136,5 @@ Day 2
 > You will be videoed while presenting in group and receive feedback.
 >
 ---
+
+<-->
